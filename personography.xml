@@ -58,12 +58,16 @@
     <person xml:id="zhaoyanzhao" gender="m" backg="court_off" chinese="赵彦昭"/>
     <person xml:id="lixian" gender="m" backg="emperor" chinese="李显" kinship="son_of_[wuzetian]"/>
     <person xml:id="weisili" gender="m" backg="court_off" chinese="韦嗣立"/>
-    <person xml:id="liyi" gender="m" backg="court_off" chinese="李乂"/>
+    <person xml:id="liyi4" gender="m" backg="court_off" chinese="李乂"/>
     <person xml:id="xin1" gender="m" backg="uc" chinese="辛大"/>
     <person xml:id="wuzetian" gender="f" backg="emperor" chinese="武则天"/>
     <person xml:id="cuirong" gender="m" backg="court_off" chinese="崔融"/>
     <person xml:id="songjing" gender="m" backg="court_off" chinese="宋璟"/>
     <person xml:id="king_zhao" gender="m" backg="arist" chinese="赵王"/>
     <person xml:id="shangguantingzhi" gender="m" backg="court_off" chinese="上官庭芝" kinship="son_of_[shangguanyi]_father_of_[shangguanwaner]"/>
+    <person xml:id="zongchuke" gender="m" backg="court_off" chinese="宗楚客"/>
+    <person xml:id="cheng_li" gender="m" backg="court_off" chinese="李丞"/>
+    <person xml:id="liyi1" gender="m" backg="mili" chinese="李祎"/>
+    <person xml:id="douxijie" gender="m" backg="court_off" chinese="窦希玠"/>
 </persons>
 
