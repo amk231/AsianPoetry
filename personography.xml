@@ -58,7 +58,7 @@
     <person xml:id="zhaoyanzhao" gender="m" backg="court_off" chinese="赵彦昭"/>
     <person xml:id="lixian" gender="m" backg="emperor" chinese="李显" kinship="son_of_[wuzetian]"/>
     <person xml:id="weisili" gender="m" backg="court_off" chinese="韦嗣立"/>
-    <person xml:id="liyi4" gender="m" backg="court_off" chinese="李乂"/>
+    <person xml:id="liyi-4" gender="m" backg="court_off" chinese="李乂"/>
     <person xml:id="xin1" gender="m" backg="uc" chinese="辛大"/>
     <person xml:id="wuzetian" gender="f" backg="emperor" chinese="武则天"/>
     <person xml:id="cuirong" gender="m" backg="court_off" chinese="崔融"/>
@@ -67,7 +67,28 @@
     <person xml:id="shangguantingzhi" gender="m" backg="court_off" chinese="上官庭芝" kinship="son_of_[shangguanyi]_father_of_[shangguanwaner]"/>
     <person xml:id="zongchuke" gender="m" backg="court_off" chinese="宗楚客"/>
     <person xml:id="cheng_li" gender="m" backg="court_off" chinese="李丞"/>
-    <person xml:id="liyi1" gender="m" backg="mili" chinese="李祎"/>
+    <person xml:id="liyi-1" gender="m" backg="mili" chinese="李祎"/>
     <person xml:id="douxijie" gender="m" backg="court_off" chinese="窦希玠"/>
+    <person xml:id="yuanqianyao" gender="m" backg="court_off" chinese="源乾曜"/>
+    <person xml:id="wife_libai" gender="f" backg="uc" chinese="内" kinship="wife_libai"/>
+    <person xml:id="gao6" gender="m" backg="uc" chinese="高六"/>
+    <person xml:id="peimin" gender="m" backg="mili" chinese="裴旻"/>
+    <person xml:id="xujingzong" gender="m" backg="court_off" chinese="许敬宗"/>
+    <person xml:id="liningzhi" gender="m" backg="uc" chinese="李凝之" kinship="bro"/>
+    <person xml:id="shi_cui" gender="f" backg="uc" chinese="崔氏" kinship="wife_liningzhi"/>
+    <person xml:id="panguan_wei" gender="m" backg="prov_off" chinese="魏判官"/>
+    <person xml:id="pei18" gender="m" backg="uc" chinese="裴十八"/>
+    <person xml:id="cuishu" gender="m" backg="prov_off" chinese="崔曙"/>
+    <person xml:id="zhengling" gender="m" backg="uc" chinese="郑陵"/>
+    <person xml:id="langyuling" gender="m" backg="court_off" chinese="郎馀令"/>
+    <person xml:id="wangmian" gender="m" backg="prov_off" chinese="王勔" kinship="bro_wangbo"/>
+    <person xml:id="xuhao" gender="m" backg="uc" chinese="徐皓"/>
+    <person xml:id="wangmaoshi" gender="m" backg="uc" chinese="王茂时"/>
+    <person xml:id="fashi_hui" gender="m" backg="buddhism" chinese="惠法师"/>
+    <person xml:id="mishu_wei" gender="m" backg="court_off" chinese="韦秘书"/>
+    <person xml:id="tangyongchang" gender="m" backg="court_off" chinese="唐永昌"/>
+    <person xml:id="yanchaoyin" gender="m" backg="court_off" chinese="阎朝隐"/>
+    <person xml:id="cui15" gender="m" backg="uc" chinese="崔十五"/>
+    
 </persons>
 
