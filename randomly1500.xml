@@ -6,7 +6,7 @@
 <title>奉和<person ref="lilongji">圣制</person>春日幸望****应制, <author ref="zhangyue">张说</author></title>
 <title>酬<person ref="zhangxia">张夏</person>别后道中见寄, <author ref="liuchangqing">刘长卿</author></title>
 <title><person ref="lilongji">奉和圣制</person>送<person ref="fumenglingcha">不蒙都护兼鸿胪卿</person>归安西应制, <author ref="王维">王维</author></title>
-<title><person ref="lilongji">奉和圣制</person>同<person ref="zhangyue"/><person ref="xuanzhen"/>二相南出雀鼠谷, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi/><person ref="zhangjiuling"/><person ref="suting"/><person ref="zhaodongxi"/><person ref="lilongji">奉和圣制</person>同<person ref="zhangyue"/><person ref="xuanzhen"/>二相南出雀鼠谷, <author ref="zhangjiuling">张九龄</author></title>
 <title>临高台送<person ref="lixin">黎拾遗</person>, <author ref="wangwei">王维</author></title>
 <title>鲁郡尧祠送<person ref="wu5">吴五</person>之琅琊, <author ref="libai">李白</author></title>
 <title>和<person ref="zhubu_du">杜主簿</person>春日有所思, <author ref="suting">苏颋</author></title>
@@ -57,53 +57,30 @@
 <title><send-off/>饯<person ref="tangyongchang">唐永昌</person>, <author ref="yanchaoyin">阎朝隐</author></title>
 <title><yingzhi/>上巳日祓禊渭滨<person ref="lixian">应制</person>, <author ref="weisili">韦嗣立</author></title>
 <title>酬<person ref="cui15">崔十五</person>见招, <author ref="libai">李白</author></title>
-<title>秋山夕兴, <author ref="陶翰">陶翰</author></title>
-<title>延英殿玉灵芝诗三章，章八句, <author ref="李亨">李亨</author></title>
-<title>春望寄王涔阳, <author ref="刘长卿">刘长卿</author></title>
-<title>关山月, <author ref="崔融1">崔融1</author></title>
-<title>鹦鹉猫儿篇, <author ref="阎朝隐">阎朝隐</author></title>
-<title>景龙二年余自门下平章事削阶授江州员外司马…途中言志, <author ref="崔湜">崔湜</author></title>
-<title>题石窟（寺魏孝文所置）, <author ref="宋昱">宋昱</author></title>
-<title>上阳宫侍宴应制得林字, <author ref="宋之问">宋之问</author></title>
-<title>三月李明府后亭泛舟（一作皇甫冉诗）, <author ref="刘长卿">刘长卿</author></title>
-<title>浣纱女, <author ref="王昌龄">王昌龄</author></title>
-<title>故南阳夫人樊氏挽歌, <author ref="王维">王维</author></title>
-<title>从军行, <author ref="贺朝">贺朝</author></title>
-<title>秋浦寄内, <author ref="李白">李白</author></title>
-<title>舟中晓望, <author ref="孟浩然">孟浩然</author></title>
-<title>答王无功问故园, <author ref="朱仲晦">朱仲晦</author></title>
-<title>笛（一作宋之问诗）, <author ref="李峤">李峤</author></title>
-<title>和尹懋秋夜游灉湖二首, <author ref="张均">张均</author></title>
-<title>送胡真师还西山, <author ref="李隆基">李隆基</author></title>
-<title>送薛植入京, <author ref="张说">张说</author></title>
-<title>奉和圣制赐史供奉曲江宴应制, <author ref="王维">王维</author></title>
-<title>与琳法师, <author ref="毛明素">毛明素</author></title>
-<title>晚次乐乡县, <author ref="陈子昂">陈子昂</author></title>
-<title>寻徐山人遇马舍人, <author ref="储光羲">储光羲</author></title>
-<title>自昌乐郡溯流至白石岭下行入郴州, <author ref="沈佺期">沈佺期</author></title>
-<title>高楼夜弹筝, <author ref="常建">常建</author></title>
-<title>奉和圣制答张说出雀鼠谷, <author ref="苏颋">苏颋</author></title>
-<title>奉和幸韦嗣立山庄应制, <author ref="苏颋">苏颋</author></title>
-<title>除夜有怀, <author ref="杜审言">杜审言</author></title>
-<title>鸿门行, <author ref="袁瓘">袁瓘</author></title>
-<title>王昭君二首, <author ref="李白">李白</author></title>
-<title>赠刘舍人古意, <author ref="徐彦伯">徐彦伯</author></title>
-<title>经陆补阙隐居, <author ref="綦毋潜">綦毋潜</author></title>
-<title>策杖寻隐士, <author ref="王绩">王绩</author></title>
-<title>春日与裴迪过新昌里访吕逸人不遇, <author ref="王维">王维</author></title>
-<title>望终南山, <author ref="李世民">李世民</author></title>
-<title>酬皇甫侍御见寄，时前相国姑臧公初临郡, <author ref="刘长卿">刘长卿</author></title>
-<title>游灵山寺, <author ref="刘孝孙">刘孝孙</author></title>
-<title>过大哥宅探得歌字韵, <author ref="李隆基">李隆基</author></title>
-<title>望人家桃李花, <author ref="贺知章">贺知章</author></title>
-<title>醉后赠王历阳（历阳，和州也）, <author ref="李白">李白</author></title>
-<title>春朝闲步, <author ref="杨师道">杨师道</author></title>
-<title>赠右台监察邓茂迁左台殿中, <author ref="刘怀一">刘怀一</author></title>
-<title>洞庭驿逢郴州使还，寄李汤司马, <author ref="刘长卿">刘长卿</author></title>
-<title>边夜有怀, <author ref="骆宾王">骆宾王</author></title>
-<title>送康太守, <author ref="王维">王维</author></title>
-<title>别弟缙后登青龙寺望蓝田山, <author ref="王维">王维</author></title>
-<title>正夜侍宴应诏（《英华》作正月望夜上阳宫侍宴应制）, <author ref="薛曜">薛曜</author></title>
+<title>春望寄<person ref="cenyang_wang">王涔阳</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><feast/><yingzhi/><person ref="xueyao"/><person ref="zongchuke"/>上阳宫侍宴<person ref="lixian">应制</person>得林字, <author ref="songzhiwen">宋之问</author></title>
+<title>三月<person ref="mingfu_li">李明府</person>后亭泛舟（一作皇甫冉诗）, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/>故<person ref="shi_fan">南阳夫人樊氏</person>挽歌, <author ref="wangwei">王维</author></title>
+<title>秋浦寄<person ref="wife_libai">内</person>, <author ref="libai">李白</author></title>
+<title>答<person ref="wangji">王无功</person>问故园, <author ref="zhuzhonghui">朱仲晦</author></title>
+<title>和<person ref="yinmao">尹懋</person>秋夜游灉湖二首, <author ref="zhangjun">张均</author></title>
+<title>送<person ref="zhenshi_hu">胡真师</person>还西山, <author ref="lilongji">李隆基</author></title>
+<title>送<person ref="xuezhi">薛植</person>入京, <author ref="zhangyue">张说</author></title>
+<title><person ref="lilongji">奉和圣制</person>赐<person ref="gongfeng_shi">史供奉</person>曲江宴应制, <author ref="wangwei">王维</author></title>
+<title>与<person ref="fashi_Lin">琳法师</person>, <author ref="maomingsu">毛明素</author></title>
+<title>寻<person ref="shanren_xu">徐山人</person>遇<person ref="sheren_ma">马舍人</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi/><person ref="zhangjiuling"/><person ref="zhaodongxi"/><person ref="lilongji">奉和圣制</person>答<person ref="zhangyue">张说</person>出雀鼠谷, <author ref="suting">苏颋</author></title>
+<title><person ref="lixian">奉和</person>幸<person ref="weisili">韦嗣立</person>山庄应制, <author ref="suting">苏颋</author></title>
+<title>赠<person ref="sheren_liu">刘舍人</person>古意, <author ref="xuyanbo">徐彦伯</author></title>
+<title>春日与<person ref="peidi">裴迪</person>过新昌里访<person ref="yiren_lv">吕逸人</person>不遇, <author ref="wangwei">王维</author></title>
+<title>酬<person ref="shiyu_huangfu">皇甫侍御</person>见寄，时前相国姑臧公初临郡, <author ref="liuchangqing">刘长卿</author></title>
+<title>过<person ref="lixian-4">大哥</person>宅探得歌字韵, <author ref="lilongji">李隆基</author></title>
+<title>醉后赠<person ref="liyang_wang">王历阳</person>（历阳，和州也）, <author ref="libai">李白</author></title>
+<title>赠右台监察<person ref="dengmao">邓茂</person>迁左台殿中, <author ref="liuhuaiyi">刘怀一</author></title>
+<title>洞庭驿逢<person ref="envoy_chenzhou">郴州使</person>还，寄<person ref="sima_li">李汤司马</person><person ref="sima_tang"/>, <author ref="liuchangqing">刘长卿</author></title>
+<title>送<person ref="taishou_kang">康太守</person>, <author ref="wangwei">王维</author></title>
+<title>别<person ref="wangjin">弟缙</person>后登青龙寺望蓝田山, <author ref="wangwei">王维</author></title>
+<title><feast/>正夜侍宴应诏（《英华》作正月望夜上阳宫侍宴应制）, <author ref="薛曜">薛曜</author></title>
 <title>奉和登陕州城楼应制, <author ref="许敬宗">许敬宗</author></title>
 <title>题画山水障, <author ref="张九龄">张九龄</author></title>
 <title>送章彝下第, <author ref="綦毋潜">綦毋潜</author></title>
