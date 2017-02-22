@@ -1,0 +1,12 @@
+start = Manyoshu
+Manyoshu = element Manyoshu {book_1}
+book_1 = element book_1 {p+}
+p = element p {p_number, author, context?, l+, envoy?}
+p_number = element p_number {text}
+author = element author {sex, text}
+sex = attribute sex {"male" | "female" | "unknown"}
+context = element context {mixed {(location*)}}
+l = element l {mixed {(location*)}}
+location = element location {rg*, text}
+rg = attribute rg {"foreign"}
+envoy = element envoy {mixed { (l+)}}
