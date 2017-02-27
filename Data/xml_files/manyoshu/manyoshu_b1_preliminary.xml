@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="project_book1_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<Manyoshu>
+    <book_1>
+        <p>
+            <p_number>1</p_number>
+            <author sex= "male">Emperor Yuryaku</author>
+            <l>Your basket, with your pretty basket,</l>
+            <l>Your trowel, with your little trowel,</l>
+            <l>Maiden, picking herbs on this hill-side,</l>
+            <l>I would ask you: Where is your home?</l>
+            <l>Will you not tell me your name?</l>
+            <l>Over the spacious Land of <location>Yamato</location></l>
+            <l>It is I who reign so wide and far,</l>
+            <l>It is I who rule so wide and far.</l>
+            <l>I myself, as your lord, will tell you</l>
+            <l>Of my home, and my name.</l> 
+        </p>
+
+        <p>
+            <p_number>2</p_number> 
+            <author sex= "male">Emperor Jomei</author> 
+            <context>Climbing <location>Kagu-yama</location> and looking upon the land.</context>
+            <l>Countless are the mountains in <location>Yamato</location>,</l>
+            <l>But perfect is the heavenly hill of Kagu;</l>
+            <l>When I climb it and survey my realm,</l> 
+            <l>Over the wide plain the smoke-wreaths rise and rise,</l>
+            <l>Over the wide lakes the gulls are on the wing;</l>
+            <l>A beautiful land it is, the Land of <location>Yamato</location>!</l> 
+        </p>
+
+        <p>
+            <p_number>3-4</p_number> 
+            <author sex= "female">Empress Kogyoku</author> 
+            <context>Presented to the Emperor Jomei by a messenger,
+            Hashibito Oyu, on the occasion of his hunting on the <location>plain of Uchi</location>.</context>
+            <l>Hear the twang of the mid-strings</l>
+            <l>Of his royal birchwood bow,</l>
+            <l>Which my Sovereign, ruling in peace,</l>
+            <l>Loves to handle at break of day,</l>            
+            <l>And fondly leans against with dusk.</l>
+            <l>Now he must be out for his morning hunt,</l>
+            <l>Now he must be out for his evening chase;</l>
+            <l>I hear the twang of the mid-string</l>
+            <l>Of his loved birchwood bow!</l>
+            <envoy>
+            <l>With horses drawn abreast</l>
+            <l>On the open waste of Uchi,</l>
+            <l>This morning he must be trampling</l>
+            <l>That grassy land!</l> 
+            </envoy> 
+        </p>
+
+        <p>
+            <p_number>5-6</p_number> 
+            <author sex= "male">Prince Ikusa</author>
+            <context>Seeing the mountains when the Emperor Jomei
+            sojourned in <location>Aya District, Sanuki Province</location>.</context> 
+            <l>Not knowing that the long spring day-</l>
+            <l>The misty day-is spent,</l>
+            <l>Like the 'night-thrush';I grieve within me,</l>
+            <l>As sorely my heart aches.</l>
+            <l>Then across the hills where our Sovereign sojourns,</l>
+            <l>Luckily the breezes blow</l>
+            <l>And turn back my sleeves with morn and eve,</l>
+            <l>As I stay alone;</l>
+            <l>But, being on a journey, grass for pillow,</l>
+            <l>Brave man as I deem me,</l>
+            <l>I know not how to cast off</l>
+            <l>My heavy sorrows;</l>
+            <l>And like the salt-fires the fisher-girls</l>
+            <l>Burn on the shore of Ami,</l>
+            <l>I burn with the fire of longing</l>
+            <l>In my heart.</l> 
+            <envoy>
+            <l>Fitful gusts of wind are blowing</l> 
+            <l>Across the mountain-range,</l>
+            <l>And night after night I lie alone,</l>
+            <l>Yearning for my love at home.</l> 
+            </envoy>
+        </p>
+
+        <p>
+            <p_number>8</p_number> 
+            <author sex= "female">Princess Nukada</author>
+            <l>While at <location>Nigitazu</location> we await the moon</l>
+            <l>To put our ships to sea,</l>
+            <l>With the moon the tide has risen;</l>
+            <l>Now let us embark!</l> 
+        </p>
+
+        <p>
+            <p_number>13-15</p_number>
+            <author sex= "male">Emperor Tenji</author> 
+            <context>The Three Hills.</context> 
+            <l><location>Mount Kagu</location> strove with <location>Mount Miminashi</location></l> 
+            <l>For the love of <location>Mount Unebi</location>.</l>
+            <l>Such is love since the age of the gods;</l>
+            <l>As it was thus in the early days,</l>
+            <l>So people strive for spouses even now.</l> 
+            <envoy>
+            <l>When <location>Mount Kagu</location> and <location>Mount Miminashi</location> wrangled,</l>
+            <l>A god came over and saw it</l>
+            <l>Here-on this plain of Inami!</l>
+            <l>On the rich banner-like clouds</l>
+            <l>That rim the waste of waters</l>
+            <l>The evening sun is glowing,</l> 
+            <l>And promises to-night</l>
+            <l>The moon in beauty!</l> 
+            </envoy>
+        </p>
+
+        <p>
+            <p_number>16</p_number>
+            <author sex= "female">Princess Nukada</author> 
+            <context>When the Emperor Tenji commanded Fujiwara
+            Kamatari, Prime Minister to judge between the luxuriance
+            of the blossoms on the spring hills and the glory of the
+            tinted leaves on the autumn hills, Princess Nukada decided
+            the question with this poem.</context>
+            <l>When, loosened from the winter's bonds,</l>
+            <l>The spring appears,</l>
+            <l>The birds that were silent</l>
+            <l>Come out and sing,</l>
+            <l>The flowers that were prisoned</l>
+            <l>Come out and bloom;</l>
+            <l>But the hills are so rank with trees</l>
+            <l>We cannot seek the flowers,</l>
+            <l>And the flowers ate so tangled with weeds</l>
+            <l>We cannot take them in our hands.</l>
+            <l>But when on the autumn hill-side</l>
+            <l>We see the foliage,</l>
+            <l>We prize the yellow leaves,</l>
+            <l>Taking them in our hands,</l>
+            <l>We sigh over the green ones,</l>
+            <l>Leaving them on the branches;</l>
+            <l>And that is my only regret--</l>
+            <l>For me, the autumn hills!</l>
+        </p>
+        <p>
+            <p_number>17-18</p_number> 
+            <author sex="female">Princess Nukada</author>
+            <context>On the occasion of her journey to <location>Omi</location></context>
+            <l>O That sweet mountain of <location>Miwa</location>--</l>
+            <l>I would go lingering over its sight,</l>
+            <l>Many times looking back from far upon it</l>
+            <l>Till it is hidden beyond the hills of <location>Nara</location></l>
+            <l>And beyond many turnings of the road;</l>
+            <l>Then should the clouds be heartless</l>
+            <l>And conceal the mountain from me?</l>
+            <envoy>
+            <l>Must they veil <location>Mount Miwa</location> so?</l>
+            <l>Even clouds might have compassion;</l>
+            <l>Should ye, O clouds,conceal it from me?</l>
+            </envoy>
+        </p>
+
+        <p>
+            <p_number>28</p_number> 
+            <author sex= "female">Empress Jito</author>
+            <l>Spring has passed away</l>
+            <l>And summer is come;</l> 
+            <l>Look where white clothes are spread in the sun</l>
+            <l>On the heavenly hill of <location>Kagu</location>!</l> 
+        </p>
+
+        <p>
+            <p_number>52-53</p_number> 
+            <author sex= "unknown">Anonymous</author>
+            <context>On the well at the Palace of <location>Fujiwara</location></context> 
+            <l>Our great Sovereign who rules in peace,</l>
+            <l>Offspring of the Bright One on high,</l>
+            <l>Has begun to build her Palace</l>
+            <l>On the plain of <location>Fuji</location>;</l>
+            <l>And standing on the dyke of Lake Haniyasu</l>
+            <l>She looks around her:</l>
+            <l>The green hill of <location>Kagu</location> of <location>Yamato</location></l>
+            <l>Stands at the eastern gate,</l>
+            <l>A luxuriant spring-time hill;</l>
+            <l>Unebi, with its fragrant slopes,</l>
+            <l>Rises at the western gate,</l>
+            <l>Ever fresh and flourishing</l>
+            <l>Its form divine;</l>
+            <l>And the mountains of <location>Yoshinu</location>, of lovely name,</l>
+            <l>Soar into the sky,</l>
+            <l>Far from the southern gate</l>
+            <l>At this towering Palace,</l>
+            <l>The shelter from the sun,</l>
+            <l>The shelter from the sky,</l>
+            <l>The waters will be everlasting,</l>
+            <l>These clear waters of the sacred well!</l>
+            <envoy>
+            <l>The bevies of maidens who will be born</l>
+            <l>And come in succession into service</l>
+            <l>At the mightly Palace of Fujiwara,</l>
+            <l>How I envy their happy lot!</l> 
+            </envoy>
+        </p>
+
+        <p>
+            <p_number>63</p_number>
+            <author sex= "male">Yamanoe Okura</author>
+            <context>Thinking, while in <location rg= "foreign">China</location>, of his homeland.</context> 
+            <l>Come, my men, let us hasten to <location>Yamato</location>!</l>
+            <l>The shore pines on <location>Mitsu</location> of <location>Otomo</location></l>
+            <l>Must wait and long for us.</l>
+        </p>
+
+        <p>  
+            <p_number>79-80</p_number> 
+            <author sex= "unknown">Anonymous</author>
+            <context>On the occasion of the transfer of the court from
+            <location>Fujiwara</location> to <location>Nara</location>.</context>
+            <l>Obedient to our mighty Sovereign's word,</l>
+            <l>I left my long-loved home,</l>
+            <l>And paddled my boat down the Hatsuse,</l>
+            <l>Many times looking back toward my home,</l>
+            <l>At each of the eighty windings of the river;</l>
+            <l>And benighted on the stream I reached</l>
+            <l>The River Saho flowing through <location>Nara</location>;</l>
+            <l>There from my couch I could see,</l>
+            <l>Clearly in the bright moonlight of dawn,</l>
+            <l>The night-frost lying like a sheet of linen</l>
+            <l>And the river bound with ice as if with rocks.</l>
+            <l>Often on such a freezing night, loyal to my duties,</l>
+            <l>I paddled down to build the mansion,</l>
+            <l>Where I hope my lord will live</l>
+            <l>For a thousand ages,</l>
+            <l>And that I too may journey here for as long.</l>
+            <envoy>
+            <l>I shall come to the mansion of <location>Nara</location></l>
+            <l>For a myriad ages;</l>
+            <l>Think not I shall forget!</l> 
+            </envoy>
+        </p>
+    </book_1>
+</Manyoshu>
