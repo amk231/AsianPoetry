@@ -1,0 +1,6 @@
+start = yingzhi_database
+yingzhi_database = element yingzhi_database {yingzhi+}
+yingzhi = element yingzhi {id, emperor, person}
+id = attribute xml:id {xsd:ID}
+emperor = attribute emperor {text}
+person = attribute person {text}
