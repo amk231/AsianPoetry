@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="database_yingzhi.rnc" type="application/relax-ng-compact-syntax"?>
-<yingzhi_database>
+<?xml-model href="../../schemas/database_yingzhi.rnc" type="application/relax-ng-compact-syntax"?>
+<collective_database>
     <yingzhi xml:id="taizinafei" emperor="lizhi" person="[renxigu][huyuanfan]"/>
     <yingzhi xml:id="bailuguan" emperor="lixian" person="[liyi-4][shenquanqi][wupingyi]"/>
     <yingzhi xml:id="queshigu" emperor="lilongji" person="[zhangjiuling][suting][zhangyue][xuanzhen][zhaodongxi]"/>
@@ -14,4 +14,9 @@
     <yingzhi xml:id="cailvrensheng" emperor="lixian?" person="[cuiriyong][liqiao][lishi]"/>
     <yingzhi xml:id="jiurishiyan" emperor="uc" person="[liyi-4][lishi]"/>
     <yingzhi xml:id="weibin" emperor="lixian?" person="[weisili][zhangyue]"/>
-</yingzhi_database>
+    <yingzhi xml:id="shenfuting" emperor="uc" person="[songzhiwen]"/>
+    <yingzhi xml:id="shangyanggong" emperor="lixian?" person="[zongchuke][xueyao][songzhiwen]"/>
+    <yingzhi xml:id="jiuchenggong" emperor="lizhi" person="[liuyizhi]"/>
+    <feast xml:id="huirichongyan" person="[gaojin][chenjiayan]"/>
+    <feast xml:id="princess_anle_newhouse" person="[yanchaoying][cenxi][zongchuke][wupingyi][suting][lishi]"
+</collective_database>

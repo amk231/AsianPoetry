@@ -1,11 +1,12 @@
 start = tangPoem
 tangPoem = element tangPoem {title+}
 title = element title {mixed {(person | author | feast | yingzhi | send-off | elegy | anthology | dedication | together | record)*}}
-person = element person {refp, text}
+person = element person {refp, type, text}
 refp = attribute ref {text}
+type = attribute type {"position+surname"|"name"|"position"|"collective"|"indirect"|"position+name"|"surname+family_ranking"|"surname"|"surname+family_ranking+position"|"null"|"position+name"|"word"|"word+name"}
 author = element author {refa, text}
 refa = attribute ref {text}
-feast = element feast {empty}
+feast = element feast {ref_feast*, empty}
 yingzhi = element yingzhi {ref_yingzhi, empty}
 send-off = element send-off {empty}
 elegy = element elegy {empty}
@@ -14,5 +15,6 @@ dedication = element dedication {empty}
 together = element together {empty}
 record = element record {empty}
 ref_yingzhi = attribute ref {text}
+ref_feast = attribute ref {text}
 
 

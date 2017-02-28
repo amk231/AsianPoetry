@@ -1,6 +1,9 @@
-start = yingzhi_database
-yingzhi_database = element yingzhi_database {yingzhi+}
+start = collective_database
+collective_database = element collective_database {mixed{(yingzhi|feast)*}}
 yingzhi = element yingzhi {id, emperor, person}
 id = attribute xml:id {xsd:ID}
 emperor = attribute emperor {text}
 person = attribute person {text}
+feast = element feast {id_feast, person_feast}
+id_feast = attribute xml:id {xsd:ID}
+person_feast = attribute person {text}
