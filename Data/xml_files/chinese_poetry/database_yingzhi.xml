@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="database_yingzhi.rnc" type="application/relax-ng-compact-syntax"?>
+<yingzhi_database>
+    <yingzhi xml:id="taizinafei" emperor="lizhi" person="[renxigu][huyuanfan]"/>
+    <yingzhi xml:id="bailuguan" emperor="lixian" person="[liyi-4][shenquanqi][wupingyi]"/>
+    <yingzhi xml:id="queshigu" emperor="lilongji" person="[zhangjiuling][suting][zhangyue][xuanzhen][zhaodongxi]"/>
+    <yingzhi xml:id="ciensi" emperor="lizhi" person="[liuxian][cuiriyong][biqiantai][zhangjingyuan][liyi-4][xiewan][wangjing][cuishi][quzhan]"/>
+    <yingzhi xml:id="jiangshengguan" emperor="lilongji" person="[wangwei]"/>
+    <yingzhi xml:id="nanjiao" emperor="lilongji" person="[zhangjiuling]"/>
+    <yingzhi xml:id="chunrixingwang" emperor="lilongji" person="[zhangyue][xueji][liuxian][cuiriyong][zhengyin]"/>
+    <yingzhi xml:id="bumengduhu" emperor="lilongji" person="[wangwei]"/>
+    <yingzhi xml:id="jinchenggongzhu" emperor="lixian" person="[wupingyi][shenquanqi][liuxian]"/>
+    <yingzhi xml:id="longchi" emperor="lilongji" person="[caifu][yaochong][jiangxi]"/>
+    <yingzhi xml:id="cailvrensheng" emperor="lixian?" person="[cuiriyong][liqiao][lishi]"/>
+    <yingzhi xml:id="jiurishiyan" emperor="uc" person="[liyi-4][lishi]"/>
+    <yingzhi xml:id="weibin" emperor="lixian?" person="[weisili][zhangyue]"/>
+</yingzhi_database>
