@@ -10,4 +10,4 @@ hometown = attribute hometown {text}
 living_place = attribute living_place {text}
 role = attribute role {"active"|"inactive"|"both"}
 related_place = attribute related_place {text}
-type = attribute type {"position+surname"|"name"|"position"|"collective"|"indirect"|"position+name"|"surname+family_ranking"|"surname"|"surname+family_ranking+position"|"null"|"position+name"|"word"|"word+name"}
+type = attribute type {"position+surname"|"name"|"position"|"collective"|"indirect"|"position+name"|"surname+family_ranking"|"surname"|"surname+family_ranking+position"|"null"|"position+name"|"word"|"word+name"|"surname+location"|"surname+zi"|"position+word"|"position+surname+location"|"surname+family_ranking+name"}

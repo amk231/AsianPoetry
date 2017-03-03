@@ -106,7 +106,7 @@
     <person xml:id="zhaodongxi" gender="m" backg="court_off" chinese="赵冬曦"/>
     <person xml:id="sheren_liu" gender="m" backg="court_off" chinese="刘舍人"/>
     <person xml:id="xuyanbo" gender="m" backg="court_off" chinese="徐彦伯"/>
-    <person xml:id="peidi" gender="m" backg="court_off" chinese="裴迪"/>
+    <person xml:id="peidi" gender="m" backg="court_off" chinese="裴迪" hometown="[jjd]" living_place="[jnd][jjd]"/>
     <person xml:id="yiren_lv" gender="m" backg="yingshi" chinese="吕逸人"/>
     <person xml:id="shiyu_huangfu" gender="m" backg="court_off" chinese="皇甫侍御"/>
     <person xml:id="lixian-4" gender="m" backg="rf" chinese="李宪"/>
@@ -174,6 +174,40 @@
     <person xml:id="lifan" gender="m" backg="arist" chinese="李范" hometown="[djd]" living_place="[gnd][jjd][jnxd]" kinship="son_[lidan]_bro_[lilongji]" type="position"/>
     <person xml:id="zhange" gender="m" backg="court_off" chinese="张谔" living_place="[jjd][hend]" type="name"/>
     <person xml:id="relative_friend_liuchangqing" backg="common" chinese="洛阳亲故" living_place="[djd]" hometown="[djd]" kinship="relative_[liuchangqing]" type="collective"/>
-    <person xml:id="lianchawei" backg="prov_off" chinese="廉察尉" type="position"/>
+    <person xml:id="lianchawei" gender="m" backg="prov_off" chinese="廉察尉" type="position"/>
+    <person xml:id="wanghan" gender="m" backg="court_off" chinese="王翰" hometown="[hdd]" living_place="[jjd][hend][jnxd]"/>
+    <person xml:id="zhangcongshen" gender="m" backg="court_off" chinese="张从申" living_place="[jjd]" hometown="[jndd]"/>
+    <person xml:id="shangshu_zhang" gender="m" backg="court_off" chinese="张尚书" living_place="[lnd]"/>
+    <person xml:id="shanren_cui" gender="m" backg="daoism" chinese="崔山人"/>
+    <person xml:id="limi" gender="m" backg="daoism" chinese="李泌" hometown="[jjd]" living_place="[jjd][hend]"/>
+    <person xml:id="liusheng" gender="m" backg="court_off" chinese="刘升" hometown="[hend]" living_place="[jjd]"/>
+    <person xml:id="hezhizhang" gender="m" backg="court_off" chinese="贺知章" hometown="[jndd]" living_place="[jjd]"/>
+    <person xml:id="liyuanhong" gender="m" backg="court_off" chinese="李元纮" hometown="[jjd]" living_place="[gnd][jjd][hend][hdd][jndd]"/>
+    <person xml:id="weishu" gender="m" backg="court_off" chinese="韦述" hometown="[jjd]" living_place="[jjd]"/>
+    <person xml:id="chuxiu" gender="m" backg="court_off" chinese="褚琇" living_place="[jjd]"/>
+    <person xml:id="shijun" gender="m" backg="prov_off" chinese="使君" living_place="[lyd]"/>
+    <person xml:id="shiyu_lu" gender="m" backg="court_off" chinese="卢侍御" living_place="[jjd]"/>
+    <person xml:id="licheng" gender="m" backg="court_off" chinese="李憕" hometown="[hdd]" living_place="[hdd][jjd][djd][hend]"/>
+    <person xml:id="dongtai_xiangzhengxueshi" gender="m" backg="court_off" chinese="东台详正学士" living_place="[jjd]"/>
+    <person xml:id="luzhuan" gender="m" backg="court_off" chinese="卢僎" hometown="[hbd]" living_place="[hdd][jjd][hbd][sndd]"/>
+    <person xml:id="hubulangzhong"  gender="m" backg="court_off" chinese="户部郎中" living_place="[jjd]"/>
+    <person xml:id="zhang2" gender="m" backg="common" chinese="张二"/>
+    <person xml:id="zhangrenyuan" gender="m" backg="mili" chinese="张仁亶" hometown="[jjd]" living_place="[gnd][hdd][hbd]"/>
+    <person xml:id="princess_yuzhen" gender="f" backg="rf" chinese="玉真公主" hometown="[jjd]" living_place="[jjd]" kinship="daughter_[lidan]_sisteer_[lilongji]"/>
+    <person xml:id="shaofu_zhao" gender="m" backg="court_off" chinese="赵少府" hometown="[hend]" living_place="[jjd]"/>
+    <person xml:id="chaojishi" backg="l_off" chinese="朝集使"/>
+    <person xml:id="shiyu_shao" gender="m" backg="court_off" chinese="邵侍御" living_place="[jjd]"/>
+    <person xml:id="yuwenrong" gender="m" backg="court_off" chinese="宇文融" hometown="[jjd]" living_place="[hbd][hend][jjd]"/>
+    <person xml:id="chenziang" gender="m" backg="court_off" chinese="陈子昂" hometown="[jnd]" living_place="[jjd][hbd]"/>
+    <person xml:id="qiao12" gender="m" backg="court_off" chinese="乔十二侍御" living_place="[jjd]"/>
+    <person xml:id="zhangji" gender="m" backg="prov_off" chinese="张继" hometown="[sndd]" living_place="[jjd][jnxd]"/>
+    <person xml:id="taishou_feng" gender="m" backg="prov_off" chinese="封太守"/>
+    <person xml:id="shiyu_pei" gender="m" backg="court_off" chinese="裴侍御" living_place="[jjd]" related_place="[jndd]"/>
+    <person xml:id="huhao" gender="m" backg="court_off" chinese="胡皓"/>
+    <person xml:id="xiyu" gender="m" backg="court_off" chinese="席豫" hometown="[sndd]" living_place="[sndd][jjd][hend]"/>
+    <person xml:id="zhangjiazhen" gender="m" backg="court_off" chinese="张嘉贞" hometown="[hdd]" living_place="[jjd][gnd][hbd][hdd][jnd][jndd]"/>
+    <person xml:id="yuanhui" gender="m" backg="court_off" chinese="袁晖" living_place="[jjd]"/>
+    <person xml:id="cuiyuxi" gender="m" backg="court_off" chinese="崔禹锡" living_place="[jjd]" kinship="son_[cuirong]"/>
+    
 </persons>
 
