@@ -35,5 +35,13 @@
     <yingzhi xml:id="chaojishi" emperor="lilongji" person="[wangwei]"/>
     <yingzhi xml:id="yuwenrong" emperor="lilongji" person="[zhangyue]"/>
     <yingzhi xml:id="xunbian" emperor="lilongji" person="[huhao][xiyu][zhangjiazhen][yuanhui][cuiyuxi][songjing]"/>
+    <yingzhi xml:id="jiuju" emperor="lilongji" person="[suting][zhangyue]"/>
+    <yingzhi xml:id="yuxue" emperor="lixian" person="[xuyanbo][songzhiwen][liuxian]"/>
+    <yingzhi xml:id="chunriwanghai" emperor="lishimin" person="[xujingzong]"/>
+    <yingzhi xml:id="shaolinsi" emperor="wuzetian" person="[songzhiwen]"/>
+    <yingzhi xml:id="nanzhuang" emperor="lixian" person="[zhaoyanzhao][shaosheng][suting]"/>
+    <yingzhi xml:id="linweitingdenggao" emperor="lixian" person="[lujingchu][shenquanqi][weianshi][songzhiwen][yanchaoying]"/>
+    <yingzhi xml:id="linweitingyuxue" emperor="lixian" person="[liqiao]"/>
+    <yingzhi xml:id="xixue" emperor="lilongji" person="[zhangyue]"/>
 
 </collective_database>
