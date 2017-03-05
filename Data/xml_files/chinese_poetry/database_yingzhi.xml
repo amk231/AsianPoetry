@@ -43,5 +43,9 @@
     <yingzhi xml:id="linweitingdenggao" emperor="lixian" person="[lujingchu][shenquanqi][weianshi][songzhiwen][yanchaoying]"/>
     <yingzhi xml:id="linweitingyuxue" emperor="lixian" person="[liqiao]"/>
     <yingzhi xml:id="xixue" emperor="lilongji" person="[zhangyue]"/>
+    <yingzhi xml:id="jiancaihua" emperor="lixian" person="[shangguanwaner]"/>
+    <yingzhi xml:id="weisili" emperor="lixian" person="[liyi-4][suting][zhangyue][wupingyi][liqiao]"/>
+    <yingzhi xml:id="shangguanzhaorong" emperor="lixian" person="[zhengyin]"/>
+
 
 </collective_database>
