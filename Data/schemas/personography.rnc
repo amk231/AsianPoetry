@@ -1,13 +1,14 @@
 start = persons
 persons = element persons {person+}
-person = element person {id, gender*, backg, role*, chinese, kinship*, hometown*, living_place*, related_place*, type*, empty}
+person = element person {id, gender*, backg, role*, chinese, kinship*, hometown*, living_place*, related_place*, type*, zuji*, empty}
 id = attribute xml:id {xsd:ID}
 gender= attribute gender {"m"|"f"}
-backg = attribute backg {"mili"|"court_off"|"prov_off"|"poet"|"emperor"|"rf"|"daoism"|"buddhism"|"uc"|"l_off"|"arist"|"japan"|"common"|"yingshi"|"musician"|"zhengjun"}
+backg = attribute backg {"mili"|"court_off"|"prov_off"|"poet"|"emperor"|"rf"|"daoism"|"buddhism"|"uc"|"l_off"|"arist"|"japan"|"common"|"yingshi"|"musician"|"zhengjun"|"painter"|"off"|"laypeople"}
 chinese = attribute chinese {text}
 kinship = attribute kinship {text}
 hometown = attribute hometown {text}
 living_place = attribute living_place {text}
 role = attribute role {"active"|"inactive"|"both"}
 related_place = attribute related_place {text}
-type = attribute type {"position+surname"|"name"|"position"|"collective"|"indirect"|"position+name"|"surname+family_ranking"|"surname"|"surname+family_ranking+position"|"null"|"position+name"|"word"|"word+name"|"surname+location"|"surname+zi"|"position+word"|"position+surname+location"|"surname+family_ranking+name"}
+zuji = attribute zuji {text}
+type = attribute type {"position+surname"|"name"|"position"|"collective"|"indirect"|"position+name"|"surname+family_ranking"|"surname"|"surname+family_ranking+position"|"null"|"position+name"|"word"|"word+name"|"surname+location"|"surname+zi"|"position+word"|"position+surname+location"|"surname+family_ranking+name"|"surname+family_ranking+location"}

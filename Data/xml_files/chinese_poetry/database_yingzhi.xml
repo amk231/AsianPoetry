@@ -46,6 +46,15 @@
     <yingzhi xml:id="jiancaihua" emperor="lixian" person="[shangguanwaner]"/>
     <yingzhi xml:id="weisili" emperor="lixian" person="[liyi-4][suting][zhangyue][wupingyi][liqiao]"/>
     <yingzhi xml:id="shangguanzhaorong" emperor="lixian" person="[zhengyin]"/>
-
+    <yingzhi xml:id="shamen" emperor="lixian" person="[liqiao]"/>
+    <yingzhi xml:id="jiuri" emperor="lixian" person="[liqiao]"/>
+    <yingzhi xml:id="qianqiujie" emperor="lilongji" person="[zhangyue]"/>
+    <yingzhi xml:id="princess_anle_house" emperor="lixian" person="[mahuaisu][weiyuandan][liuxian][luzangyong][suting]"/>
+    <yingzhi xml:id="dajianfusi" emperor="lixian" person="[zhengyin][zhaoyanzhao][liqiao]"/>
+    <yingzhi xml:id="renriyuxue" emperor="lixian" person="[zhaoyanzhao]"/>
+    <yingzhi xml:id="tianshu" emperor="lixian" person="[liqiao]"/>
+    <yingzhi xml:id="hanshi" emperor="emperor" person="[weichengqing]"/>
+    <yingzhi xml:id="xijie" emperor="lixian" person="[weianshi]"/>
+    <yingzhi xml:id="xiyu" emperor="lixian" person="[liqiao]"/>
 
 </collective_database>
