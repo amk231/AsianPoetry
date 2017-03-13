@@ -3,7 +3,7 @@
 <collective_database>
     <yingzhi xml:id="taizinafei" emperor="lizhi" person="[renxigu][huyuanfan]"/>
     <yingzhi xml:id="bailuguan" emperor="lixian" person="[liyi4][shenquanqi][wupingyi]"/>
-    <yingzhi xml:id="queshigu" emperor="lilongji" person="[zhangjiuling][suting][zhangyue][xuanzhen][zhaodongxi]"/>
+    <yingzhi xml:id="queshugu" emperor="lilongji" person="[zhangjiuling][suting][zhangyue][xuanzhen][zhaodongxi]"/>
     <yingzhi xml:id="ciensi" emperor="lizhi" person="[liuxian][cuiriyong][biqiantai][zhangjingyuan][liyi4][xiewan][wangjing][cuishi][quzhan]"/>
     <yingzhi xml:id="jiangshengguan" emperor="lilongji" person="[wangwei]"/>
     <yingzhi xml:id="nanjiao" emperor="lilongji" person="[zhangjiuling]"/>
@@ -11,7 +11,7 @@
     <yingzhi xml:id="bumengduhu" emperor="lilongji" person="[wangwei]"/>
     <yingzhi xml:id="jinchenggongzhu" emperor="lixian" person="[wupingyi][shenquanqi][liuxian]"/>
     <yingzhi xml:id="longchi" emperor="lilongji" person="[caifu][yaochong][jiangxi]"/>
-    <yingzhi xml:id="cailvrensheng" emperor="lixian?" person="[cuiriyong][liqiao][lishi]"/>
+    <yingzhi xml:id="cailvrensheng" emperor="lixian?" person="[cuiriyong][liqiao][lishi][zhaoyanzhao]"/>
     <yingzhi xml:id="jiurishiyan" emperor="uc" person="[liyi4][lishi]"/>
     <yingzhi xml:id="weibin" emperor="lixian?" person="[weisili][zhangyue]"/>
     <yingzhi xml:id="shenfuting" emperor="uc" person="[songzhiwen]"/>
@@ -61,6 +61,31 @@
     <yingzhi xml:id="lishan" emperor="lixian" person="[liuxian][zhaoyanzhao][yanchaoying][zhangyue]"/>
     <yingzhi xml:id="wenluo" emperor="emperor" person="[niufengji][suweidao]"/>
     <yingzhi xml:id="xingqingchi" emperor="lixian" person="[lishi][xuyanbo][shenquanqi]"/>
-    
+    <yingzhi xml:id="shicong" emperor="wuzetian" person="[suweidao][direnjie]"/>
+    <yingzhi xml:id="huangtaizi" emperor="lixian" person="[luzhuan]"/>
+    <yingzhi xml:id="pujinguan" emperor="lilongji" person="[zhangjiuling]"/>
+    <yingzhi xml:id="ruixuepian" emperor="lilongji" person="[liutingqi][zhangjiuling]"/>
+    <yingzhi xml:id="wangjiaqiang" emperor="emperor" person="[suting]"/>
+    <yingzhi xml:id="linchizhu" emperor="lishimin" person="[yushinan]"/>
+    <yingzhi xml:id="zongchisi" emperor="lixian" person="[liyi4][liqiao]"/>
+    <yingzhi xml:id="chaowu" emperor="lishimin" person="[yangshidao]"/>
+    <yingzhi xml:id="sanxiang" emperor="lilongji" person="[zhangjiuling]"/>
+    <yingzhi xml:id="leyouyuan" emperor="lilongji" person="[zhangjiuling][zhangyue]"/>
+    <yingzhi xml:id="bailuo" emperor="lixian" person="[liqiao]"/>
+    <yingzhi xml:id="kunmingchi" emperor="emperor" person="[zhangjiazhen][suting]"/>
+    <yingzhi xml:id="huiri_kunmingchi" emperor="emperor" person="[shenquanqi][songzhiwen]"/>
+    <yingzhi xml:id="sanhuisi" emperor="emperor" person="[songzhiwen]"/>
+    <yingzhi xml:id="yongyinma" emperor="lishimin" person="[yangshidao]"/>
+    <yingzhi xml:id="yuanyanglou" emperor="emperor" person="[sunti]"/>
+    <yingzhi xml:id="guowentang" emperor="lizhi" person="[yangsixuan]"/>
+    <yingzhi xml:id="guociensi" emperor="lizhi" person="[xujingzong]"/>
+    <yingzhi xml:id="yingzhihuai" emperor="lishimin" person="[yushinan]"/>
+    <yingzhi xml:id="lifu" emperor="emperor" person="[chenziang][liqiao]"/>
+    <yingzhi xml:id="shudianciyan" emperor="emperor" person="[xuanzhen]"/>
+    <yingzhi xml:id="changanguchen" emperor="emperor" person="[liuxian]"/>
+    <yingzhi xml:id="caihuashu" emperor="lixian" person="[wupingyi]"/>
+    <yingzhi xml:id="huangtaizi_ciensi" emperor="lilongji" person="[zhangyue]"/>
+    <yingzhi xml:id="riwu" emperor="lishimin" person="[yushinan]"/>
+    <yingzhi xml:id="zhanlidaizong" emperor="lizhi" person="[xuekegou]"/>
 
 </collective_database>
