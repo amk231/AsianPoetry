@@ -18,7 +18,7 @@
     <yingzhi xml:id="shangyanggong" emperor="lixian?" person="[zongchuke][xueyao][songzhiwen]"/>
     <yingzhi xml:id="jiuchenggong" emperor="lizhi" person="[liuyizhi]"/>
     <feast xml:id="huirichongyan" person="[gaojin][chenjiayan][langyuling][wangmian][xuhao][wangmaoshi][gaozhengchen]"/>
-    <feast xml:id="princess_anle_newhouse" person="[yanchaoying][cenxi][zongchuke][wupingyi][suting][lishi]"/>
+    <feast xml:id="princess_anle_newhouse" person="[yanchaoying][cenxi][zongchuke][wupingyi][suting][lishi][shenquanqi][suting][lishi][suting]"/>
     <yingzhi xml:id="zhonghejie_qujiangyan" emperor="lilongji" person="[limi]"/>
     <yingzhi xml:id="jixianxueshi" emperor="lilongji" person="[liusheng][weishu][liyuanhong][hezhizhang][chuxiu]"/>
     <yingzhi xml:id="qinghuige" emperor="lixian" person="[zongchuke][zhaoyanzhao]"/>
@@ -87,5 +87,9 @@
     <yingzhi xml:id="huangtaizi_ciensi" emperor="lilongji" person="[zhangyue]"/>
     <yingzhi xml:id="riwu" emperor="lishimin" person="[yushinan]"/>
     <yingzhi xml:id="zhanlidaizong" emperor="lizhi" person="[xuekegou]"/>
+    <yingzhi xml:id="heshanggongmiao" emperor="lilongji" person="[zhangjiuling]"/>
+    <yingzhi xml:id="taihangshan" emperor="lilongji" person="[zhangyue]"/>
+    <yingzhi xml:id="huaqinggongguan" emperor="lilongji" person="[cuiguofu]"/>
+    <yingzhi xml:id="ciqiong" emperor="lilongji" person="[zhangjiuling]"/>
 
 </collective_database>
