@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="manyoshu_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<Manyoshu>
+    <book num= "I">
+        <p>
+            <p_number>1</p_number>
+            <author sex="male" role="emperor">Emperor Yuryaku</author>
+            <lg>
+                <l>Your basket, with your pretty basket,</l>
+                <l>Your trowel, with your little trowel,</l>
+                <l>Maiden, picking herbs on this hill-side,</l>
+                <l>I would ask you: Where is your home?</l>
+                <l>Will you not tell me your name?</l>
+                <l>Over the spacious Land of Yamato</l>
+                <l>It is I who reign so wide and far,</l>
+                <l>It is I who rule so wide and far.</l>
+                <l>I myself, as your lord, will tell you</l>
+                <l>Of my home, and my name.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>2</p_number>
+            <author sex="male" role="emperor">Emperor Jomei</author>
+            <context>Climbing <location>Kagu-yama</location> and looking upon the land.</context>
+            <lg>
+                <l>Countless are the mountains in Yamato,</l>
+                <l>But perfect is the heavenly hill of <location>Kagu</location>;</l>
+                <l>When I climb it and survey my realm,</l>
+                <l>Over the wide plain the smoke-wreaths rise and rise,</l>
+                <l>Over the wide lakes the gulls are on the wing;</l>
+                <l>A beautiful land it is, the Land of Yamato!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>3-4</p_number>
+            <author sex="female" role="empress">Empress Kogyoku</author>
+            <context>Presented to the Emperor Jomei by a messenger, Hashibito Oyu, on the occasion
+                of his hunting on the <location>plain of Uchi</location>.</context>
+            <lg>
+                <l>Hear the twang of the mid-strings</l>
+                <l>Of his royal birchwood bow,</l>
+                <l>Which my Sovereign, ruling in peace,</l>
+                <l>Loves to handle at break of day,</l>
+                <l>And fondly leans against with dusk.</l>
+                <l>Now he must be out for his morning hunt,</l>
+                <l>Now he must be out for his evening chase;</l>
+                <l>I hear the twang of the mid-string</l>
+                <l>Of his loved birchwood bow!</l>
+                <envoy>
+                    <l>With horses drawn abreast</l>
+                    <l>On the open waste of Uchi,</l>
+                    <l>This morning he must be trampling</l>
+                    <l>That grassy land!</l>
+                </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>5-6</p_number>
+            <author sex="male" role="prince">Prince Ikusa</author>
+            <context>Seeing the mountains when the Emperor Jomei sojourned in <location>Aya
+                    District, Sanuki Province</location>.</context>
+            <lg>
+                <l>Not knowing that the long spring day-</l>
+                <l>The misty day-is spent,</l>
+                <l>Like the 'night-thrush';I grieve within me,</l>
+                <l>As sorely my heart aches.</l>
+                <l>Then across the hills where our Sovereign sojourns,</l>
+                <l>Luckily the breezes blow</l>
+                <l>And turn back my sleeves with morn and eve,</l>
+                <l>As I stay alone;</l>
+                <l>But, being on a journey, grass for pillow,</l>
+                <l>Brave man as I deem me,</l>
+                <l>I know not how to cast off</l>
+                <l>My heavy sorrows;</l>
+                <l>And like the salt-fires the fisher-girls</l>
+                <l>Burn on the shore of Ami,</l>
+                <l>I burn with the fire of longing</l>
+                <l>In my heart.</l>
+                <envoy>
+                    <l>Fitful gusts of wind are blowing</l>
+                    <l>Across the mountain-range,</l>
+                    <l>And night after night I lie alone,</l>
+                    <l>Yearning for my love at home.</l>
+                </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>8</p_number>
+            <author sex="female" role="princess">Princess Nukada</author>
+            <lg>
+                <l>While at <location>Nigitazu</location> we await the moon</l>
+                <l>To put our ships to sea,</l>
+                <l>With the moon the tide has risen;</l>
+                <l>Now let us embark!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>13-15</p_number>
+            <author sex="male" role="emperor">Emperor Tenji</author>
+            <context>The Three Hills.</context>
+            <lg>
+                <l><location>Mount Kagu</location> strove with <location>Mount Miminashi</location></l>
+                <l>For the love of <location>Mount Unebi</location>.</l>
+                <l>Such is love since the age of the gods;</l>
+                <l>As it was thus in the early days,</l>
+                <l>So people strive for spouses even now.</l>
+                <envoy>
+                    <l>When <location>Mount Kagu</location> and <location>Mount Miminashi</location> wrangled,</l>
+                    <l>A god came over and saw it</l>
+                    <l>Here-on this plain of Inami!</l>
+                    <l>On the rich banner-like clouds</l>
+                    <l>That rim the waste of waters</l>
+                    <l>The evening sun is glowing,</l>
+                    <l>And promises to-night</l>
+                    <l>The moon in beauty!</l>
+                </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>16</p_number>
+            <author sex="female" role="princess">Princess Nukada</author>
+            <context>When the Emperor Tenji commanded Fujiwara Kamatari, Prime
+                Minister to judge between the luxuriance of the blossoms on the spring hills and the
+                glory of the tinted leaves on the autumn hills, Princess Nukada decided the question
+                with this poem.</context>
+            <lg>
+                <l>When, loosened from the winter's bonds,</l>
+                <l>The spring appears,</l>
+                <l>The birds that were silent</l>
+                <l>Come out and sing,</l>
+                <l>The flowers that were prisoned</l>
+                <l>Come out and bloom;</l>
+                <l>But the hills are so rank with trees</l>
+                <l>We cannot seek the flowers,</l>
+                <l>And the flowers ate so tangled with weeds</l>
+                <l>We cannot take them in our hands.</l>
+                <l>But when on the autumn hill-side</l>
+                <l>We see the foliage,</l>
+                <l>We prize the yellow leaves,</l>
+                <l>Taking them in our hands,</l>
+                <l>We sigh over the green ones,</l>
+                <l>Leaving them on the branches;</l>
+                <l>And that is my only regret--</l>
+                <l>For me, the autumn hills!</l>
+            </lg>
+        </p>
+        <p>
+            <p_number>17-18</p_number>
+            <author sex="female" role="princess">Princess Nukada</author>
+            <context>On the occasion of her journey to <location>Omi</location></context>
+            <lg>
+            <l>O That sweet mountain of <location>Miwa</location>--</l>
+            <l>I would go lingering over its sight,</l>
+            <l>Many times looking back from far upon it</l>
+            <l>Till it is hidden beyond the hills of <location>Nara</location></l>
+            <l>And beyond many turnings of the road;</l>
+            <l>Then should the clouds be heartless</l>
+            <l>And conceal the mountain from me?</l>
+            <envoy>
+                <l>Must they veil <location>Mount Miwa</location> so?</l>
+                <l>Even clouds might have compassion;</l>
+                <l>Should ye, O clouds,conceal it from me?</l>
+            </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>28</p_number>
+            <author sex="female" role="empress">Empress Jito</author>
+            <lg>
+                <l>Spring has passed away</l>
+                <l>And summer is come;</l>
+                <l>Look where white clothes are spread in the sun</l>
+                <l>On the heavenly hill of <location>Kagu</location>!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>52-53</p_number>
+            <author sex="unknown" role="unknown">Anonymous</author>
+            <context>On the well at the Palace of <location>Fujiwara</location></context>
+            <lg>
+                <l>Our great Sovereign who rules in peace,</l>
+                <l>Offspring of the Bright One on high,</l>
+                <l>Has begun to build her Palace</l>
+                <l>On the plain of <location>Fuji</location>;</l>
+                <l>And standing on the dyke of Lake Haniyasu</l>
+                <l>She looks around her:</l>
+                <l>The green hill of <location>Kagu</location> of <location>Yamato</location></l>
+                <l>Stands at the eastern gate,</l>
+                <l>A luxuriant spring-time hill;</l>
+                <l>Unebi, with its fragrant slopes,</l>
+                <l>Rises at the western gate,</l>
+                <l>Ever fresh and flourishing</l>
+                <l>Its form divine;</l>
+                <l>And the mountains of <location>Yoshinu</location>, of lovely name,</l>
+                <l>Soar into the sky,</l>
+                <l>Far from the southern gate</l>
+                <l>At this towering Palace,</l>
+                <l>The shelter from the sun,</l>
+                <l>The shelter from the sky,</l>
+                <l>The waters will be everlasting,</l>
+                <l>These clear waters of the sacred well!</l>
+                <envoy>
+                    <l>The bevies of maidens who will be born</l>
+                    <l>And come in succession into service</l>
+                    <l>At the mightly Palace of Fujiwara,</l>
+                    <l>How I envy their happy lot!</l>
+                </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>63</p_number>
+            <author sex="male" role="jap_envoy">Yamanoe Okura</author>
+            <context>Thinking, while in <location rg="foreign">China</location>, of his
+                homeland.</context>
+            <lg>
+                <l>Come, my men, let us hasten to <location>Yamato</location>!</l>
+                <l>The shore pines on <location>Mitsu</location> of <location>Otomo</location></l>
+                <l>Must wait and long for us.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>79-80</p_number>
+            <author sex="unknown" role="c_official">Anonymous</author>
+            <context>On the occasion of the transfer of the court from <location>Fujiwara</location>
+                to <location>Nara</location>.</context>
+            <lg>
+                <l>Obedient to our mighty Sovereign's word,</l>
+                <l>I left my long-loved home,</l>
+                <l>And paddled my boat down the Hatsuse,</l>
+                <l>Many times looking back toward my home,</l>
+                <l>At each of the eighty windings of the river;</l>
+                <l>And benighted on the stream I reached</l>
+                <l>The River Saho flowing through <location>Nara</location>;</l>
+                <l>There from my couch I could see,</l>
+                <l>Clearly in the bright moonlight of dawn,</l>
+                <l>The night-frost lying like a sheet of linen</l>
+                <l>And the river bound with ice as if with rocks.</l>
+                <l>Often on such a freezing night, loyal to my duties,</l>
+                <l>I paddled down to build the mansion,</l>
+                <l>Where I hope my lord will live</l>
+                <l>For a thousand ages,</l>
+                <l>And that I too may journey here for as long.</l>
+                <envoy>
+                    <l>I shall come to the mansion of <location>Nara</location></l>
+                    <l>For a myriad ages;</l>
+                    <l>Think not I shall forget!</l>
+                </envoy>
+            </lg>
+        </p>
+    </book>
+    <book num="II">
+        <p>
+            <p_number>85-88</p_number>
+            <author sex= "female" role="empress">Empress lwa-no-hime</author>
+            <context>Longing for the Emperor Nintoku.</context>
+            <lg>
+                <l>Since you, my Lord, were gone,</l>
+                <l>Many long, long days have passed.</l>
+                <l>Should I now come to meet you</l>
+                <l>And seek you beyond the mountains,</l>
+                <l>Or still await you--await you ever ?</l>
+                <l>Rather would I lay me down</l>
+                <l>On a steep hill's side,</l>
+                <l>And, with a rock for pillow, die,</l>
+                <l>Than live thus, my Lord,</l>
+                <l>With longing so deep for you.</l>
+                <l>Yes, I will live on</l>
+                <l>And wait for you,</l>
+                <l>Even till falls</l>
+                <l>On my long black wav1ng hair</l>
+                <l>The hoar frost of age.</l>
+                <l>How shall my yearning ever cease—</l>
+                <l>Fade somewhere away,</l>
+                <l>As does the mist of morning</l>
+                <l>Shimmering across the autumn field</l>
+                <l>Over the ripening grain?</l>
+            </lg>
+        </p>
+        
+        <p>
+            
+            <p_number>95</p_number>
+            <author sex= "male" role="prime_minister">Fujiwara Kamatari</author>
+            <context>On the occasion of his marriage to Yasumiko, a palace attendant.</context>
+            <lg>
+                <l>Oh, Yasurniko I have won!</l>
+                <l>Mine is she whom all men,</l>
+                <l>They say, have sought in vain.</l>
+                <l>Yasumiko I have won!</l>
+            </lg>
+        </p>
+        
+        <p>
+            
+            <p_number>103</p_number>
+            <author sex= "male" role="emperor">Emperor Temmu</author>
+            <lg>
+                <l>Magnificent snow </l>
+                <l>Has fallen here at my place.</l>
+                <l>But at your tumble-down old village of Ohara,</l>
+                <l>If ever, later it will fall</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>104</p_number>
+            <author sex= "female" role="consort">Lady Fujiwara</author>
+            <lg>
+                <l>It was I who did command </l>
+                <l>The Dragon God of these hills</l>
+                <l>To send down the snow,</l>
+                <l>Whereof a few fragments, perchance,</l>
+                <l>Were sprinkled over your home.</l>
+            </lg>    
+        </p>
+        
+        <p>
+            <p_number>105-106</p_number>
+            <author sex= "female" role="princess">Princess Oku</author>
+            <context>Upon the departure of Prince Otsu for the capital after his secret visit to the
+                Shrine of Ise.</context>
+            <lg>
+                <l>To speed my brother</l>
+                <l>Parting for Yamato,</l>
+                <l>In the deep of night I stood</l>
+                <l>Till wet with the dew of dawn.</l>
+                <l>The lonely autumn mountains</l>
+                <l>Are hard to pass over</l>
+                <l>Even when two go together--</l>
+                <l>How does my brother cross them all alone!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>107</p_number>
+            <author sex= "male" role="prince">Prince Otsu</author>
+            <context>Written for Lady Ishikawa</context>
+            <lg>
+                <l>Waiting for you, </l>
+                <l>In the dripping dew of the hill</l>
+                <l>I stood,--weary and wet</l>
+                <l>With the dripping dew of the hill</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>108</p_number>
+            <author sex= "female" role="unknown">Lady Ishikawa</author>
+            <context>Written in reply to Prince Otsu</context>
+            <lg>
+                <l>Would I had been, beloved,</l>
+                <l>The dripping dew of the hill,</l>
+                <l>That wetted you</l>
+                <l>While for me you waited.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>131-133</p_number>
+            <author sex= "male" role="official">Kakinomoto Hitomaro</author>
+            <context>On leaving his wife as he set out from Iwami for the capital.</context>
+            <lg>
+                <l>Along the coast of Tsunu</l>
+                <l>On the sea of Iwami</l>
+                <l>One may find no sheltering bay,</l>
+                <l>One may find no sequestered lagoon.</l>
+                <l>O well if there be no bay!</l>
+                <l>O well if there be no lagoon!</l>
+                <l>Upon Watazu's rocky strand,</l>
+                <l>Where I travel by the whale-haunted sea,</l>
+                <l>The wind blows in the morning,</l>
+                <l>And the waves wash at eve</l>
+                <l>The sleek sea-tangle and the ocean weed,</l>
+                <l>All limpid green.</l>
+                <l>Like the sea-tangle, swaying in the wave</l>
+                <l>Hither and thither, my wife would cling to me,</l>
+                <l>As she lay by my side.</l>
+                <l>Now I have left her, and journey on my way,</l>
+                <l>I look back a myriad times</l>
+                <l>At each turn of the road.</l>
+                <l>Farther and farther my home falls behind,</l>
+                <l>Steeper and steeper the mountains I have crossed.</l>
+                <l>My wife must be languishing</l>
+                <l>Like drooping summer grass.</l>
+                <l>I would see where she dwells—</l>
+                <l>Bend down, O mountains!</l>
+                <envoy>
+                <l>From between the trees that grow</l>
+                <l>On Takatsunu's mountain-side</l>
+                <l>In the land of Iwami</l>
+                <l>I waved my sleeve to her--</l>
+                <l>Did she see me, my dear wife?</l>
+                <l>The leaves of bamboo grass</l>
+                <l>Fill all the hill-side</l>
+                <l>With loud rustling sounds;</l>
+                <l>But I think only of my love,</l>
+                <l>Having left her behind.</l>
+                <l>In the sea of Iwami, </l>
+                <l>By the cape of Kara, </l>
+                <l>There amid the stones under sea</l>
+                <l>Grows the deep-sea miru weed;</l>
+                <l>There along the rocky strand</l>
+                <l>Grows the sleek sea-tangle.</l>
+                <l>Like the swaying sea-tangle,</l>
+                <l>Unresisting would she lie beside me--</l>
+                <l>My wife whom I love with a love</l>
+                <l>Deep as the miru-growing ocean.</l>
+                <l>But few are the nights</l>
+                <l>We two have lain together.</l>
+                <l>Away I have come, parting from her</l>
+                <l>Even as the creeping vines do part.</l>
+                <l>My heart aches within me;</l>
+                <l>I turn back to gaze--</l>
+                <l>But because of the yellow leaves</l>
+                <l>Of Watari Hill,</l>
+                <l>Flying and fluttering in the air,</l>
+                <l>I cannot see plainly</l>
+                <l>My wife waving her sleeve to me.</l>
+                <l>Now as the moon, sailing through the cloud rift</l>
+                <l>Above the mountain of Yakami,</l>
+                <l>Disappears, leaving me full of regret,</l>
+                <l>So vanishes my love out of sight;</l>
+                <l>Now sinks at last the sun,</l>
+                <l>Coursing down the western sky.</l>
+                <l>I thought myself a strong man,</l>
+                <l>But the sleeves of my garment</l>
+                <l>Are wetted through with tears.</l>
+                <l>My black steed</l>
+                <l>Galloping fast,</l>
+                <l>A way have I come,</l>
+                
+                <l>My black steed</l>
+                    <l>Galloping fast,</l>
+                    <l>Away have I come,</l>
+                    <l>Leaving under distant skies</l>
+                    <l>The dwelling-place of my love.</l>
+                    <l>Oh, yellow leaves</l>
+                    <l>Falling on the autumn hill,</l>
+                    <l>Cease a while</l>
+                    <l>To fly and flutter in the air</l>
+                    <l>That I may see my love's dwelling-place</l>
+                </envoy>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>141-142</p_number>
+            <author sex= "male" role="prince">Prince Arima</author>
+            <context>Lamenting his plight, and binding pine branches.</context>
+            <lg>
+                <l>At Iwashiro I bind</l>
+                <l>The branches of a shore pine.</l>
+                <l>If fortune favours me,</l>
+                <l>I may come back</l>
+                <l>And see the knot again.</l>
+                <l>Now that I journey, grass for pillow,</l>
+                <l>They serve rice on the shii leaves,</l>
+                <l>Rice they would put in a bowl,</l>
+                <l>Were I at home!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>147</p_number>
+            <author sex= "female" role="empress">Empress Yamato-hime</author>
+            <context>Presented to the Emperor Tenji on the occasion of His Majesty’s
+                Illness.</context>
+            <lg>
+                <l>I turn and gaze far</l>
+                <l>Towards the heavenly plains.</l>
+                <l>Lo, blest is my Sovereign Lord--</l>
+                <l>His long life overspans</l>
+                <l>The vast blue firmament.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>148</p_number>
+            <author sex= "female" role="empress">Empress Yamato-hime</author>
+            <context>After the death of the Emperor.</context>
+            <lg>
+                <l>Though my eyes could see your spirit soar</l>
+                <l>Above the hills of green-bannered Kohata,</l>
+                <l>No more may I meet you face to face.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>149</p_number>
+            <author sex= "female" role="empress">Empress Yamato-hime</author>
+            <lg>
+                <l>Others may cease to remember,</l>
+                <l>But I cannot forget you—</l>
+                <l>Your beauteous phantom shape</l>
+                <l>Ever haunts my sight!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>177</p_number>
+            <author sex= "unknown" role="guard">Anonymous</author>
+            <context>Poems of lamentation by the palace-guards of the Crown Prince.</context>
+            <lg>
+                <l>On the hill slope of Sada </l>
+                <l>Bright in the morning sun,</l>
+                <l>We gather and weep;</l>
+                <l>Our tears fall endlessly.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>194-95</p_number>
+            <author sex= "male" role="c_official">Kakinomoto Hitomaro</author>
+            <context>Presented to Princess Hatstusebe and Prince Osakabe</context>
+            <lg>
+                <l>Dainty water-weeds, growing up-stream</l>
+                <l>In the river of the bird-flying Asuka,</l>
+                <l>Drift down-stream, gracefully swaying.</l>
+                <l>Like the water-weeds the two would bend</l>
+                <l>Each toward the other, the princess and her consort.</l>
+                <l>But now no longer can she sleep,</l>
+                <l>With his fine smooth body clinging</l>
+                <l>Close to hers like a guardian sword.</l>
+                <l>Desolate must be her couch at night.</l>
+                <l>Unable to assuage her grief,</l>
+                <l>But in the hope of finding him by chance,</l>
+                <l>She journeys to the wide plain of Ochinu,</l>
+                <l>There, her skirt drenched with morning dew</l>
+                <l>And her coat soaked with the fog of evening,</l>
+                <l>She passes the night-- a wayfarer with grass for pillow--</l> 
+                <l>Because of him whom she nevermore will meet!</l>
+                <envoy>
+                    <l>Her lord and husband with whom she had slept,</l>
+                    <l>The sleeves of their robes overlapping,</l>
+                    <l>Has passed away to the plain of Ochinu.</l>
+                    <l>How can she ever meet him again!</l>
+                </envoy>
+            </lg>
+        </p>
+    </book>
+    <book num= "IV">
+        <p>
+            <p_number>485-487</p_number>
+            <author sex="female" role="empress">Empress Kogyoku</author>
+            <context>Presented to the Emperor Jomei by a messenger, Hashibito Oyu, on the occasion
+             of his hunting on the plain of <location>Uchi</location>.</context>
+            <lg>
+            <l>From the age of the gods </l>
+            <l>Men have been begotten and begetting;</l>
+            <l>They overflow this land of ours.</l>
+            <l>I see them go hither and thither</l>
+            <l>Like flights of teal-</l>
+            <l>But not you whom I love.</l>
+            <l>So I yearn each day till the day is over,</l>
+            <l>And each night till the dawn breaks;</l>
+            <l>Sleeplessly I pass this long, long night</l>
+            <envoy>
+            <l>Though men go in noisy multitudes</l>
+            <l>Like flights of teal over the mountain edge, </l>
+            <l>To me-oh what loneliness,</l>
+            <l>Since you are absent whom I love.</l>
+            <l>By the <location>Toko Mountain</location> in <location>Omi</location></l>
+            <l>There flows the <location>Isaya</location>, River of Doubt.</l>
+            <l>I doubt whether now-a-days</l>
+            <l>You, too, still think of me?</l>
+            </envoy>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>488</p_number>
+            <author sex="female" role="princess">Princess Nukada</author>
+            <context>Yearning for the Emperor Tenji.</context>
+            <lg>
+            <l>While, waiting for you,</l>
+            <l>My heart is filled with longing,</l>
+            <l>The autumn wind blows--</l>
+            <l>As if it were you--</l>
+            <l>Swaying the bamboo blinds of my door.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>489</p_number>
+            <author sex="female" role="princess">Princess Kagami</author>
+            <lg>
+            <l>Even a breeze may fail me</l>
+            <l>When I desire it.</l>
+            <l>Little I should grieve,</l>
+            <l>If only, sure of its coming,</l>
+            <l>I could await even a breeze.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>496-497</p_number>
+            <author sex="male" role="c_official">Kakinomoto Hitomaro</author>
+            <context>At the cremation of the maiden of <location>Hijikata</location> on the hills of <location>Hatsuse</location>.</context>
+            <lg>
+            <l>Though my thoughts of her </l>
+            <l>Grow a hundredfold in my heart</l>
+            <l>Like the leaves of the crinum</l>
+            <l>On the sea-coast of <location>Kumanu</location></l>
+            <l>I do not meet her face to face.</l>
+
+            <l>Did men living long ago </l>
+            <l>Pass also sleepless nights like me,</l>
+            <l>Longing for their beloved?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>500</p_number>
+            <author sex="female" role="unknown">Wife of Go Dan-ochi</author>
+            <context>Composed during her husband's Journey to <location>Ise</location>.</context>
+            <lg>
+            <l>Breaking and spreading for a bed</l>
+            <l>The shore reeds of Ise of the Divine Wind,</l>
+            <l>Does he, my husband, sleep a traveller's sleep--</l>
+            <l>On that lonely rugged sea-coast?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>505</p_number>
+            <author sex="female" role="unknown">Lady Abe</author>
+            <lg>
+            <l>I shall think of nothing more now.</l>
+            <l>To you I have yielded, my dear;</l>
+            <l>Upon you my soul leans.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>506</p_number>
+            <author sex="female" role="unknown">Lady Abe</author>
+            <lg>
+            <l>Think not of things, my beloved!</l>
+            <l>Have you not me--who would go,</l>
+            <l>If need be, through fire and flood for you?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>514</p_number>
+            <author sex="female" role="unknown">Lady Abe</author>
+            <lg>
+            <l>My very soul, it seems,</l>
+            <l>Has stolen into every stitch</l>
+            <l>Of the robe you wear.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>521</p_number>
+            <author sex="female" role="unknown">A Young Woman of Hitachi</author>
+            <context>To Fujiwara Umakai when he left the province for the capital upon his transfer
+             to a new post.</context>
+            <lg>
+            <l>Forget not, I pray, your Eastland girl</l>
+            <l>Who will be thinking of you always,</l>
+            <l>As she cuts the hemp-stalks standing in the yard</l>
+            <l>And spreads them out to dry.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>532</p_number>
+            <author sex="male" role="c_official">Otomo Sukunamaro</author>
+            <lg>
+            <l>She goes to the sun-bright palace;</l>
+            <l>Yet so dear to me is the maiden,</l>
+            <l>It is heart-ache to keep her,</l>
+            <l>But despair to let her go.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>549</p_number>
+            <author sex="unknown" role="c_official">Anonymous</author>
+            <context>On bidding farewell at <location>Ashiki</location>, <location>Chikuzen</location>, to Ishikawa Taruhito, an official of
+             the <location>Dazaifu</location>, transferred to a new post, in the first year of ]inki (724).</context>
+            <lg>
+            <l>My friend, you are setting out</l>
+            <l>On a long, long journey--</l>
+            <l>May the gods of heaven and earth</l>
+            <l>Help you till you reach your home!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>557</p_number>
+            <author sex="male" role="c_official">Hanishi Mitoshi</author>
+            <context>Composed at sea during his voyage from <location>Tsukushi</location> to the capital.</context>
+            <lg>
+            <l>As we go fast, rowing the huge ship,</l>
+            <l>Should she hit the rocks and overturn--</l>
+            <l>Oh, let her overturn! I shall not mind</l>
+            <l>Since it is for my dear wife's sake.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>559-560</p_number>
+            <author sex="male" role="m_official">Otomo Momoyo</author>
+            <context>Love poems.</context>
+            <lg>
+            <l>I have lived my life</l>
+            <l>In peace and quiet-</l>
+            <l>Ah, that I should encounter</l>
+            <l>Now in my declining years</l>
+            <l>Love such as this!</l>
+
+            <l>When I shall have died of love—</l>
+            <l>What can avail me then?</l>
+            <l>I crave again to see you</l>
+            <l>While I live, dear lady.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>571</p_number>
+            <author sex="male" role="m_official">Otomo Yotsuna</author>
+            <context>Composed when bidding farewell at the post town; of <location>Ashiki</location>, <location>Chikuzen</location>, to Lord
+             Otomo, Governor- General of the Dazaifu, who was appointed Grand Councillor of State
+             and departed for the capital.</context>
+            <lg>
+            <l>Beautiful is the moon-lit night,</l>
+            <l>And clear the voice of the river.</l>
+            <l>Here let all of us make merry—</l>
+            <l>You who go and we who remain!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>573</p_number>
+            <author sex="male" role="monk">Manzei</author>
+            <context>Addressed by Manzei, the monk, to Lord Otomo, Govemor-General of the Dazaifu,
+             after his return to the capital.</context>
+            <lg>
+            <l> Even after my locks,</l>
+            <l> Black as the berries of pardanthus,</l>
+            <l> Have all turned white,</l>
+            <l> There comes a time when I must nurse</l>
+            <l> Heart-aching love, alas!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>574</p_number>
+            <author sex="male" role="m_official">Otomo Tabito</author>
+            <context>Reply to the Monk Manzei</context>
+            <lg>
+            <l>Here in the capital I wonder</l>
+            <l>Where may be your land of <location>Tsukushi</location>--</l>
+            <l>It must lie, alas! my friend,</l>
+            <l>Far beyond the mountains</l>
+            <l>Where white clouds hover.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>594</p_number>
+            <author sex="female" role="unknown">Lady Kasa</author>
+            <context>To Otomo Yakamochi.</context>
+            <lg>
+            <l>In the loneliness of my heart </l>
+            <l>I feel as if I should perish</l>
+            <l>Like the pale dew-drop</l>
+            <l>Upon the grass of my garden</l>
+            <l>In the gathering shades of twilight.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>596</p_number>
+            <author sex="female" role="unknown">Lady Kasa</author>
+            <lg>
+            <l>Even the sands uncounted of a long beach</l>
+            <l>That takes eight hundred days to travel—</l>
+            <l>Could they at all outnumber</l>
+            <l>My thoughts of love,</l>
+            <l>O guardian of the isle on the sea?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>600</p_number>
+            <author sex="female" role="unknown">Lady Kasa</author>
+            <lg>
+            <l>Oh how steadily I love you--</l>
+            <l>You who awe me</l>
+            <l>Like the thunderous waves</l>
+            <l>That lash the sea-coast of Ise!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>602-605</p_number>
+            <author sex="female" role="unknown">Lady Kasa</author>
+            <lg>
+            <l>More sad thoughts crowd into my mind</l>
+            <l>When evening comes; for then</l>
+            <l>Appears your phantom shape--</l>
+            <l>Speaking as I have known you speak.</l>
+
+            <l>IF it were death to love, </l>
+            <l>I should have died--</l>
+            <l>And died again</l>
+            <l>One thousand times over.</l>
+
+            <l>I dreamed I was holding </l>
+            <l>A double-edged sword close to my body--</l>
+            <l>What does it foretell? It tells</l>
+            <l>That I shall meet you soon.</l>
+
+            <l>IF the gods of heaven and earth </l>
+            <l>Were bereft of reason,</l>
+            <l>I might die</l>
+            <l>Without seeing you</l>
+            <l>Whom I love so well.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>607-608</p_number>
+            <author sex="female" role="unknown">Lady Kasa</author>
+            <lg>
+            <l>The bells are tolling, </l>
+            <l>Bidding all to rest.</l>
+            <l>But you being for ever on my mind,</l>
+            <l>I cannot sleep.</l>
+
+            <l>To love you who love me not</l>
+            <l>Is like going to a great temple</l>
+            <l>To bow in adoration</l>
+            <l>Behind the back of the famished devil.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>632</p_number>
+            <author sex="male" role="prince">Prince Yuhara</author>
+            <context>Addressed to a young woman.</context>
+            <lg>
+            <l>What can I do with you--</l>
+            <l>You who so resemble</l>
+            <l>The lautel in the moon</l>
+            <l>That I see with my eyes</l>
+            <l>But cannot touch with my hands?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>650</p_number>
+            <author sex="male" role="governor">Otomo Miyori</author>
+            <lg>
+            <l>On again meeting a lady.</l>
+            <l>You seem to have lived, my lady,</l>
+            <l>In the Land of Eternity.</l>
+            <l>You have grown younger</l>
+            <l>Than when so many years ago</l>
+            <l>I saw you last.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>670</p_number>
+            <author sex="male" role="prince">Prince Yuhara</author>
+            <context>To anonymous person</context>
+            <lg>
+            <l>By the light of the Moon God</l>
+            <l>Come to me, dear heart!</l>
+            <l>No mountain walls divide us—</l>
+            <l>The way is not long.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>671</p_number>
+            <author sex="unknown" role="unknown">Anonymous</author>
+            <context>Reply to prince yuhara</context>
+            <lg>
+            <l>Though clear and bright</l>
+            <l>The Moon God lights the way,</l>
+            <l>So blind am I with love,</l>
+            <l>I feel I cannot reach you.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>709</p_number>
+            <author sex="female" role="unknown">Oyakeme</author>
+            <context>a Young Woman of <location>Buzen</location></context>
+            <lg>
+            <l>In the twilight darkness</l>
+            <l>Indistinguishable is the road.</l>
+            <l>Wait till the moon-rise, and go,</l>
+            <l>That I may see you, my dearest,</l>
+            <l>Even for that while!</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>710</p_number>
+            <author sex="female" role="unknown">Ato Tobira</author>
+            <context>a Young Woman</context>
+            <lg>
+            <l>Once--only once,</l>
+            <l>I saw him in the light</l>
+            <l>Of the sky-wandering moon;</l>
+            <l>Now I see him in my dreams.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>711</p_number>
+            <author sex="female" role="unknown">Taniha Ome</author>
+            <context>a Young Woman</context>
+            <lg>
+            <l>Here where the wild ducks</l>
+            <l>Sport in the pond,</l>
+            <l>The leaves fall from the trees</l>
+            <l>And float-but no floating heart</l>
+            <l>Have I who love you true.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>715</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>Addressed to a young woman</context>
+            <lg>
+            <l>Over the river ferry of <location>Saho</location>, </l>
+            <l>Where the sanderlings cry--</l>
+            <l>When can I come to you,</l>
+            <l>Crossing on horseback</l>
+            <l>The crystal-clear shallows?</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>718-719</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>Addressed to a young woman</context>
+             <lg>
+            <l>Having seen your smile </l>
+            <l>In a dream by chance,</l>
+            <l>I keep now burning in my heart</l>
+            <l>Love's inextinguishable flame.</l>
+
+            <l>How I waste and waste away </l>
+            <l>With love forlorn--</l>
+            <l>I who have thought myself</l>
+            <l>A strong man!</l>
+             </lg>
+        </p>
+
+        <p>
+            <p_number>722</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>Addressed to a young woman</context>
+            <lg>
+            <l>Rather than that I should thus pine</l>
+            <l>for you,</l>
+            <l>Would I had been transmuted</l>
+            <l>Into a tree or a stone,</l>
+            <l>Nevermore to feel the pangs of love.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>728</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>To Lady Otomo of Sakanoe's Elder Daughter.</context>
+            <lg>
+            <l>Would there were a land</l>
+            <l>Uninhabited by man!</l>
+            <l>Thither I'd take my love,</l>
+            <l>And happily we twain would live.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>731</p_number>
+            <author sex="female" role="wife">Lady Otomo of Sakanoe's Elder Daughter</author>
+            <context>To Otomo Yakamochi.</context>
+            <lg>
+            <l>What do I care if my name</l>
+            <l>Be on the tongues</l>
+            <l>Of five hundred, or a thousand, men!</l>
+            <l>Only should your name get abroad</l>
+            <l>I would regret it and weep.</l>
+            </lg>
+        </p>
+
+        <p>
+            <p_number>741</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>To Lady Otomo of Sakanoe's Elder Daughter.</context>
+            <lg>
+            <l>What pain and distress</l>
+            <l>A dream tryst brings!</l>
+            <l>I start and wake,</l>
+            <l>And grope in vain for you,</l>
+            <l>Beyond the reach of my hand.</l>
+            </lg>
+        </p>
+    </book>
+    <book num="VIII">
+        <p><p_number>1418</p_number>
+            <author sex="male" role="prince">Prince Shiki</author> 
+            <context>A song of joy</context> 
+            <lg>
+                <l>Above the cascade tumbling down the rocks</l>
+                <l>The bracken sprouts and burgeons on the hill—</l>
+                <l>Ah, the happy spring is come!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1424</p_number>
+            <author sex="male" role="emp_companion">Yamabe Akahito</author>
+            <lg>
+                <l>Forth to the field of spring </l>
+                <l>I went to gather violets--</l>
+                <l>Enamoured of the field</l>
+                <l>I slept there all night through.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1427</p_number>
+            <author sex="male" role="emp_companion">Yamabe Akahito</author>
+            <lg>
+                <l>It snowed yesterday--</l>
+                <l>And to-day it snows</l>
+                <l>On the meadow I have marked</l>
+                <l>For gathering spring herbs to-morrow.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1435</p_number>
+            <author sex="male" role="prince">Prince Atsumi</author>
+            <lg>
+                <l>Mirrored in the waters of the</l>
+                <l><location>Kamunabi River</location>,</l>
+                <l>Where the song-frogs call,</l>
+                <l>Do they bloom now—</l>
+                <l>those flowers of the yellow</l>
+                <l>Rose?</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1442</p_number>
+            <author sex="male" role="official">Tajihi Yanushi</author>
+            <lg>
+                <l>Her husband is gone towards <location>Naniwa</location>;</l>
+                <l>Pity it is to see a young wife,</l>
+                <l>Left gathering spring herbs!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1453-1455</p_number>
+            <author sex="male" role="emp_companion">Kasa Kanamura</author> 
+            <context>Addressed to an envoy departing for <location>China</location>, in
+                spring, in the third month intercalary of the fifth year of Tempyo</context>
+            <lg>
+                <l>You who are constantly on my mind,</l>
+                <l>And dear to me as the breath of life—</l>
+                <l>You depart in obedience to the imperial command,</l>
+                <l>From the <location>cape of Mitsu</location> in <location>Naniwa Bay</location>,</l>
+                <l>Where in the evening the cranes call to their mates.</l>
+                <l>You will board a great ship, full-oared,</l>
+                <l>And sail away past many an island</l>
+                <l>On the ocean of high white waves.</l>
+                <l>Then, I, who remain, will see you go,</l>
+                <l>Making offerings and prayers to the gods.</l>
+                <l>Come back soon, O friend !</l>
+                <envoy>
+                    <l>Beyond the waves in the clouds</l>
+                    <l>Is lost a small island--</l>
+                    <l>Even so, when you are gone,</l>
+                    <l>Oh, the choking grief!</l>
+               
+                    <l>Would I could be</l>
+                    <l>The shaft of your ship's oar</l>
+                    <l>Rather than thus remain</l>
+                    <l>Disconsolate even unto death!</l>
+                </envoy>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1456</p_number>
+            <author sex="male" role="official">Fujiwara Hirotsugu</author> 
+            <context>Poem sent with cherry-flowers to a young
+                Lady</context> 
+            <lg>
+                <l>Slight not these flowers!</l>
+                <l>Each single petal contains</l>
+                <l>A hundred words of mine.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1457</p_number>
+            <author sex="female" role="unknown">Young Lady</author> 
+            <context>Reply by the young lady to Fujiwara Hirotsugu.</context>
+            <lg>
+                <l>Were these flowers broken off,</l>
+                <l>Unable to hold in each petal</l>
+                <l>A hundred words of yours?</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1460</p_number>
+            <author sex="female" role="consort">Lady Ki</author>
+            <lg>
+                <l>Pour your sake, O slave,</l>
+                <l>I plucked with busy hands</l>
+                <l>These sedge-buds from the spring meadow.</l>
+                <l>Eat them and grow fat!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1461</p_number>
+            <author sex="female" role="consort">Lady Ki</author>
+            <lg>
+                <l>The silk-tree that blooms in daytime</l>
+                <l>And sleeps the love-sleep at night,</l>
+                <l>Your lady should not see alone--</l>
+                <l>Look on this well, my slave!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1479</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author>
+            <context>On the cicadas.</context> 
+            <lg>
+                <l>Tired of sitting indoors all day long,</l>
+                <l>I seek the garden for solace, only to hear</l>
+                <l>The shrill chirps of the cicadas.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1491</p_number>
+            <author sex="male" role="c_official">Otomo Yakamochi</author> 
+            <context>On the cuckoo.</context> 
+            <lg>
+                <l>In the leafy tree-tops</l>
+                <l>Of the summer mountain</l>
+                <l>The cuckoo calls--</l>
+                <l>Oh, how far off his echoing voice!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1500</p_number>
+            <author sex="female" role="wife">Lady Otomo of Sakanoe</author>
+            <lg>
+                <l>Oh, the pain of my love that you</l>
+                <l>know not--</l>
+                <l>A love like the maiden-lily</l>
+                <l>Blooming in the thicket of the summer moor!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1552</p_number>
+            <author sex="male" role="prince">Prince Yuhara</author>
+            <context>On crickets.</context>
+            <lg>
+                <l>The evening moon shines-</l>
+                <l>Here in the garden white with dew</l>
+                <l>The crickets sing, alas!</l>
+                <l>Burthening my weary heart.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1622</p_number>
+            <author sex="female" role="daughter">Lady Otomo of Tamura</author>
+            <context>To her sister, Lady Otomo of
+                Sakanoe’s Elder Daughter.</context>
+            <lg>
+                <l>At home the hagi flowers of autumn</l>
+                <l>Are abloom in the evening glow—</l>
+                <l>Would that this moment</l>
+                <l>I could see your radiant form!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1656</p_number>
+            <author sex="female" role="wife">Lady Otomo of Sakanoe</author> 
+            <context>To anonymous</context> 
+            <lg>
+                <l>After we, dear friends, have drunk</l>
+                <l>together,</l>
+                <l>Setting plum-blossoms afloat in our wine-cups,</l>
+                <l>I care not if those on the tree be gone.</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1657</p_number>
+            <author sex="unknown" role="unknown">Anonymous</author> 
+            <context>Reply to Lady Otomo of Sakanoe</context>
+            <lg>
+                <l>The law allows our feasting;</l>
+                <l>Are we to drink the wine this one night only?</l>
+                <l>Do not fall, O blossoms, fall not away!</l>
+            </lg>
+        </p>
+        
+        <p>
+            <p_number>1658</p_number>
+            <author sex="female" role="empress">Empress Komyo</author> 
+            <context>To the Emperor Shomu.</context>
+            <lg>
+                <l>How gladdening would be this falling snow,</l>
+                <l>Could I but watch with you, my husband!</l>
+            </lg>
+        </p>
+    </book>
+    
+</Manyoshu>
