@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(50, 200)">
+      <rect x="0"
+            y="-46.15384615384615"
+            height="46.15384615384615"
+            width="20"
+            fill="blue"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="0"
+            y="-61.53846153846154"
+            height="15.384615384615385"
+            width="20"
+            fill="darkorange"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="0"
+            y="-100"
+            height="38.46153846153846"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="30"
+            y="-42.857142857142854"
+            height="42.857142857142854"
+            width="20"
+            fill="blue"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="30"
+            y="-50"
+            height="7.142857142857143"
+            width="20"
+            fill="darkorange"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="30"
+            y="-100"
+            height="50"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="60"
+            y="-45.16129032258065"
+            height="45.16129032258065"
+            width="20"
+            fill="blue"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="60"
+            y="-51.612903225806456"
+            height="6.451612903225806"
+            width="20"
+            fill="darkorange"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="60"
+            y="-100"
+            height="48.38709677419355"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="90"
+            y="-55.55555555555556"
+            height="55.55555555555556"
+            width="20"
+            fill="blue"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="90"
+            y="-61.111111111111114"
+            height="5.555555555555555"
+            width="20"
+            fill="darkorange"
+            stroke="black"
+            stroke-width="1"/>
+      <rect x="90"
+            y="-100"
+            height="38.888888888888886"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            y1="-50"
+            x2="120"
+            y2="-50"
+            stroke="grey"
+            stroke-width="1"
+            stroke-opacity="0.7"
+            stroke-dasharray="5,3"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-100"
+            stroke="black"
+            stroke-width="3"
+            stroke-linejoin="square"
+            stroke-linecap="square"/>
+      <line x1="0"
+            y1="0"
+            x2="120"
+            y2="0"
+            stroke="black"
+            stroke-width="3"
+            stroke-linejoin="square"
+            stroke-linecap="square"/>
+      <text x="-10" y="0" text-anchor="end">0%</text>
+      <text x="-10" y="-50" text-anchor="end">50%</text>
+      <text x="-10" y="-100" text-anchor="end">100%</text>
+      <rect x="125"
+            y="-125"
+            height="5"
+            width="5"
+            fill="red"
+            stroke="black"/>
+      <rect x="125"
+            y="-115"
+            height="5"
+            width="5"
+            fill="darkorange"
+            stroke="black"/>
+      <rect x="125"
+            y="-105"
+            height="5"
+            width="5"
+            fill="blue"
+            stroke="black"/>
+      <text x="-10" y="-130" font-size="15px">Gender Distribution</text>
+      <text x="132" y="-120" font-size="7px">Female</text>
+      <text x="132" y="-110" font-size="7px">Unknown</text>
+      <text x="132" y="-100" font-size="7px">Male</text>
+      <text x="0" y="13" font-size="10px">Book</text>
+      <text x="30" y="13" font-size="10px">Book</text>
+      <text x="60" y="13" font-size="10px">Book</text>
+      <text x="90" y="13" font-size="10px">Book</text>
+      <text x="10" y="21" font-size="10px">I</text>
+      <text x="38" y="21" font-size="10px">II</text>
+      <text x="66" y="21" font-size="10px">IV</text>
+      <text x="92" y="21" font-size="10px">VIII</text>
+   </g>
+</svg>
