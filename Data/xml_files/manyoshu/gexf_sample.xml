@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p>
+    <p_number>3-4</p_number>
+    <author sex="female" role="empress">Empress Kogyoku</author>
+    <context>Presented to the <person sex="male" role="emperor">Emperor Jomei</person> by a messenger, <person sex="male" role="messenger">Hashibito Oyu</person>, on the occasion
+        of his hunting on the <location>plain of Uchi</location>.</context>
+    <lg>
+        <l>Hear the twang of the mid-strings</l>
+        <l>Of his royal birchwood bow,</l>
+        <l>Which my Sovereign, ruling in peace,</l>
+        <l>Loves to handle at break of day,</l>
+        <l>And fondly leans against with dusk.</l>
+        <l>Now he must be out for his morning hunt,</l>
+        <l>Now he must be out for his evening chase;</l>
+        <l>I hear the twang of the mid-string</l>
+        <l>Of his loved birchwood bow!</l>
+        <envoy>
+            <l>With horses drawn abreast</l>
+            <l>On the open waste of Uchi,</l>
+            <l>This morning he must be trampling</l>
+            <l>That grassy land!</l>
+        </envoy>
+    </lg>
+</p>
