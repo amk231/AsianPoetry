@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<religion>
+    <author id="wangwei" backg="court_off">
+        <total>13</total>
+        <buddhism>7</buddhism>
+        <daoism>1</daoism>
+        <yinshi>2</yinshi>
+        <other>2</other>
+        <laypeople>1</laypeople>
+    </author>
+
+    <author id="menghaoran" backg="poet">
+        <total>12</total>
+        <buddhism>2</buddhism>
+        <daoism>3</daoism>
+        <yinshi>5</yinshi>
+        <other>2</other>
+    </author>
+    
+    <author id="lilongji" backg="emperor">
+        <total>4</total>
+        <buddhism>0</buddhism>
+        <daoism>4</daoism>
+        <yinshi>0</yinshi>
+        <other>0</other>
+    </author>
+    
+    <author id="libai" backg="poet">
+        <total>19</total>
+        <buddhism>5</buddhism>
+        <daoism>6</daoism>
+        <yinshi>8</yinshi>
+        <other>0</other>
+    </author>
+    
+    <author id="wangchangling" backg="court_off">
+        <total>6</total>
+        <buddhism>3</buddhism>
+        <daoism>2</daoism>
+        <yinshi>0</yinshi>
+        <other>1</other>
+    </author>
+    
+    <author id="chuguangxi" backg="prov_off">
+        <total>8</total>
+        <buddhism>0</buddhism>
+        <daoism>4</daoism>
+        <yinshi>3</yinshi>
+        <other>1</other>
+    </author>
+    
+    <author id="liuchangqing" backg="prov_off">
+        <total>18</total>
+        <buddhism>7</buddhism>
+        <daoism>4</daoism>
+        <yinshi>5</yinshi>
+        <other>2</other>
+    </author>
+    
+    <author id="liqi" backg="court_off">
+        <total>5</total>
+        <buddhism>0</buddhism>
+        <daoism>2</daoism>
+        <yinshi>3</yinshi>
+        <other>0</other>
+    </author>
+    
+    <author id="prov_off">
+        <total>37</total>
+        <buddhism>7</buddhism>
+        <daoism>13</daoism>
+        <yinshi>12</yinshi>
+        <other>5</other>
+    </author>
+    <author id="court_off">
+        <total>34</total>
+        <buddhism>16</buddhism>
+        <daoism>9</daoism>
+        <yinshi>4</yinshi>
+        <laypeople>1</laypeople>
+        <other>4</other>
+    </author>
+    <author id="poet">
+        <total>31</total>
+        <buddhism>7</buddhism>
+        <daoism>9</daoism>
+        <yinshi>13</yinshi>
+        <laypeople>1</laypeople>
+        <other>1</other>
+    </author>
+    <author id="emperor">
+        <total>5</total>
+        <buddhism>1</buddhism>
+        <daoism>3</daoism>
+        <yinshi>0</yinshi>
+        <laypeople>0</laypeople>
+        <other>0</other>
+    </author>
+</religion>

@@ -1,0 +1,24 @@
+<group name="wangwei"
+    ht="[hdd]"
+    lp="[jjd][djd][hendl][lyd]"
+    rp="[sndd]">
+    <place name="jjd">41.22</place>
+    <place name="djd">6.11</place>
+    <place name="gnd">1.53</place>
+    <place name="hdd">6.11</place>
+    <place name="hbdn">1.53</place>
+    <place name="hbdw">1.53</place>
+    <place name="hendy">9.16</place>
+    <place name="hendl">1.53</place>
+    <place name="hnd">1.53</place>
+    <place name="jndd">5.34</place>
+    <place name="jnxd">6.11</place>
+    <place name="lnd">1.53</place>
+    <place name="sndd">6.87</place>
+    <place name="snxd">0</place>
+    <place name="lyd">1.53</place>
+    <place name="jnd">6.87</place>
+    <place name="qzd">0</place>
+    <place name="tibet">0</place>
+    <place name="japan">1.53</place>
+</group>

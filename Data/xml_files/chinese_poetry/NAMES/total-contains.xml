@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<combi>
+    <types name="total-crt">
+        <type name="containsS" eng="S" chn="姓">259</type>
+        <type name="containsG" eng="G" chn="名">98</type>
+        <type name="containsT" eng="T" chn="头衔、官职">203</type>
+        <type name="containsZ" eng="Z" chn="字">2</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">6</type>
+        <type name="containsL" eng="FR" chn="家族排行">19</type>
+        <type name="containsK" eng="K" chn="亲属称谓">8</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+    <types name="total-prv">
+        <type name="containsS" eng="S" chn="姓">139</type>
+        <type name="containsG" eng="G" chn="名">32</type>
+        <type name="containsT" eng="T" chn="头衔、官职">129</type>
+        <type name="containsZ" eng="Z" chn="字">1</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">53</type>
+        <type name="containsL" eng="FR" chn="家族排行">3</type>
+        <type name="containsK" eng="K" chn="亲属称谓">7</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+    <types name="total-ry">
+        <type name="containsS" eng="S" chn="姓">3</type>
+        <type name="containsG" eng="G" chn="名">0</type>
+        <type name="containsT" eng="T" chn="头衔、官职">54</type>
+        <type name="containsZ" eng="Z" chn="字">0</type>
+        <type name="containsZH" eng="ZH" chn="制">186</type>
+        <type name="containsL" eng="L" chn="地名">0</type>
+        <type name="containsL" eng="FR" chn="家族排行">0</type>
+        <type name="containsK" eng="K" chn="亲属称谓">2</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+    <types name="total-uc">
+        <type name="containsS" eng="S" chn="姓">84</type>
+        <type name="containsG" eng="G" chn="名">36</type>
+        <type name="containsT" eng="T" chn="头衔、官职">7</type>
+        <type name="containsZ" eng="Z" chn="字">0</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">13</type>
+        <type name="containsL" eng="FR" chn="家族排行">34</type>
+        <type name="containsK" eng="K" chn="亲属称谓">13</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+    <types name="total-bud">
+        <type name="containsS" eng="S" chn="姓">2</type>
+        <type name="containsG" eng="G" chn="名">4</type>
+        <type name="containsT" eng="T" chn="头衔、官职">30</type>
+        <type name="containsZ" eng="Z" chn="字">0</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">2</type>
+        <type name="containsL" eng="FR" chn="家族排行">0</type>
+        <type name="containsK" eng="K" chn="亲属称谓">2</type>
+        <type name="containsF" eng="F" chn="法名">30</type>
+    </types>
+    <types name="total-dao">
+        <type name="containsS" eng="S" chn="姓">34</type>
+        <type name="containsG" eng="G" chn="名">13</type>
+        <type name="containsT" eng="T" chn="头衔、官职">35</type>
+        <type name="containsZ" eng="Z" chn="字">0</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">9</type>
+        <type name="containsL" eng="FR" chn="家族排行">1</type>
+        <type name="containsK" eng="K" chn="亲属称谓">0</type>
+        <type name="containsF" eng="F" chn="法名">3</type>
+    </types>
+    <types name="total-mili">
+        <type name="containsS" eng="S" chn="姓">26</type>
+        <type name="containsG" eng="G" chn="名">11</type>
+        <type name="containsT" eng="T" chn="头衔、官职">29</type>
+        <type name="containsZ" eng="Z" chn="字">0</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">3</type>
+        <type name="containsL" eng="FR" chn="家族排行">6</type>
+        <type name="containsK" eng="K" chn="亲属称谓">3</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+    <types name="total-ys">
+        <type name="containsS" eng="S" chn="姓">31</type>
+        <type name="containsG" eng="G" chn="名">11</type>
+        <type name="containsT" eng="T" chn="头衔、官职">17</type>
+        <type name="containsZ" eng="Z" chn="字">1</type>
+        <type name="containsZH" eng="ZH" chn="制">0</type>
+        <type name="containsL" eng="L" chn="地名">1</type>
+        <type name="containsL" eng="FR" chn="家族排行">8</type>
+        <type name="containsK" eng="K" chn="亲属称谓">0</type>
+        <type name="containsF" eng="F" chn="法名">0</type>
+    </types>
+</combi>

@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<name>
+   <group type="total">
+      <relationship source="total" target="crt">
+         <name type="containSname" chn="姓" eng="Surname">259</name>
+         <name type="containGname" chn="名" eng="Gname">98</name>
+         <name type="containZi" chn="字" eng="Zi">2</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">203</name>
+         <name type="containLocation" chn="地名" eng="Location">6</name>
+         <name type="containFr" chn="家族排行" eng="FR">19</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">8</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="prv">
+         <name type="containSname" chn="姓" eng="Surname">139</name>
+         <name type="containGname" chn="名" eng="Gname">27</name>
+         <name type="containZi" chn="字" eng="Zi">1</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">129</name>
+         <name type="containLocation" chn="地名" eng="Location">53</name>
+         <name type="containFr" chn="家族排行" eng="FR">3</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">7</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="ry">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">32</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">1</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">31</name>
+      </relationship>
+      <relationship source="total" target="bud">
+         <name type="containSname" chn="姓" eng="Surname">2</name>
+         <name type="containGname" chn="名" eng="Gname">4</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">30</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">2</name>
+         <name type="containFname" chn="法名" eng="Faming">29</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="dao">
+         <name type="containSname" chn="姓" eng="Surname">33</name>
+         <name type="containGname" chn="名" eng="Gname">12</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">34</name>
+         <name type="containLocation" chn="地名" eng="Location">9</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">3</name>
+         <name type="containHonorific" chn="制" eng="Zhi">1</name>
+      </relationship>
+      <relationship source="total" target="ys">
+         <name type="containSname" chn="姓" eng="Surname">31</name>
+         <name type="containGname" chn="名" eng="Gname">11</name>
+         <name type="containZi" chn="字" eng="Zi">1</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">17</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">8</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="uc">
+         <name type="containSname" chn="姓" eng="Surname">84</name>
+         <name type="containGname" chn="名" eng="Gname">36</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">7</name>
+         <name type="containLocation" chn="地名" eng="Location">13</name>
+         <name type="containFr" chn="家族排行" eng="FR">34</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">13</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="com">
+         <name type="containSname" chn="姓" eng="Surname">18</name>
+         <name type="containGname" chn="名" eng="Gname">10</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">4</name>
+         <name type="containFr" chn="家族排行" eng="FR">6</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">5</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="mili">
+         <name type="containSname" chn="姓" eng="Surname">26</name>
+         <name type="containGname" chn="名" eng="Gname">11</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">29</name>
+         <name type="containLocation" chn="地名" eng="Location">3</name>
+         <name type="containFr" chn="家族排行" eng="FR">6</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">3</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="poet">
+         <name type="containSname" chn="姓" eng="Surname">2</name>
+         <name type="containGname" chn="名" eng="Gname">2</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="total" target="lc">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">2</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+   </group>
+   <group type="crt">
+      <relationship source="crt" target="crt">
+         <name type="containSname" chn="姓" eng="Surname">144</name>
+         <name type="containGname" chn="名" eng="Gname">69</name>
+         <name type="containZi" chn="字" eng="Zi">1</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">105</name>
+         <name type="containLocation" chn="地名" eng="Location">4</name>
+         <name type="containFr" chn="家族排行" eng="FR">10</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">5</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="prv">
+         <name type="containSname" chn="姓" eng="Surname">56</name>
+         <name type="containGname" chn="名" eng="Gname">12</name>
+         <name type="containZi" chn="字" eng="Zi">1</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">45</name>
+         <name type="containLocation" chn="地名" eng="Location">20</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="ry">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">29</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">29</name>
+      </relationship>
+      <relationship source="crt" target="bud">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">13</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">16</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="dao">
+         <name type="containSname" chn="姓" eng="Surname">8</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">9</name>
+         <name type="containLocation" chn="地名" eng="Location">4</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">1</name>
+      </relationship>
+      <relationship source="crt" target="ys">
+         <name type="containSname" chn="姓" eng="Surname">4</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">3</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="uc">
+         <name type="containSname" chn="姓" eng="Surname">27</name>
+         <name type="containGname" chn="名" eng="Gname">11</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">3</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">14</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">4</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="com">
+         <name type="containSname" chn="姓" eng="Surname">3</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">2</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="mili">
+         <name type="containSname" chn="姓" eng="Surname">14</name>
+         <name type="containGname" chn="名" eng="Gname">6</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">17</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">2</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">1</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="poet">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="crt" target="lc">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">1</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+   </group>
+   <group type="prv">
+      <relationship source="prv" target="crt">
+         <name type="containSname" chn="姓" eng="Surname">69</name>
+         <name type="containGname" chn="名" eng="Gname">9</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">62</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">8</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="prv">
+         <name type="containSname" chn="姓" eng="Surname">49</name>
+         <name type="containGname" chn="名" eng="Gname">13</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">40</name>
+         <name type="containLocation" chn="地名" eng="Location">17</name>
+         <name type="containFr" chn="家族排行" eng="FR">2</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">1</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="ry">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">3</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">2</name>
+      </relationship>
+      <relationship source="prv" target="bud">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">10</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">9</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="dao">
+         <name type="containSname" chn="姓" eng="Surname">11</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">13</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">2</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="ys">
+         <name type="containSname" chn="姓" eng="Surname">12</name>
+         <name type="containGname" chn="名" eng="Gname">5</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">7</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="uc">
+         <name type="containSname" chn="姓" eng="Surname">21</name>
+         <name type="containGname" chn="名" eng="Gname">13</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">2</name>
+         <name type="containLocation" chn="地名" eng="Location">4</name>
+         <name type="containFr" chn="家族排行" eng="FR">5</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">3</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="com">
+         <name type="containSname" chn="姓" eng="Surname">3</name>
+         <name type="containGname" chn="名" eng="Gname">2</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">2</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="mili">
+         <name type="containSname" chn="姓" eng="Surname">5</name>
+         <name type="containGname" chn="名" eng="Gname">3</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">6</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="poet">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="prv" target="lc">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+   </group>
+   <group type="poet">
+      <relationship source="poet" target="crt">
+         <name type="containSname" chn="姓" eng="Surname">32</name>
+         <name type="containGname" chn="名" eng="Gname">11</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">32</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">3</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="prv">
+         <name type="containSname" chn="姓" eng="Surname">34</name>
+         <name type="containGname" chn="名" eng="Gname">2</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">44</name>
+         <name type="containLocation" chn="地名" eng="Location">16</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">6</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="ry">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="bud">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">3</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">5</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">2</name>
+         <name type="containFname" chn="法名" eng="Faming">2</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="dao">
+         <name type="containSname" chn="姓" eng="Surname">10</name>
+         <name type="containGname" chn="名" eng="Gname">7</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">8</name>
+         <name type="containLocation" chn="地名" eng="Location">3</name>
+         <name type="containFr" chn="家族排行" eng="FR">1</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="ys">
+         <name type="containSname" chn="姓" eng="Surname">15</name>
+         <name type="containGname" chn="名" eng="Gname">5</name>
+         <name type="containZi" chn="字" eng="Zi">1</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">7</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">6</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="uc">
+         <name type="containSname" chn="姓" eng="Surname">35</name>
+         <name type="containGname" chn="名" eng="Gname">11</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">2</name>
+         <name type="containLocation" chn="地名" eng="Location">7</name>
+         <name type="containFr" chn="家族排行" eng="FR">15</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">6</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="com">
+         <name type="containSname" chn="姓" eng="Surname">12</name>
+         <name type="containGname" chn="名" eng="Gname">8</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">2</name>
+         <name type="containFr" chn="家族排行" eng="FR">3</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">3</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="mili">
+         <name type="containSname" chn="姓" eng="Surname">7</name>
+         <name type="containGname" chn="名" eng="Gname">2</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">6</name>
+         <name type="containLocation" chn="地名" eng="Location">1</name>
+         <name type="containFr" chn="家族排行" eng="FR">3</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">2</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="poet">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="poet" target="lc">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">1</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+   </group>
+   <group type="ry">
+      <relationship source="ry" target="crt">
+         <name type="containSname" chn="姓" eng="Surname">6</name>
+         <name type="containGname" chn="名" eng="Gname">6</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">1</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="prv">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="ry">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">1</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="bud">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">1</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">1</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="dao">
+         <name type="containSname" chn="姓" eng="Surname">4</name>
+         <name type="containGname" chn="名" eng="Gname">3</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">4</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">1</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="ys">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="uc">
+         <name type="containSname" chn="姓" eng="Surname">1</name>
+         <name type="containGname" chn="名" eng="Gname">1</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="com">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="mili">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="poet">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+      <relationship source="ry" target="lc">
+         <name type="containSname" chn="姓" eng="Surname">0</name>
+         <name type="containGname" chn="名" eng="Gname">0</name>
+         <name type="containZi" chn="字" eng="Zi">0</name>
+         <name type="containPosition" chn="头衔、官职" eng="Title">0</name>
+         <name type="containLocation" chn="地名" eng="Location">0</name>
+         <name type="containFr" chn="家族排行" eng="FR">0</name>
+         <name type="containWord" chn="亲属称谓" eng="Kinship">0</name>
+         <name type="containFname" chn="法名" eng="Faming">0</name>
+         <name type="containHonorific" chn="制" eng="Zhi">0</name>
+      </relationship>
+   </group>
+</name>

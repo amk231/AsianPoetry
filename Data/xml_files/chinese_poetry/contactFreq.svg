@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(50, 500)">
+      <line x1="0"
+            x2="1600"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-500"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="1600"
+            y1="-250"
+            y2="-250"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="8 4"/>
+   </g>
+</svg>

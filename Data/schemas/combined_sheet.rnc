@@ -1,0 +1,35 @@
+start = tangPoem
+tangPoem = element tangPoem {title+, meta}
+title = element title {mixed {(person | author | feast | yingzhi | send-off | elegy | anthology | dedication | together | record)*}}
+person = element person {refp, type, text}
+refp = attribute ref {text}
+type = attribute type {"position+sname+gname+fname"|"fname"|"position+location+fname"|"position+fname"|"location+sname+gname+word"|"position+word+gname"|"sname+fr+location"|"sname+location+gname"|"sname+fr+gname"|"fname+honorific"|"sname+gname+fr"|"sname+fr+position"|"position+sname+location"|"position+sname+gname"|"location+word"|"position+sname+location+word"|"position+sname+gname+word+location"|"sname+fr+location+position"|"sname+fr+position+gname"|"position+sname"|"sname+gname"|"position"|"collective"|"indirect"|"sname+fr"|"sname"|"sname+fr+position"|"null"|"word"|"word+gname"|"sname+location"|"sname+zi"|"position+word"|"honorific"|"position+location"|"position+word+name"|"location+surname+honorific"|"position+ame+location"|"position+location+word"|"location+name+word"}
+author = element author {refa, text}
+refa = attribute ref {text}
+feast = element feast {ref_feast*, empty}
+yingzhi = element yingzhi {ref_yingzhi, empty}
+send-off = element send-off {empty}
+elegy = element elegy {empty}
+anthology = element anthology {empty}
+dedication = element dedication {empty}
+together = element together {empty}
+record = element record {empty}
+ref_yingzhi = attribute ref {text}
+ref_feast = attribute ref {text}
+meta = element meta {persons}
+persons = element persons {person1+}
+person1 = element person {id, gender*, backg, chinese, eng, kinship*, hometown*, living_place*, related_place*, zuji*, clan*, empty}
+id = attribute xml:id {xsd:ID}
+gender= attribute gender {"m"|"f"}
+backg = attribute backg {"mili"|"court_off"|"prov_off"|"poet"|"emperor"|"rf"|"daoism"|"buddhism"|"uc"|"l_off"|"arist"|"japan"|"common"|"yingshi"|"musician"|"zhengjun"|"painter"|"off"|"laypeople"|"scholar"|"foreigner"}
+chinese = attribute chinese {text}
+kinship = attribute kinship {text}
+hometown = attribute hometown {text}
+living_place = attribute living_place {text}
+related_place = attribute related_place {text}
+zuji = attribute zuji {text}
+clan = attribute clan {text}
+eng = attribute eng {text}
+
+
+
