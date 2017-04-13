@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(100, 400)">
+      <line x1="-10"
+            y1="0"
+            x2="550"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linejoin="square"
+            stroke-linecap="square"/>
+      <rect x="0"
+            y="-131.57894736842104"
+            height="131.57894736842104"
+            width="20"
+            fill="yellow"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="10" y="10" font-size="10" text-anchor="middle">capital</text>
+      <text x="10"
+            y="-136.57894736842104"
+            text-anchor="middle"
+            font-size="10">13%</text>
+      <rect x="40"
+            y="-26.315789473684212"
+            height="26.315789473684212"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="50" y="10" font-size="10" text-anchor="middle">china</text>
+      <text x="50"
+            y="-31.315789473684212"
+            text-anchor="middle"
+            font-size="10">3%</text>
+      <rect x="80"
+            y="-131.57894736842104"
+            height="131.57894736842104"
+            width="20"
+            fill="purple"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="90" y="10" font-size="10" text-anchor="middle">city</text>
+      <text x="90"
+            y="-136.57894736842104"
+            text-anchor="middle"
+            font-size="10">13%</text>
+      <rect x="120"
+            y="-92.10526315789474"
+            height="92.10526315789474"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="130" y="10" font-size="10" text-anchor="middle">coast</text>
+      <text x="130"
+            y="-97.10526315789474"
+            text-anchor="middle"
+            font-size="10">9%</text>
+      <rect x="160"
+            y="-39.473684210526315"
+            height="39.473684210526315"
+            width="20"
+            fill="orange"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="170" y="10" font-size="10" text-anchor="middle">district</text>
+      <text x="170"
+            y="-44.473684210526315"
+            text-anchor="middle"
+            font-size="10">4%</text>
+      <rect x="200"
+            y="-13.157894736842106"
+            height="13.157894736842106"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="210" y="10" font-size="10" text-anchor="middle">island</text>
+      <text x="210"
+            y="-18.157894736842106"
+            text-anchor="middle"
+            font-size="10">1%</text>
+      <rect x="240"
+            y="-184.21052631578948"
+            height="184.21052631578948"
+            width="20"
+            fill="blue"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="250" y="10" font-size="10" text-anchor="middle">mountain</text>
+      <text x="250"
+            y="-189.21052631578948"
+            text-anchor="middle"
+            font-size="10">18%</text>
+      <rect x="280"
+            y="-52.631578947368425"
+            height="52.631578947368425"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="290" y="10" font-size="10" text-anchor="middle">plain</text>
+      <text x="290"
+            y="-57.631578947368425"
+            text-anchor="middle"
+            font-size="10">5%</text>
+      <rect x="320"
+            y="-105.26315789473685"
+            height="105.26315789473685"
+            width="20"
+            fill="green"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="330" y="10" font-size="10" text-anchor="middle">province</text>
+      <text x="330"
+            y="-110.26315789473685"
+            text-anchor="middle"
+            font-size="10">11%</text>
+      <rect x="360"
+            y="-52.631578947368425"
+            height="52.631578947368425"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="370" y="10" font-size="10" text-anchor="middle">river</text>
+      <text x="370"
+            y="-57.631578947368425"
+            text-anchor="middle"
+            font-size="10">5%</text>
+      <rect x="400"
+            y="-26.315789473684212"
+            height="26.315789473684212"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="410" y="10" font-size="10" text-anchor="middle">sea</text>
+      <text x="410"
+            y="-31.315789473684212"
+            text-anchor="middle"
+            font-size="10">3%</text>
+      <rect x="440"
+            y="-92.10526315789474"
+            height="92.10526315789474"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="450" y="10" font-size="10" text-anchor="middle">town</text>
+      <text x="450"
+            y="-97.10526315789474"
+            text-anchor="middle"
+            font-size="10">9%</text>
+      <rect x="480"
+            y="-26.315789473684212"
+            height="26.315789473684212"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="490" y="10" font-size="10" text-anchor="middle">unknown</text>
+      <text x="490"
+            y="-31.315789473684212"
+            text-anchor="middle"
+            font-size="10">3%</text>
+      <rect x="520"
+            y="-26.315789473684212"
+            height="26.315789473684212"
+            width="20"
+            fill="red"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="530" y="10" font-size="10" text-anchor="middle">village</text>
+      <text x="530"
+            y="-31.315789473684212"
+            text-anchor="middle"
+            font-size="10">3%</text>
+      <text x="100" y="-250" font-size="25">Locations in the Manyoshu</text>
+   </g>
+</svg>
