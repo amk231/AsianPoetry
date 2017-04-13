@@ -10,7 +10,7 @@
                     stroke-linejoin="square" stroke-linecap="square"/>
                 <xsl:for-each-group select="//location" group-by="@type">
                     <xsl:sort select="current-grouping-key()"/>
-                    <xsl:message select="."/>
+                    <xsl:variable name="position" as="xs:integer" select="position()"/>
                     <xsl:variable name="currentLocation" as="xs:string*" select="current-group()"/>
                     <xsl:variable name="currentLocationPos" as="xs:integer" select="position()"/>
                     <xsl:variable name="yHeight" as="xs:double"
@@ -19,7 +19,7 @@
                     <xsl:variable name="colors" as="xs:string+"
                         select="'red', 'orange', 'blue', 'green', 'yellow', 'purple', 'pink'"/>
                     <rect x="{$xPos}" y="-{$yHeight * 10}" height="{$yHeight * 10}" width="20"
-                        fill="{$colors[count(current-group()/preceding-sibling::location) + 1]}"
+                        fill="{$colors[$position mod count($colors) + 1]}"
                         stroke="black" stroke-width="1"/>
                     <text x="{$xPos + 20 div 2}" y="10" font-size="10" text-anchor="middle">
                         <xsl:value-of select="@type"/>
@@ -28,8 +28,8 @@
                         the round() function rounds to an integer
                         see format-number() and round-half-to-even() for alternatives 
                     -->
-                    <text x="{$xPos + 10}" y="-{$yHeight *10 + 5}" text-anchor="middle" font-size="10"
-                            ><xsl:value-of select="round($yHeight)"/>%</text>
+                    <text x="{$xPos + 10}" y="-{$yHeight *10 + 5}" text-anchor="middle"
+                        font-size="10"><xsl:value-of select="round($yHeight)"/>%</text>
                 </xsl:for-each-group>
                 <text x="100" y="-250" font-size="25">Locations in the Manyoshu</text>
             </g>
