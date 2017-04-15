@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(350, 600)">
+      <rect x="0"
+            y="-38.96103896103896"
+            height="38.96103896103896"
+            width="25"
+            fill="skyblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-24" font-size="15" text-anchor="end">wife</text>
+      <text x="43.96103896103896" y="-24" font-size="15" text-anchor="">4%</text>
+      <rect x="30"
+            y="-233.76623376623377"
+            height="233.76623376623377"
+            width="25"
+            fill="cornflowerblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-54" font-size="15" text-anchor="end">unknown</text>
+      <text x="238.76623376623377" y="-54" font-size="15" text-anchor="">23%</text>
+      <rect x="60"
+            y="-64.93506493506493"
+            height="64.93506493506493"
+            width="25"
+            fill="royalblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-84" font-size="15" text-anchor="end">princess</text>
+      <text x="69.93506493506493" y="-84" font-size="15" text-anchor="">6%</text>
+      <rect x="90"
+            y="-116.88311688311688"
+            height="116.88311688311688"
+            width="25"
+            fill="blue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-114" font-size="15" text-anchor="end">prince</text>
+      <text x="121.88311688311688" y="-114" font-size="15" text-anchor="">12%</text>
+      <rect x="120"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="darkslateblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-144" font-size="15" text-anchor="end">prime_minister</text>
+      <text x="17.98701298701299" y="-144" font-size="15" text-anchor="">1%</text>
+      <rect x="150"
+            y="-38.96103896103896"
+            height="38.96103896103896"
+            width="25"
+            fill="midnightblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-174" font-size="15" text-anchor="end">official</text>
+      <text x="43.96103896103896" y="-174" font-size="15" text-anchor="">4%</text>
+      <rect x="180"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="purple"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-204" font-size="15" text-anchor="end">monk</text>
+      <text x="17.98701298701299" y="-204" font-size="15" text-anchor="">1%</text>
+      <rect x="210"
+            y="-38.96103896103896"
+            height="38.96103896103896"
+            width="25"
+            fill="darkviolet"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-234" font-size="15" text-anchor="end">m_official</text>
+      <text x="43.96103896103896" y="-234" font-size="15" text-anchor="">4%</text>
+      <rect x="240"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="lightcyan"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-264" font-size="15" text-anchor="end">guard</text>
+      <text x="17.98701298701299" y="-264" font-size="15" text-anchor="">1%</text>
+      <rect x="270"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="skyblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-294" font-size="15" text-anchor="end">governor</text>
+      <text x="17.98701298701299" y="-294" font-size="15" text-anchor="">1%</text>
+      <rect x="300"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="cornflowerblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-324" font-size="15" text-anchor="end">envoy</text>
+      <text x="17.98701298701299" y="-324" font-size="15" text-anchor="">1%</text>
+      <rect x="330"
+            y="-103.8961038961039"
+            height="103.8961038961039"
+            width="25"
+            fill="royalblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-354" font-size="15" text-anchor="end">empress</text>
+      <text x="108.8961038961039" y="-354" font-size="15" text-anchor="">10%</text>
+      <rect x="360"
+            y="-64.93506493506493"
+            height="64.93506493506493"
+            width="25"
+            fill="blue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-384" font-size="15" text-anchor="end">emperor</text>
+      <text x="69.93506493506493" y="-384" font-size="15" text-anchor="">6%</text>
+      <rect x="390"
+            y="-38.96103896103896"
+            height="38.96103896103896"
+            width="25"
+            fill="darkslateblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-414" font-size="15" text-anchor="end">emp_companion</text>
+      <text x="43.96103896103896" y="-414" font-size="15" text-anchor="">4%</text>
+      <rect x="420"
+            y="-12.987012987012987"
+            height="12.987012987012987"
+            width="25"
+            fill="midnightblue"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-444" font-size="15" text-anchor="end">daughter</text>
+      <text x="17.98701298701299" y="-444" font-size="15" text-anchor="">1%</text>
+      <rect x="450"
+            y="-38.96103896103896"
+            height="38.96103896103896"
+            width="25"
+            fill="purple"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-474" font-size="15" text-anchor="end">consort</text>
+      <text x="43.96103896103896" y="-474" font-size="15" text-anchor="">4%</text>
+      <rect x="480"
+            y="-142.85714285714286"
+            height="142.85714285714286"
+            width="25"
+            fill="darkviolet"
+            stroke="black"
+            transform="translate(0,-15) scale(-1,1) rotate(270)"/>
+      <text x="-10" y="-504" font-size="15" text-anchor="end">c_official</text>
+      <text x="147.85714285714286" y="-504" font-size="15" text-anchor="">14%</text>
+      <text x="-10" y="-550" font-size="25">Proportion of Roles in the Manyoshu</text>
+   </g>
+</svg>
