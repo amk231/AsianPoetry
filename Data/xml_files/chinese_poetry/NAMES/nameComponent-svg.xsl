@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0" xmlns="http://www.w3.org/2000/svg">
-    <xsl:output indent="yes" doctype-system="compact" method="xml"></xsl:output>
+    <xsl:output indent="yes" doctype-system="compact" method="xml"/>
     <xsl:template match="/">
         <svg>
             <g transform="translate(200,480)">
@@ -21,16 +21,17 @@
                     <text x="{$xpos + 10}" y="-{$ypos + 20}" text-anchor="middle"><xsl:value-of select="format-number($percent,'##.##')"/>%</text>
                     <text x="{$xpos + 10}" y="20" text-anchor="middle"><xsl:value-of select="@type"/></text>
                     <text x="{$xpos + 10}" y="40" text-anchor="middle"><xsl:value-of select="@chn"/></text>
-                    <text x="610" y="-60" text-anchor="start" font-size="12" font-weight="100">*Gname: Given Name.</text>
-                    <text x="610" y="-40" text-anchor="start" font-size="12" font-weight="100">*Zi: A courtesy name bestowed upon one at</text>
-                    <text x="610" y="-20" text-anchor="start" font-size="12" font-weight="100">&#160;&#160;&#160;&#160;&#160;&#160;adulthood in addition to one's given name.</text>
-                    <text x="610" y="0" text-anchor="start" font-size="12" font-weight="100">*FR: Family Ranking.</text>
-                    <text x="610" y="20" text-anchor="start" font-size="12" font-weight="100">*Faming: Names for religious people.</text>
-                    <text x="610" y="40" text-anchor="start" font-size="12" font-weight="100">*Zhi: Honorific Ttile of Emperor.</text>
+                    
                 </xsl:for-each>
+                <text x="610" y="-60" text-anchor="start" font-size="12" font-weight="100">*Gname: Given Name.</text>
+                <text x="610" y="-40" text-anchor="start" font-size="12" font-weight="100">*Zi: A courtesy name bestowed upon one at</text>
+                <text x="610" y="-20" text-anchor="start" font-size="12" font-weight="100">&#160;&#160;&#160;&#160;&#160;&#160;adulthood in addition to one's given name.</text>
+                <text x="610" y="0" text-anchor="start" font-size="12" font-weight="100">*FR: Family Ranking.</text>
+                <text x="610" y="20" text-anchor="start" font-size="12" font-weight="100">*Faming: Names for religious people.</text>
+                <text x="610" y="40" text-anchor="start" font-size="12" font-weight="100">*Zhi: Honorific Ttile of Emperor.</text>
             </g>
         </svg>
     </xsl:template>
-    
+    <!-- Percent of each name component. -->
    
 </xsl:stylesheet>

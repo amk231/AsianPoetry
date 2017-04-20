@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(200,450) scale(1.5)">
+      <rect x="30" y="-0" height="0" width="25" fill="#FC0D1B"/>
+      <text x="30" y="20" fill="black" transform="rotate(30 30,40)">total-crt</text>
+      <text x="30" y="-10">0%</text>
+      <rect x="85" y="-0" height="0" width="25" fill="#1CBD20"/>
+      <text x="85" y="20" fill="black" transform="rotate(30 85,40)">total-prv</text>
+      <text x="85" y="-10">0%</text>
+      <rect x="140"
+            y="-75.91836734693878"
+            height="75.91836734693878"
+            width="25"
+            fill="#FDCC3A"/>
+      <text x="140" y="20" fill="black" transform="rotate(30 140,40)">total-ry</text>
+      <text x="140" y="-85.91836734693878">75.9%</text>
+      <rect x="195" y="-0" height="0" width="25" fill="#B2B2B2"/>
+      <text x="195" y="20" fill="black" transform="rotate(30 195,40)">total-uc</text>
+      <text x="195" y="-10">0%</text>
+      <rect x="250" y="-0" height="0" width="25" fill="#FC6621"/>
+      <text x="250" y="20" fill="black" transform="rotate(30 250,40)">total-bud</text>
+      <text x="250" y="-10">0%</text>
+      <rect x="305" y="-0" height="0" width="25" fill="#7F0F7E"/>
+      <text x="305" y="20" fill="black" transform="rotate(30 305,40)">total-dao</text>
+      <text x="305" y="-10">0%</text>
+      <rect x="360" y="-0" height="0" width="25" fill="#87824A"/>
+      <text x="360" y="20" fill="black" transform="rotate(30 360,40)">total-mili</text>
+      <text x="360" y="-10">0%</text>
+      <rect x="415" y="-0" height="0" width="25" fill="#11807F"/>
+      <text x="415" y="20" fill="black" transform="rotate(30 415,40)">total-ys</text>
+      <text x="415" y="-10">0%</text>
+      <text x="-10" y="-10.344827586206897" text-anchor="end">Average 2.1%</text>
+      <line x1="0"
+            x2="600"
+            y1="-10.344827586206897"
+            y2="-10.344827586206897"
+            stroke-width="1"
+            stroke="black"
+            stroke-dasharray="5, 5"/>
+      <text x="600" y="20" text-anchor="end">Zhi</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-280"
+            stroke-width="1"
+            stroke="black"/>
+      <line x1="0"
+            x2="600"
+            y1="0"
+            y2="0"
+            stroke-width="1"
+            stroke="black"/>
+   </g>
+</svg>

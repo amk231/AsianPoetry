@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="100">
+    <desc>Gender Proportion</desc>
+    <g transform="translate(10 50)">
+        <rect x="0" y="0" width="738" height="50" fill="#0066CC"/>
+        <text x="369" y="-10" fill="#0066CC" text-anchor="middle">Male: 738 (97%)</text>
+        <rect x="738" y="0" width="23" height="50" fill="#FF3300"/>
+        <text x="749.5" y="-10" fill="#FF3300" text-anchor="middle">Female: 23 (3%)</text>
+    </g>
+</svg>
