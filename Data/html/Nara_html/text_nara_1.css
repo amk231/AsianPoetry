@@ -1,0 +1,7 @@
+.toc ul{
+    list-style: none;
+    padding-left: 0.5em;
+}
+.toc li{
+    text-align: left;
+}
