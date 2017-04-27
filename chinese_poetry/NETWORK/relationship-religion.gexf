@@ -1,0 +1,1065 @@
+<gexf  xmlns:viz="www.obdurodon.org">
+   <meta>
+      <creator>Shaobai Xiong</creator>
+      <description>Relationship Network in Tang Poems</description>
+   </meta>
+   <graph>
+      <attributes class="node">
+         <attribute id="gd" title="gender" type="string"/>
+         <attribute id="bg" title="background" type="string"/>
+         <attribute id="ht" title="hometown" type="string"/>
+         <attribute id="lp" title="living place" type="string"/>
+         <attribute id="rp" title="related place" type="stirng"/>
+      </attributes>
+      <nodes>
+         <node id="lianshi_jiao" label="焦炼师">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[hendy]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="libai" label="李白">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="poet"/>
+               <attvalue for="ht" value="[lyd]"/>
+               <attvalue for="lp" value="[jnd][jjd][jndd][jnxd][hendl][djd][sndd][hnd][hdd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="lilongji" label="李隆基">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="emperor"/>
+               <attvalue for="ht" value="[djd]"/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="liuchangqing" label="刘长卿">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[jnxd]"/>
+               <attvalue for="lp" value="[jjd][sndd][hnd][snxd][jndd][djd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="wangwei" label="王维">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[hdd]"/>
+               <attvalue for="lp" value="[jjd][djd][hendl][lyd]"/>
+               <attvalue for="rp" value="[sndd]"/>
+            </attvalues>
+         </node>
+         <node id="zhangjiuling" label="张九龄">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[lnd]"/>
+               <attvalue for="lp" value="[jjd][jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="zhangyue" label="张说">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[djd]"/>
+               <attvalue for="lp" value="[jjd][lnd][hbd][jnxd][sndd][hdd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chuguangxi" label="储光羲">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[jndd]"/>
+               <attvalue for="lp" value="[jjd][hnd][lnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_yan" label="阎处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jjd]"/>
+            </attvalues>
+         </node>
+         <node id="zunshi_fang" label="方尊师">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="qiwuqian" label="綦毋潜">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[jnxd]"/>
+               <attvalue for="lp" value="[jjd][jndd][hnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="luobinwang" label="骆宾王">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[jndd]"/>
+               <attvalue for="lp" value="[jjd][lyd][jnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="menghaoran" label="孟浩然">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="poet"/>
+               <attvalue for="ht" value="[sndd]"/>
+               <attvalue for="lp" value="[jjd][hnd][jndd][djd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_yu" label="余处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fashi_hui" label="惠法师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="wangji" label="王绩">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[hdd]"/>
+               <attvalue for="lp" value="[jjd][hnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="zhenshi_hu" label="胡慧超">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fashi_lin" label="琳法师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="xueyao" label="薛曜">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[hdd]"/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_wengu" label="温古上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="liqi" label="李颀">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[hendy]"/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fashi_bianyu" label="辨玉法师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_lingyi" label="灵一上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[hnd]"/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="wangchangling" label="王昌龄">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[hdd]"/>
+               <attvalue for="lp" value="[lyd][jjd][qzd][lnd][jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_in_daitianshan" label="戴天山道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_wang" label="王处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="limi" label="李泌">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value="[jjd]"/>
+               <attvalue for="lp" value="[hendy]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_tong" label="通禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="libaopu" label="李抱朴">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[hnd]"/>
+            </attvalues>
+         </node>
+         <node id="zhangzirong" label="张子容">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[sndd]"/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="simachengzhen" label="司马承祯">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value="[hendy]"/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="shangren_rong" label="融上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="zhangcanluan" label="张骖鸾">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jnxd]"/>
+            </attvalues>
+         </node>
+         <node id="monk_donglinsi" label="东林寺僧">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_shao" label="邵道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="jiuchanshi" label="就禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_bore" label="般若禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="monk_fushan" label="覆釜山僧">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_cao" label="操禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fashi_jing" label="静法师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="hongjing" label="弘景">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[sndd]"/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daojun" label="道俊">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[sndd]"/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="xuanzang" label="玄奘">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[sndd]"/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_cheng" label="程处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_neng" label="能禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[lnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="yuandanqiu" label="元丹丘">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[hendy][jnd]"/>
+               <attvalue for="rp" value="[hnd]"/>
+            </attvalues>
+         </node>
+         <node id="lingche_shangren" label="灵澈上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[jndd]"/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="lianshi_wei" label="韦炼师">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="wangbo" label="王勃">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[hdd]"/>
+               <attvalue for="lp" value="[jjd][jnd][hendy]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_li" label="李处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fashi_zang" label="奘法师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value="[hendy]"/>
+               <attvalue for="lp" value="[jjd][djd][jnd][lyd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="cuishi" label="崔湜">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="court_off"/>
+               <attvalue for="ht" value="[hbd]"/>
+               <attvalue for="lp" value="[jjd][jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="taiyizi" label="太乙子">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_xun" label="荀处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[hendl]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="monk_chongfan_temple" label="崇梵僧">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[hendl]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_ji" label="暨道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_yang" label="杨道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="shangren_shaowei" label="少微上人">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="fangshi_zhao" label="方士赵叟">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[hendl]"/>
+            </attvalues>
+         </node>
+         <node id="shanren_yang" label="杨山人">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="zhongrui" label="仲濬">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="changjian" label="常建">
+            <viz:color r="0" g="0" b="0" a="1.0"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="prov_off"/>
+               <attvalue for="ht" value="[hbdn]"/>
+               <attvalue for="lp" value="[sndd][hnd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_wang" label="王道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_ge" label="革处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_zhen" label="振上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="tianshi_zhang" label="张天师">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="daoshi_ziyunguan" label="紫云观道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="dengziyang" label="邓紫阳">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value="[jnxd]"/>
+               <attvalue for="lp" value="[jndd][jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chushi_cui" label="崔处士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="daoshi" label="道士">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jndd]"/>
+            </attvalues>
+         </node>
+         <node id="liuxi" label="刘舄">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_fu" label="福禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="lizhongfu" label="李中孚">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_hui" label="晖上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="fututanhao" label="族弟浮屠谈皓">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value="[jnxd]"/>
+            </attvalues>
+         </node>
+         <node id="chanshi_fachong" label="法崇禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_tanxing" label="昙兴上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jjd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="shangren_cong" label="聪上人">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_chengru" label="乘如禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[hendy]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="zhouweichang" label="周惟长">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jnxd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="lingyou_heshang" label="灵祐和尚">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="chanshi_zhizhe" label="智者禅师">
+            <viz:color r="255" g="128" b="0" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="buddhism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[jndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="head_daoism_temple" label="观主">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value=""/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+         <node id="lianshi_huang" label="黄炼师">
+            <viz:color r="128" g="0" b="128" a="0.5"/>
+            <attvalues>
+               <attvalue for="gd" value="m"/>
+               <attvalue for="bg" value="daoism"/>
+               <attvalue for="ht" value=""/>
+               <attvalue for="lp" value="[sndd]"/>
+               <attvalue for="rp" value=""/>
+            </attvalues>
+         </node>
+      </nodes>
+      <edges>
+         <edge id="#【libai】-1-【lianshi_jiao】" source="libai" target="lianshi_jiao"/>
+         <edge id="#【chuguangxi】-1-【chushi_yan】"
+               source="chuguangxi"
+               target="chushi_yan"/>
+         <edge id="#【qiwuqian】-1-【zunshi_fang】"
+               source="qiwuqian"
+               target="zunshi_fang"/>
+         <edge id="#【chuguangxi】-1-【chushi_yu】"
+               source="chuguangxi"
+               target="chushi_yu"/>
+         <edge id="#【liuchangqing】-1-【fashi_hui】"
+               source="liuchangqing"
+               target="fashi_hui"/>
+         <edge id="#【lilongji】-1-【zhenshi_hu】"
+               source="lilongji"
+               target="zhenshi_hu"/>
+         <edge id="#【maomingsu】-1-【fashi_lin】"
+               source="maomingsu"
+               target="fashi_lin"/>
+         <edge id="#【wangwei】-1-【shangren_wengu】"
+               source="wangwei"
+               target="shangren_wengu"/>
+         <edge id="#【wangwei】-2-【wangjin】" source="wangwei" target="wangjin"/>
+         <edge id="#【menghaoran】-1-【fashi_bianyu】"
+               source="menghaoran"
+               target="fashi_bianyu"/>
+         <edge id="#【liuchangqing】-1-【shangren_lingyi】"
+               source="liuchangqing"
+               target="shangren_lingyi"/>
+         <edge id="#【menghaoran】-1-【wangjiong】"
+               source="menghaoran"
+               target="wangjiong"/>
+         <edge id="#【menghaoran】-2-【jiuchanshi】"
+               source="menghaoran"
+               target="jiuchanshi"/>
+         <edge id="#【libai】-1-【daoshi_in_daitianshan】"
+               source="libai"
+               target="daoshi_in_daitianshan"/>
+         <edge id="#【liuchangqing】-1-【shangren_lingyi】"
+               source="liuchangqing"
+               target="shangren_lingyi"/>
+         <edge id="#【liuchangqing】-1-【chushi_wang】"
+               source="liuchangqing"
+               target="chushi_wang"/>
+         <edge id="#【libai】-1-【chanshi_tong】" source="libai" target="chanshi_tong"/>
+         <edge id="#【lilongji】-1-【libaopu】" source="lilongji" target="libaopu"/>
+         <edge id="#【lilongji】-1-【simachengzhen】"
+               source="lilongji"
+               target="simachengzhen"/>
+         <edge id="#【qiwuqian】-1-【shangren_rong】"
+               source="qiwuqian"
+               target="shangren_rong"/>
+         <edge id="#【menghaoran】-1-【yuan_gong】"
+               source="menghaoran"
+               target="yuan_gong"/>
+         <edge id="#【menghaoran】-2-【zhangcanluan】"
+               source="menghaoran"
+               target="zhangcanluan"/>
+         <edge id="#【libai】-1-【monk_donglinsi】"
+               source="libai"
+               target="monk_donglinsi"/>
+         <edge id="#【zhangzirong】-1-【shijun_cui】"
+               source="zhangzirong"
+               target="shijun_cui"/>
+         <edge id="#【zhangzirong】-2-【daoshi_shao】"
+               source="zhangzirong"
+               target="daoshi_shao"/>
+         <edge id="#【wangchangling】-1-【lianshi_jiao】"
+               source="wangchangling"
+               target="lianshi_jiao"/>
+         <edge id="#【liuchangqing】-1-【chanshi_bore】"
+               source="liuchangqing"
+               target="chanshi_bore"/>
+         <edge id="#【wangwei】-1-【monk_fushan】"
+               source="wangwei"
+               target="monk_fushan"/>
+         <edge id="#【peidi】-1-【chanshi_cao】" source="peidi" target="chanshi_cao"/>
+         <edge id="#【wangchangling】-1-【fashi_jing】"
+               source="wangchangling"
+               target="fashi_jing"/>
+         <edge id="#【liqiao】-1-【hongjing】" source="liqiao" target="hongjing"/>
+         <edge id="#【liqiao】-2-【daojun】" source="liqiao" target="daojun"/>
+         <edge id="#【liqiao】-3-【xuanzang】" source="liqiao" target="xuanzang"/>
+         <edge id="#【wangji】-1-【chushi_cheng】"
+               source="wangji"
+               target="chushi_cheng"/>
+         <edge id="#【songzhiwen】-1-【chanshi_neng】"
+               source="songzhiwen"
+               target="chanshi_neng"/>
+         <edge id="#【libai】-1-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【liuchangqing】-1-【lingche_shangren】"
+               source="liuchangqing"
+               target="lingche_shangren"/>
+         <edge id="#【chuguangxi】-1-【chushi_li】"
+               source="chuguangxi"
+               target="chushi_li"/>
+         <edge id="#【lizhi】-1-【fashi_zang】" source="lizhi" target="fashi_zang"/>
+         <edge id="#【menghaoran】-1-【taiyizi】" source="menghaoran" target="taiyizi"/>
+         <edge id="#【liuchangqing】-1-【chushi_xun】"
+               source="liuchangqing"
+               target="chushi_xun"/>
+         <edge id="#【libai】-1-【fangshi_zhao】" source="libai" target="fangshi_zhao"/>
+         <edge id="#【wangwei】-1-【chanshi_cao】"
+               source="wangwei"
+               target="chanshi_cao"/>
+         <edge id="#【libai】-1-【zhongrui】" source="libai" target="zhongrui"/>
+         <edge id="#【wangwei】-1-【lianshi_jiao】"
+               source="wangwei"
+               target="lianshi_jiao"/>
+         <edge id="#【libai】-1-【chushi_ge】" source="libai" target="chushi_ge"/>
+         <edge id="#【cuishi】-1-【simachengzhen】"
+               source="cuishi"
+               target="simachengzhen"/>
+         <edge id="#【wangchangling】-1-【shangren_zhen】"
+               source="wangchangling"
+               target="shangren_zhen"/>
+         <edge id="#【libai】-1-【shanren_yang】" source="libai" target="shanren_yang"/>
+         <edge id="#【zhangyue】-1-【simachengzhen】"
+               source="zhangyue"
+               target="simachengzhen"/>
+         <edge id="#【wangchangling】-1-【mingfu_xue】"
+               source="wangchangling"
+               target="mingfu_xue"/>
+         <edge id="#【wangchangling】-2-【shangren_cong】"
+               source="wangchangling"
+               target="shangren_cong"/>
+         <edge id="#【wangwei】-1-【chanshi_chengru】"
+               source="wangwei"
+               target="chanshi_chengru"/>
+         <edge id="#【wangwei】-2-【jushi_xiao】" source="wangwei" target="jushi_xiao"/>
+         <edge id="#【changjian】-1-【tianshi_zhang】"
+               source="changjian"
+               target="tianshi_zhang"/>
+         <edge id="#【liuchangqing】-1-【chushi_cui】"
+               source="liuchangqing"
+               target="chushi_cui"/>
+         <edge id="#【xueyao】-1-【daoshi】" source="xueyao" target="daoshi"/>
+         <edge id="#【liuchangqing】-1-【lingyou_heshang】"
+               source="liuchangqing"
+               target="lingyou_heshang"/>
+         <edge id="#【zhangyue】-1-【liuxi】" source="zhangyue" target="liuxi"/>
+         <edge id="#【peidi】-1-【shangren_tanxing】"
+               source="peidi"
+               target="shangren_tanxing"/>
+         <edge id="#【wangwei】-1-【chanshi_fu】" source="wangwei" target="chanshi_fu"/>
+         <edge id="#【liuchangqing】-1-【shangren_shaowei】"
+               source="liuchangqing"
+               target="shangren_shaowei"/>
+         <edge id="#【chenziang】-1-【shangren_hui】"
+               source="chenziang"
+               target="shangren_hui"/>
+         <edge id="#【liuchangqing】-1-【cheng9】"
+               source="liuchangqing"
+               target="cheng9"/>
+         <edge id="#【liuchangqing】-2-【yang3】" source="liuchangqing" target="yang3"/>
+         <edge id="#【liuchangqing】-3-【chanshi_zhizhe】"
+               source="liuchangqing"
+               target="chanshi_zhizhe"/>
+         <edge id="#【wangbo】-1-【daoshi_wang】" source="wangbo" target="daoshi_wang"/>
+         <edge id="#【menghaoran】-1-【head_daoism_temple】"
+               source="menghaoran"
+               target="head_daoism_temple"/>
+         <edge id="#【wangchangling】-1-【lianshi_huang】"
+               source="wangchangling"
+               target="lianshi_huang"/>
+         <edge id="#【libai】-1-【zhouweichang】" source="libai" target="zhouweichang"/>
+         <edge id="#【libai】-1-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【liqi】-1-【daoshi_ji】" source="liqi" target="daoshi_ji"/>
+         <edge id="#【libai】-1-【cenxun】" source="libai" target="cenxun"/>
+         <edge id="#【libai】-2-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【liqi】-1-【lianshi_jiao】" source="liqi" target="lianshi_jiao"/>
+         <edge id="#【luobinwang】-1-【daoshi_ziyunguan】"
+               source="luobinwang"
+               target="daoshi_ziyunguan"/>
+         <edge id="#【libai】-1-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【zhangjiuling】-1-【daoshi_yang】"
+               source="zhangjiuling"
+               target="daoshi_yang"/>
+         <edge id="#【liuchangqing】-1-【shangren_lingyi】"
+               source="liuchangqing"
+               target="shangren_lingyi"/>
+         <edge id="#【libai】-1-【fututanhao】" source="libai" target="fututanhao"/>
+         <edge id="#【liuchangqing】-1-【chanshi_fachong】"
+               source="liuchangqing"
+               target="chanshi_fachong"/>
+         <edge id="#【libai】-1-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【libai】-1-【yuandanqiu】" source="libai" target="yuandanqiu"/>
+         <edge id="#【wangwei】-1-【shangren_tanxing】"
+               source="wangwei"
+               target="shangren_tanxing"/>
+         <edge id="#【liuchangqing】-1-【lingche_shangren】"
+               source="liuchangqing"
+               target="lingche_shangren"/>
+         <edge id="#【liuchangqing】-1-【shangren_shaowei】"
+               source="liuchangqing"
+               target="shangren_shaowei"/>
+         <edge id="#【wangwei】-1-【monk_chongfan_temple】"
+               source="wangwei"
+               target="monk_chongfan_temple"/>
+         <edge id="#【chuguangxi】-1-【lianshi_wei】"
+               source="chuguangxi"
+               target="lianshi_wei"/>
+         <edge id="#【lilongji】-1-【dengziyang】"
+               source="lilongji"
+               target="dengziyang"/>
+         <edge id="#【libai】-1-【lizhongfu】" source="libai" target="lizhongfu"/>
+      </edges>
+   </graph>
+</gexf>

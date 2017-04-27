@@ -1,0 +1,111 @@
+
+<combi>
+    <types name="containsS" eng="S" chn="姓">
+        <type type="total-total">0.3448275862068966</type>
+        <type type="total-crt">0.43529411764705883</type>
+        <type type="total-prv">0.38186813186813184</type>
+        <type type="total-ry">0.012244897959183673</type>
+        <type type="total-uc">0.44919786096256686</type>
+        <type type="total-bud">0.02857142857142857</type>
+        <type type="total-dao">0.35789473684210527</type>
+        <type type="total-mili">0.3333333333333333</type>
+        <type type="total-ys">0.4492753623188406</type>
+
+    </types>
+    <types name="containsG" eng="G" chn="名">
+        <type type="total-total">0.12458286985539488</type>
+        <type type="total-crt">0.16470588235294117</type>
+        <type type="total-prv">0.08791208791208792</type>
+        <type type="total-ry">0</type>
+        <type type="total-uc">0.1925133689839572</type>
+        <type type="total-bud">0.05714285714285714</type>
+        <type type="total-dao">0.1368421052631579</type>
+        <type type="total-mili">0.14102564102564102</type>
+        <type type="total-ys">0.15942028985507245</type>
+        
+    </types>
+    <types name="containsT" eng="T" chn="头衔、官职">
+        <type type="total-total">0.289210233592881</type>
+        <type type="total-crt">0.3411764705882353</type>
+        <type type="total-prv">0.3543956043956044</type>
+        <type type="total-ry">0.22040816326530613</type>
+        <type type="total-uc">0.0374331550802139</type>
+        <type type="total-bud">0.42857142857142855</type>
+        <type type="total-dao">0.3684210526315789</type>
+        <type type="total-mili">0.3717948717948718</type>
+        <type type="total-ys">0.2463768115942029</type>
+        
+    </types>
+    <types name="containsZ" eng="Z" chn="字">
+        <type type="total-total">0.002224694104560623</type>
+        <type type="total-crt">0.0033613445378151263</type>
+        <type type="total-prv">0.0027472527472527475</type>
+        <type type="total-ry">0</type>
+        <type type="total-uc">0</type>
+        <type type="total-bud">0</type>
+        <type type="total-dao">0</type>
+        <type type="total-mili">0</type>
+        <type type="total-ys">0.014492753623188406</type>
+        
+    </types>
+    <types name="containsZH" eng="ZH" chn="制">
+        <type type="total-total">0.10344827586206896</type>
+        <type type="total-crt">0</type>
+        <type type="total-prv">0</type>
+        <type type="total-ry">0.7591836734693878</type>
+        <type type="total-uc">0</type>
+        <type type="total-bud">0</type>
+        <type type="total-dao">0</type>
+        <type type="total-mili">0</type>
+        <type type="total-ys">0</type>
+        
+    </types>
+    <types name="containsL" eng="L" chn="地名">
+        <type type="total-total">0.05061179087875417</type>
+        <type type="total-crt">0.010084033613445379</type>
+        <type type="total-prv">0.14560439560439561</type>
+        <type type="total-ry">0</type>
+        <type type="total-uc">0.06951871657754011</type>
+        <type type="total-bud">0.02857142857142857</type>
+        <type type="total-dao">0.09473684210526316</type>
+        <type type="total-mili">0.038461538461538464</type>
+        <type type="total-ys">0.014492753623188406</type>
+
+    </types>
+    <types name="containsFR" eng="FR" chn="家族排行">
+        <type type="total-total">0.04338153503893215</type>
+        <type type="total-crt">0.031932773109243695</type>
+        <type type="total-prv">0.008241758241758242</type>
+        <type type="total-ry">0</type>
+        <type type="total-uc">0.18181818181818182</type>
+        <type type="total-bud">0</type>
+        <type type="total-dao">0.010526315789473684</type>
+        <type type="total-mili">0.07692307692307693</type>
+        <type type="total-ys">0.11594202898550725</type>
+
+    </types>
+    <types name="containsK" eng="K" chn="亲属称谓">
+        <type type="total-total">0.02335928809788654</type>
+        <type type="total-crt">0.013445378151260505</type>
+        <type type="total-prv">0.019230769230769232</type>
+        <type type="total-ry">0.00816326530612245</type>
+        <type type="total-uc">0.06951871657754011</type>
+        <type type="total-bud">0.02857142857142857</type>
+        <type type="total-dao">0</type>
+        <type type="total-mili">0.038461538461538464</type>
+        <type type="total-ys">0</type>
+
+    </types>
+    <types name="containsF" eng="F" chn="法名">
+        <type type="total-total">0.01835372636262514</type>
+        <type type="total-crt">0</type>
+        <type type="total-prv">0</type>
+        <type type="total-ry">0</type>
+        <type type="total-uc">0</type>
+        <type type="total-bud">0.42857142857142855</type>
+        <type type="total-dao">0.031578947368421054</type>
+        <type type="total-mili">0</type>
+        <type type="total-ys">0</type>
+
+    </types>
+</combi>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+    <type name="zh">186</type>
+    <type name="p s g">51</type>
+    <type name="p s">268</type>
+    <type name="s g">130</type>
+    <type name="p">79</type>
+    <type name="s fr">51</type>
+    <type name="p s l">52</type>
+    <type name="s">15</type>
+    <type name="s fr p">11</type>
+    <type name="other">75</type>
+    <type name="k">8</type>
+    <type name="k g">13</type>
+    <type name="s g fr">13</type>
+    <type name="p f">27</type>
+    <type name="s l">15</type>
+    <type name="s z">4</type>
+    <type name="p k">7</type>
+    <type name="s l g">1</type>
+    <type name="p s g f">1</type>
+    <type name="p g l">6</type>
+    <type name="p l f">2</type>
+    <type name="f">3</type>
+    <type name="s fr l">1</type>
+    <type name="p k g">5</type>
+    <type name="p l">3</type>
+    <type name="p l k">2</type>
+    <type name="p s g k l">2</type>
+    <type name="l k">3</type>
+    <type name="s fr p g">1</type>
+    <type name="s fr l p">1</type>
+    <type name="l s g k">1</type>
+    <type name="p s l k">1</type>
+</types>

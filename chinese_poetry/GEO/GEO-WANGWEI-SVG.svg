@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+  SYSTEM "compact">
+<svg xmlns="http://www.w3.org/2000/svg">
+   <style>
+        #jjd{
+        fill-opacity: 1.0;
+        fill: red;
+        }
+        #jjd-d{
+        display: block}
+    
+        #djd{
+        fill-opacity: 0.611;
+        fill: red;
+        }
+        #djd-d{
+        display: block}
+    
+        #gnd{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #gnd-d{
+        display: }
+    
+        #hdd{
+        fill-opacity: 0.611;
+        fill: red;
+        }
+        #hdd-d{
+        display: block}
+    
+        #hbdn{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #hbdn-d{
+        display: }
+    
+        #hbdw{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #hbdw-d{
+        display: }
+    
+        #hendy{
+        fill-opacity: 0.916;
+        fill: red;
+        }
+        #hendy-d{
+        display: }
+    
+        #hendl{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #hendl-d{
+        display: block}
+    
+        #hnd{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #hnd-d{
+        display: }
+    
+        #jndd{
+        fill-opacity: 0.534;
+        fill: red;
+        }
+        #jndd-d{
+        display: }
+    
+        #jnxd{
+        fill-opacity: 0.611;
+        fill: red;
+        }
+        #jnxd-d{
+        display: }
+    
+        #lnd{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #lnd-d{
+        display: }
+    
+        #sndd{
+        fill-opacity: 0.687;
+        fill: red;
+        }
+        #sndd-d{
+        display: block}
+    
+        #snxd{
+        fill-opacity: 0;
+        fill: red;
+        }
+        #snxd-d{
+        display: }
+    
+        #lyd{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #lyd-d{
+        display: block}
+    
+        #jnd{
+        fill-opacity: 0.687;
+        fill: red;
+        }
+        #jnd-d{
+        display: }
+    
+        #qzd{
+        fill-opacity: 0;
+        fill: red;
+        }
+        #qzd-d{
+        display: }
+    
+        #tibet{
+        fill-opacity: 0;
+        fill: red;
+        }
+        #tibet-d{
+        display: }
+    
+        #japan{
+        fill-opacity: 0.153;
+        fill: red;
+        }
+        #japan-d{
+        display: }
+    </style>
+   <g transform="translate(80,550)">
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-500"
+            stroke-width="1"
+            stroke="black"/>
+      <line x1="0"
+            x2="1190"
+            y1="0"
+            y2="0"
+            stroke-width="1"
+            stroke="black"/>
+      <rect width="20"
+            height="412.2"
+            x="30"
+            y="-412.2"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('jjd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('jjd')style.fill='red';"/>
+      <text x="30" y="20" text-anchor="start" font-size="8pt">jjd</text>
+      <text x="30" y="-432.2" text-anchor="start" font-size="8pt">41%</text>
+      <rect width="20"
+            height="91.6"
+            x="95"
+            y="-91.6"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hendy')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hendy')style.fill='red';"/>
+      <text x="95" y="20" text-anchor="start" font-size="8pt">hendy</text>
+      <text x="95" y="-111.6" text-anchor="start" font-size="8pt">9%</text>
+      <rect width="20"
+            height="68.7"
+            x="160"
+            y="-68.7"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('sndd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('sndd')style.fill='red';"/>
+      <text x="160" y="20" text-anchor="start" font-size="8pt">sndd</text>
+      <text x="160" y="-88.7" text-anchor="start" font-size="8pt">7%</text>
+      <rect width="20"
+            height="68.7"
+            x="225"
+            y="-68.7"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('jnd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('jnd')style.fill='red';"/>
+      <text x="225" y="20" text-anchor="start" font-size="8pt">jnd</text>
+      <text x="225" y="-88.7" text-anchor="start" font-size="8pt">7%</text>
+      <rect width="20"
+            height="61.1"
+            x="290"
+            y="-61.1"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('djd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('djd')style.fill='red';"/>
+      <text x="290" y="20" text-anchor="start" font-size="8pt">djd</text>
+      <text x="290" y="-81.1" text-anchor="start" font-size="8pt">6%</text>
+      <rect width="20"
+            height="61.1"
+            x="355"
+            y="-61.1"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hdd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hdd')style.fill='red';"/>
+      <text x="355" y="20" text-anchor="start" font-size="8pt">hdd</text>
+      <text x="355" y="-81.1" text-anchor="start" font-size="8pt">6%</text>
+      <rect width="20"
+            height="61.1"
+            x="420"
+            y="-61.1"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('jnxd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('jnxd')style.fill='red';"/>
+      <text x="420" y="20" text-anchor="start" font-size="8pt">jnxd</text>
+      <text x="420" y="-81.1" text-anchor="start" font-size="8pt">6%</text>
+      <rect width="20"
+            height="53.4"
+            x="485"
+            y="-53.4"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('jndd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('jndd')style.fill='red';"/>
+      <text x="485" y="20" text-anchor="start" font-size="8pt">jndd</text>
+      <text x="485" y="-73.4" text-anchor="start" font-size="8pt">5%</text>
+      <rect width="20"
+            height="15.3"
+            x="550"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('gnd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('gnd')style.fill='red';"/>
+      <text x="550" y="20" text-anchor="start" font-size="8pt">gnd</text>
+      <text x="550" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="615"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hbdn')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hbdn')style.fill='red';"/>
+      <text x="615" y="20" text-anchor="start" font-size="8pt">hbdn</text>
+      <text x="615" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="680"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hbdw')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hbdw')style.fill='red';"/>
+      <text x="680" y="20" text-anchor="start" font-size="8pt">hbdw</text>
+      <text x="680" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="745"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hendl')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hendl')style.fill='red';"/>
+      <text x="745" y="20" text-anchor="start" font-size="8pt">hendl</text>
+      <text x="745" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="810"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('hnd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('hnd')style.fill='red';"/>
+      <text x="810" y="20" text-anchor="start" font-size="8pt">hnd</text>
+      <text x="810" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="875"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('lnd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('lnd')style.fill='red';"/>
+      <text x="875" y="20" text-anchor="start" font-size="8pt">lnd</text>
+      <text x="875" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="940"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('lyd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('lyd')style.fill='red';"/>
+      <text x="940" y="20" text-anchor="start" font-size="8pt">lyd</text>
+      <text x="940" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="15.3"
+            x="1005"
+            y="-15.3"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('japan')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('japan')style.fill='red';"/>
+      <text x="1005" y="20" text-anchor="start" font-size="8pt">japan</text>
+      <text x="1005" y="-35.3" text-anchor="start" font-size="8pt">2%</text>
+      <rect width="20"
+            height="0"
+            x="1070"
+            y="-0"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('snxd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('snxd')style.fill='red';"/>
+      <text x="1070" y="20" text-anchor="start" font-size="8pt">snxd</text>
+      <text x="1070" y="-20" text-anchor="start" font-size="8pt">0%</text>
+      <rect width="20"
+            height="0"
+            x="1135"
+            y="-0"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('qzd')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('qzd')style.fill='red';"/>
+      <text x="1135" y="20" text-anchor="start" font-size="8pt">qzd</text>
+      <text x="1135" y="-20" text-anchor="start" font-size="8pt">0%</text>
+      <rect width="20"
+            height="0"
+            x="1200"
+            y="-0"
+            fill="#FC0D1B"
+            onmouseover="document.getElementById('tibet')style.fill='#8DD7FF';"
+            onmouseout="document.getElementById('tibet')style.fill='red';"/>
+      <text x="1200" y="20" text-anchor="start" font-size="8pt">tibet</text>
+      <text x="1200" y="-20" text-anchor="start" font-size="8pt">0%</text>
+   </g>
+</svg>

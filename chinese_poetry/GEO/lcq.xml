@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group name="liuchangqing"
+    ht="[jnxd]"
+    lp="[jjd][sndd][hnd][snxd][jndd][djd]"
+    rp="">
+    <place name="jjd">25</place>
+    <place name="djd">5</place>
+    <place name="gnd">0.5</place>
+    <place name="hdd">2.5</place>
+    <place name="hbdn">0.5</place>
+    <place name="hbdw">0</place>
+    <place name="hendy">7</place>
+    <place name="hendl">7.5</place>
+    <place name="hnd">8</place>
+    <place name="jndd">25</place>
+    <place name="jnxd">16.5</place>
+    <place name="lnd">3</place>
+    <place name="sndd">4</place>
+    <place name="snxd">0</place>
+    <place name="lyd">1</place>
+    <place name="jnd">22</place>
+    <place name="qzd">0.5</place>
+    <place name="tibet">0</place>
+    <place name="japan">1</place>
+</group>

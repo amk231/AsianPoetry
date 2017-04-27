@@ -1,0 +1,881 @@
+<?xml-model href="../../schemas/randomly1500.rnc" type="application/relax-ng-compact-syntax"?>
+<tangPoem>
+<title><yingzhi ref="ciensi"/>奉和九月九日<person ref="lizhi" type="honorific">圣制</person>登慈恩寺浮图应制, <author ref="liuxian">刘宪</author></title>
+<title><send-off/>送<person ref="guoyuanzhen" type="position+name">郭大夫元振</person>再使吐蕃, <author ref="zhangyue">张说</author></title>
+<title><dedication/>赠嵩山<person ref="lianshi_jiao" type="position+surname">焦炼师</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="chunrixingwang"/>奉和<person ref="lilongji" type="honorific">圣制</person>春日幸望****应制, <author ref="zhangyue">张说</author></title>
+<title><dedication/>酬<person ref="zhangxia" type="name">张夏</person>别后道中见寄, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><yingzhi ref="bumengduhu"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="fumenglingcha" type="position">不蒙都护兼鸿胪卿</person>归安西应制, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="queshigu"/><person ref="lilongji" type="honorific">奉和圣制</person>同<person ref="zhangyue" type="position"/><person ref="xuanzhen" type="position"/>二相南出雀鼠谷, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>临高台送<person ref="lixin" type="position+surname">黎拾遗</person>, <author ref="wangwei">王维</author></title>
+<title><send-off/>鲁郡尧祠送<person ref="wu5" type="surname+family_ranking">吴五</person>之琅琊, <author ref="libai">李白</author></title>
+<title><together/>和<person ref="zhubu_du" type="position+surname">杜主簿</person>春日有所思, <author ref="suting">苏颋</author></title>
+<title><send-off/>送<person ref="yuwenmingfu" type="position+name">宇文迁明府</person>赴洪州<person ref="guancha_zhang" type="position+surname">张观察</person>追摄丰城令, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>酬<person ref="sima_zhang" type="position+surname">张司马</person>赠墨, <author ref="libai">李白</author></title>
+<title><dedication/>贻<person ref="chushi_yan" type="position+surname">阎处士</person>防卜居终南, <author ref="chuguangxi">储光羲</author></title>
+<title><feast/>三月三日宴<person ref="mingfu_wang1" type="position+surname">王明府</person>山亭（得花字）, <author ref="hanzhongxuan">韩仲宣</author></title>
+<title><send-off/>送<person ref="shiyu_lu1" type="position+surname">卢侍御</person>赴河北, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>酬<person ref="zhongduxiaoli" type="position">中都小吏</person>携斗酒双鱼于逆旅见赠, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="situ_doulu" type="position+surname">司徒豆卢府君</person>挽词, <author ref="suting">苏颋</author></title>
+<title><feast ref="princess_anle_newhouse"/>夜宴<person ref="princess_anle" type="position">安乐公主</person>新宅, <author ref="yanchaoying">阎朝隐</author></title>
+<title><record/>过<person ref="zunshi_fang" type="position+surname">方尊师</person>院, <author ref="qiwuqian">綦毋潜</author></title>
+<title><dedication/>代书寄<person ref="ji11" type="surname+family_ranking">吉十一</person>, <author ref="zhangyue">张说</author></title>
+<title><elegy/><person ref="liai" type="position">范阳王</person>挽词二首, <author ref="songzhiwen">宋之问</author></title>
+<title><record/>过前安宜<person ref="mingfu_zhang" type="position+surname">张明府</person>郊居, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="princess_jincheng" type="position">金城公主</person>适西蕃, <author ref="wupingyi">武平一</author></title>
+<title><dedication/>艳情代<person ref="shi_guo" type="surname">郭氏</person>答<person ref="luzhaolin" type="name">卢照邻</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><together/>同<person ref="sheren_li" type="position+surname">李舍人</person>冬日集<person ref="princess_anle" type="position">安乐公主</person>山池, <author ref="shenquanqi">沈佺期</author></title>
+<title><yingzhi ref="luanyu"/>和銮舆顿戏下（一作追从銮舆夕顿戏下<person ref="lizhi" type="honorific">应令</person>）, <author ref="yushinan">虞世南</author></title>
+<title><send-off/>送<person ref="wei_wang7" type="surname+family_ranking+position">王七尉</person>松滋，得阳台云, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>赠<person ref="liuyuan" type="name">柳圆</person>, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="chaoheng" type="position+surname">秘书晁监</person>还日本国, <author ref="wangwei">王维</author></title>
+<title><send-off/>贻<person ref="chushi_yu" type="position+surname">余处士</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>送<person ref="xiaoshu_shen" type="position+surname">沈校书</person>吴中搜书, <author ref="chuguangxi">储光羲</author></title>
+<title><feast ref="huirichongyan"/><person ref="gaojin" type="null"/>晦日重宴, <author ref="chenjiayan">陈嘉言</author></title>
+<title><dedication/>答<person ref="wang12" type="surname+family_ranking">王十二</person>寒夜独酌有怀（此诗萧士赟云是伪作）, <author ref="libai">李白</author></title>
+<title><feast/><yingzhi ref="qinghuige"/><person ref="lixian" type="honorific">奉和</person>人日宴群臣遇雪应制, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><feast/><yingzhi ref="weisili"/><person ref="lixian" type="honorific">奉和</person>幸<person ref="weisili" type="name">韦嗣立</person>山庄侍宴应制, <author ref="liyi4">李乂</author></title>
+<title><send-off/>送<person ref="xin1" type="surname+family_ranking">辛大</person>之鄂渚不及, <author ref="menghaoran">孟浩然</author></title>
+<title><elegy/><person ref="wuzetian" type="position+name">则天皇后</person>挽歌二首, <author ref="cuirong">崔融1</author></title>
+<title><dedication/>岳州赠<person ref="songjing" type="position+surname">广平公宋大夫</person>, <author ref="zhangyue">张说</author></title>
+<title><dedication/>故<person ref="king_zhao" type="position">赵王</person>属赠<person ref="shangguantingzhi" type="position+surname">黄门侍郎上官公</person>挽词二首, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>贻鼓吹<person ref="cheng_li" type="position+surname">李丞</person>，时<person ref="liyi-1" type="position">信安王</person>北伐，李公王之所器者也, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="douxijie"/><person ref="lixian" type="honorific">奉和圣制</person>幸<person ref="douxijie" type="position+name">礼部尚书窦希玠</person>宅应制, <author ref="suting">苏颋</author></title>
+<title><yingzhi ref="yandutang"/><person ref="lilongji" type="honorific">奉和御制</person>乾曜与<person ref="zhangyue" type="name">张说</person><person ref="songjing" type="name">宋璟</person>同日上官命宴都堂赐诗, <author ref="yuanqianyao">源乾曜</author></title>
+<title><send-off/>别<person ref="wife_libai" type="word">内</person>赴征三首, <author ref="libai">李白</author></title>
+<title><record/>还至端州驿前与<person ref="gao6" type="surname+family_ranking">高六</person>别处, <author ref="zhangyue">张说</author></title>
+<title><dedication/>赠<person ref="peimin" type="position+name">裴旻将军</person>, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="zhiqi"/><person ref="lishimin" type="honorific">奉和</person>执契静三边应诏, <author ref="xujingzong">许敬宗</author></title>
+<title><send-off/>送<person ref="liningzhi" type="word+name">族弟凝之</person>滁求婚<person ref="shi_cui" type="surname">崔氏</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="bailuguan"/><person ref="lixian" type="honorific">幸白鹿观应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><send-off/>奉陪<person ref="shijun" type="position">使君</person>西庭送淮西<person ref="panguan_wei" type="position+name">魏判官</person>（得山字）, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="pei18" type="surname+family_ranking">裴十八</person>图南归嵩山二首, <author ref="libai">李白</author></title>
+<title><send-off/>对雨送<person ref="zhengling" type="name">郑陵</person>, <author ref="cuishu">崔曙</author></title>
+<title><feast/><person ref="wangmaoshi" type="null"/><person ref="xuhao" type="null"/><person ref="wangmian" type="null"/>晦日宴<person ref="gaojin" type="null">高氏</person>林亭, <author ref="langyuling">郎馀令</author></title>
+<title><send-off/>送<person ref="fashi_hui" type="position+surname">惠法师</person>游天台，因怀智大师故居, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="mishu_wei" type="position+surname">韦秘书</person>子春二首, <author ref="libai">李白</author></title>
+<title><send-off/>饯<person ref="tangyongchang" type="name">唐永昌</person>, <author ref="yanchaoying">阎朝隐</author></title>
+<title><yingzhi ref="weibin"/>上巳日祓禊渭滨<person ref="lixian" type="honorific">应制</person>, <author ref="weisili">韦嗣立</author></title>
+<title><dedication/>酬<person ref="cui15" type="surname+family_ranking">崔十五</person>见招, <author ref="libai">李白</author></title>
+<title><dedication/>春望寄<person ref="cenyang_wang" type="surname+location">王涔阳</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><feast/><yingzhi ref="shangyanggong"/>上阳宫侍宴<person ref="lixian" type="honorific">应制</person>得林字, <author ref="songzhiwen">宋之问</author></title>
+<title><record/>三月<person ref="mingfu_li" type="position+surname">李明府</person>后亭泛舟（一作皇甫冉诗）, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/>故<person ref="shi_fan" type="position+surname">南阳夫人樊氏</person>挽歌, <author ref="wangwei">王维</author></title>
+<title><dedication/>秋浦寄<person ref="wife_libai" type="word">内</person>, <author ref="libai">李白</author></title>
+<title><dedication/>答<person ref="wangji" type="surname+zi">王无功</person>问故园, <author ref="zhuzhonghui">朱仲晦</author></title>
+<title><together/>和<person ref="yinmao" type="name">尹懋</person>秋夜游灉湖二首, <author ref="zhangjun">张均</author></title>
+<title><send-off/>送<person ref="zhenshi_hu" type="position+surname">胡真师</person>还西山, <author ref="lilongji">李隆基</author></title>
+<title><send-off/>送<person ref="xuezhi" type="name">薛植</person>入京, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="shigongfeng"/><person ref="lilongji" type="honorific">奉和圣制</person>赐<person ref="gongfeng_shi" type="position+surname">史供奉</person>曲江宴应制, <author ref="wangwei">王维</author></title>
+<title><together/>与<person ref="fashi_lin" type="position">琳法师</person>, <author ref="maomingsu">毛明素</author></title>
+<title><record/>寻<person ref="shanren_xu" type="position+surname">徐山人</person>遇<person ref="sheren_ma" type="position+surname">马舍人</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="queshugu"/><person ref="lilongji" type="honorific">奉和圣制</person>答<person ref="zhangyue" type="name">张说</person>出雀鼠谷, <author ref="suting">苏颋</author></title>
+<title><person ref="lixian" type="honorific">奉和</person>幸<person ref="weisili" type="name">韦嗣立</person>山庄应制, <author ref="suting">苏颋</author></title>
+<title><dedication/>赠<person ref="sheren_liu" type="position+surname">刘舍人</person>古意, <author ref="xuyanbo">徐彦伯</author></title>
+<title><together/>春日与<person ref="peidi" type="name">裴迪</person>过新昌里访<person ref="yiren_lv" type="position+surname">吕逸人</person>不遇, <author ref="wangwei">王维</author></title>
+<title><dedication/>酬<person ref="shiyu_huangfu" type="position+surname">皇甫侍御</person>见寄，时前相国姑臧公初临郡, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>过<person ref="lixian-4" type="word">大哥</person>宅探得歌字韵, <author ref="lilongji">李隆基</author></title>
+<title><dedication/>醉后赠<person ref="liyang_wang" type="surname+location">王历阳</person>（历阳，和州也）, <author ref="libai">李白</author></title>
+<title><dedication/>赠右台监察<person ref="dengmao" type="name">邓茂</person>迁左台殿中, <author ref="liuhuaiyi">刘怀一</author></title>
+<title><record/><dedication/>洞庭驿逢<person ref="envoy_chenzhou" type="position">郴州使</person>还，寄<person ref="sima_li" type="position+surname">李汤司马</person><person ref="sima_tang" type="position+surname"/>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="taishou_kang" type="position+surname">康太守</person>, <author ref="wangwei">王维</author></title>
+<title><record/>别<person ref="wangjin" type="word+name">弟缙</person>后登青龙寺望蓝田山, <author ref="wangwei">王维</author></title>
+<title><feast/><yingzhi ref="shangyanggong"/>正夜侍宴<person ref="lixian" type="honorific">应诏</person>（《英华》作正月望夜上阳宫侍宴应制）, <author ref="xueyao">薛曜</author></title>
+<title><yingzhi ref="shanzhou"/>奉和登陕州城楼<person ref="lishimin" type="honorific">应制</person>, <author ref="xujingzong">许敬宗</author></title>
+<title><send-off/>送<person ref="zhangyi" type="name">章彝</person>下第, <author ref="qiwuqian">綦毋潜</author></title>
+<title><dedication/>留别山中<person ref="shangren_wengu" type="position">温古上人</person>兄并示<person ref="wangjin" type="word+name">舍弟缙</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>寄<person ref="hanyang_wang" type="surname+location">王汉阳</person>, <author ref="libai">李白</author></title>
+<title><record/>听<person ref="dongtinglan" type="surname+family_ranking">董大</person>弹胡笳声兼寄语弄房给事, <author ref="liqi">李颀</author></title>
+<title><record/>夏日<person ref="fashi_bianyu" type="position">辨玉法师</person>茅斋, <author ref="menghaoran">孟浩然</author></title>
+<title><elegy/><person ref="princess_huaiyang" type="position">淮阳公主</person>挽歌, <author ref="liyi4">李乂</author></title>
+<title><yingzhi ref="shicong"/>嵩山石淙侍宴<person ref="wuzetian" type="honorific">应制</person>, <author ref="suweidao">苏味道</author></title>
+<title><yingzhi ref="jinchenggongzhu"/><send-off/>奉和送<person ref="princess_jincheng" type="position">金城公主</person>入西蕃<person ref="lixian" type="position">应制</person>, <author ref="liuxian">刘宪</author></title>
+<title><anthology/><yingzhi ref="longchi"/><person ref="lilongji" type='honorific'>奉和圣制</person>龙池篇, <author ref="caifu">蔡孚</author></title>
+<title><anthology/><feast/>三月三日<person ref="liwei" type="position">申王</person>园亭宴集, <author ref="zhangjiuling">张九龄</author></title>
+<title><record/>云门寺访<person ref="shangren_lingyi" type="position+name">灵一上人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>和<person ref="wangshi" type="name">王奭</person>秋夜有所思, <author ref="luzhaolin">卢照邻</author></title>
+<title><feast/><yingzhi ref="cailvrensheng"/>奉和人日重宴大明宫恩赐彩缕人胜<person ref="lixian" type="honorific">应制</person>, <author ref="cuiriyong">崔日用</author></title>
+<title><send-off/>送<person ref="shaofu_liu" type="position+surname">刘少府</person>游越州, <author ref="luobinwang">骆宾王</author></title>
+<title><send-off/><feast/>与<person ref="zhougang" type="name">周刚</person>清溪玉镜潭宴别（潭在秋浦桃树陂下余新名此潭）, <author ref="libai">李白</author></title>
+<title><together/>同<person ref="wangjiong" type="surname+family_ranking">王九</person>题就师山房, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/><send-off/>单父东楼秋夜送<person ref="lichen" type="word+name">族弟沈</person>之秦（时<person ref="lining" type="word+name">凝弟</person>在席）, <author ref="libai">李白</author></title>
+<title><feast/><yingzhi ref="jiurishiyan"/>奉和九日侍宴<person ref="emperor" type="honorific">应制</person>得浓字, <author ref="liyi4">李乂</author></title>
+<title><record/>下终南山过<person ref="shanren_husi" type="position+surname">斛斯山人</person>宿置酒, <author ref="libai">李白</author></title>
+<title><record/>金陵听<person ref="shiyu_han" type="position+surname">韩侍御</person>吹笛, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="dou7" type="surname+family_ranking">窦七</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>送<person ref="mingfu_yuan" type="position+surname">袁明府</person>之任, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="liuwang_yang" type="surname+zi">杨六望</person>赴金水, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/><feast/>仲夏饯<person ref="wei4" type="surname+family_ranking">魏四</person>河北觐叔, <author ref="chuguangxi">储光羲</author></title>
+<title><record/>奉酬<person ref="weisili" type="name">韦嗣立</person>祭酒偶游龙门北溪忽怀骊山别业…大僚之作, <author ref="cuitaizhi">崔泰之</author></title>
+<title><dedication/>南还以诗代书赠<person ref="colleague_zhangjiuling" type="collective">京师旧僚</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="shenfuting"/><person ref="emperor" type="honorific">奉和</person>幸神皋亭应制, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>奉寄<person ref="shijun_li1" type="position+surname">婺州李使君舍人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>闻<person ref="liguangbi" type="position+surname+location">李太尉</person>大举秦兵百万出征东南懦夫请缨…<person ref="cuizongzhi" type="position+surname">崔侍御</person>十九韵, <author ref="libai">李白</author></title>
+<title><record/><person ref="wife_pinglujiangjun" type="position+word">平虏将军妻</person>, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="taishou_yuwen" type="position+surname+location">宣城宇文太守</person>兼呈<person ref="cuizongzhi" type="position+surname">崔侍御</person>, <author ref="libai">李白</author></title>
+<title><dedication/>敬酬<person ref="zhangjiuling" type="name">张九龄</person>当涂界留赠之作, <author ref="peiyaoqing">裴耀卿</author></title>
+<title><send-off/>留别<person ref="taishou_sima" type="position+surname">司马太守</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><feast/>春日陪<person ref="jiangning_yang" type="surname+location">杨江宁</person>及诸官宴北湖感古作, <author ref="libai">李白</author></title>
+<title><together/><yingzhi ref="jiangshengguan"/><person ref="lilongji" type="honorific">奉和圣制</person>登降圣观与宰臣等同望应制, <author ref="wangwei">王维</author></title>
+<title><send-off/><feast/>饯<person ref="xianggong_wang" type="position+surname">王相公</person>出牧括州, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/><together/>辛丑岁十月<person ref="lixian" type="honorific">上</person>幸长安时扈从出西岳作, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>晚春诣苏州敬赠<person ref="yuanwai_wu" type="position+surname">武员外</person>, <author ref="wangwan">王湾</author></title>
+<title><record/>访<person ref="daoshi_in_daitianshan" type="position">戴天山道士</person>不遇, <author ref="libai">李白</author></title>
+<title><yingzhi ref="taizinafei"/><person ref="lizhi" type="position">奉和</person><person ref="lixian" type="position">太子</person>纳妃<person ref="princess_taiping" type="position">太平公主</person>出降三首, <author ref="huyuanfan">胡元范</author></title>
+<title><dedication/>寄<person ref="shangren_lingyi" type="position+name">灵一上人</person>初还云门（一作皇甫曾诗）, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/><person ref="zhuzuo_lu" type="position+surname">陆著作</person>挽歌, <author ref="chuguangxi">储光羲</author></title>
+<title><feast/>春晚宴<person ref="xuanzhen" type="null"/><person ref="zhangyue" type="null"></person>两相及<person ref="lizhengdian_xueshi" type="position">礼官丽正殿学士</person>探得风字, <author ref="lilongji">李隆基</author></title>
+<title><yingzhi ref="nanjiao"/><person ref="lilongji" type="honorific">奉和圣制</person>南郊礼毕酺宴, <author ref="zhangjiuling">张九龄</author></title>
+<title><feast/><send-off/>行营酬<person ref="shiyu_lv" type="position+surname">吕侍御</person>时尚书问罪襄阳军次汉东境上…诗以见谕, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="friend_liuchangqing1" type="indirect">友人</person>南游, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>沙丘城下寄<person ref="dufu" type="name">杜甫</person>, <author ref="libai">李白</author></title>
+<title><together/>和<person ref="wangwei" type="name">王维</person>敕赐百官樱桃, <author ref="cuixingzong">崔兴宗</author></title>
+<title><record/>会稽<person ref="chushi_wang" type="position+surname">王处士</person>草堂壁画衡霍诸山, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="jiuchenggong"/>九成宫秋初<person ref="lizhi" type="honorific">应诏</person>, <author ref="liuyizhi">刘祎之</author></title>
+<title><feast/><send-off/>馀干夜宴奉饯前<person ref="shijun_wei" type="position+surname+location">苏州韦使君</person>新除婺州作, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/><person ref="sigong_wu" type="position+surname">武司功</person>初有幽庭春暄见贻夏首获见以诗报焉, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>鄂渚送<person ref="shijun_cheng" type="position+surname+location">池州程使君</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>延平门高斋亭子应<person ref="lifan" type="position">岐王</person>教, <author ref="zhange">张谔</author></title>
+<title><record/>夕次檐石湖，梦<person ref="relative_friend_liuchangqing" type="collective">洛阳亲故</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>赋得明星玉女坛，送<person ref="lianchawei" type='position'>廉察尉</person>华阴, <author ref="wanghan">王翰</author></title>
+<title><dedication/>酬<person ref="qiwuqian" type="position+surname">綦毋校书</person>梦耶溪见赠之作, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>送<person ref="zhangcongshen" type="position+surname">张司直</person>赴岭南谒<person ref="shangshu_zhang" type="position+surname">张尚书</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>题<person ref="shanren_cui" type="position+surname">崔山人</person>别业, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="zhonghejie_qujiangyan"/><person ref="lilongji" type="honorific">奉和圣制</person>中和节曲江宴百僚, <author ref="limi">李泌</author></title>
+<title><yingzhi ref="jixianxueshi"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>上集贤学士赐宴（赋得宾字）, <author ref="liusheng">刘升</author></title>
+<title><yingzhi ref="xingqingge"/><person ref="lilongji" type="honorific">奉和圣制</person>从蓬莱向兴庆阁道中留春雨中春望之作应制, <author ref="licheng">李憕</author></title>
+<title><dedication/>早秋出塞寄<person ref="dongtai_xiangzhengxueshi" type="position">东台详正学士</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><yingzhi ref="tongguankouhao"/><person ref="lilongji" type="honorific">奉和圣制</person>潼关口号应制, <author ref="zhangyue">张说</author></title>
+<title><send-off/>季冬送<person ref="hubulangzhong" type="position">户部郎中</person>使黔府选补, <author ref="luzhuan">卢僎</author></title>
+<title><record/>夏日夜忆<person ref="zhang2" type="surname+family_ranking">张二</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><yingzhi ref="shuofangjun"/><person ref="lixian" type="honorific">奉和</person>幸望****送<person ref="zhangrenyuan" type="position+name">朔方军大总管张仁亶</person>, <author ref="liyi4">李乂</author></title>
+<title><dedication/>山居贻<person ref="peidi" type="surname+family_ranking+name">裴十二迪</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="yuzhengongzhu"/><person ref="lilongji" type="honorific">奉和圣制</person>幸<person ref="princess_yuzhen" type="position">玉真公主</person>山庄因题石壁十韵之作应制, <author ref="wangwei">王维</author></title>
+<title><send-off/>送<person ref="shaofu_zhao" type="position+surname+location">宛句赵少府</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="shuofangjun"/><send-off/><person ref="lixian" type="honorific">奉和</person>幸望****送<person ref="zhangrenyuan" type="position+name">朔方军大总管张仁亶</person>, <author ref="lishi">李適</author></title>
+<title><yingzhi ref="chaojishi"/><send-off/><person ref="lilongji" type="honorific">奉和圣制</person>暮春送<person ref="chaojishi" type="collective">朝集使</person>归郡应制, <author ref="wangwei">王维</author></title>
+<title><dedication/>归弋阳山居，留别<person ref="shiyu_lu1" type="position+surname">卢</person>、邵二侍御, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="yuwenrong"/><send-off/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="yuwenrong" type="name">宇文融</person>安辑户口应制, <author ref="zhangyue">张说</author></title>
+<title><dedication/>题祀山烽树赠<person ref="qiao12" type="surname+family_ranking+position">乔十二侍御</person>, <author ref="chenziang">陈子昂</author></title>
+<title><elegy/>哭<person ref="zhangji" type="position+name">张员外继</person>（公及夫人相次没于洪州）, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="taishou_feng" type="position+surname">封太守</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>答<person ref="shiyu_pei" type="position+surname">裴侍御</person>先行至石头驿以书见招，期月满泛洞庭, <author ref="libai">李白</author></title>
+<title><elegy/><person ref="lifan" type="position">惠文太子</person>挽歌二首, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="position+surname">张尚书</person>巡边, <author ref="huhao">胡皓</author></title>
+<title><together/><feast/>同<person ref="shiyu_zhang" type="position+surname">张侍御</person>宴北楼, <author ref="chuguangxi">储光羲</author></title>
+<title><elegy/><person ref="wife_jiangwang" type="position+word">江王太妃</person>挽歌, <author ref="shangguanyi">上官仪</author></title>
+<title><dedication/>赠<person ref="shiyu_wei" type="position+surname">韦侍御</person>黄裳二首, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="chanshi_tong" type="position+name">通禅师</person>还南陵隐静寺, <author ref="libai">李白</author></title>
+<title><yingzhi ref="jiuju"/><person ref="lilongji" type="honorific">奉和圣制</person>途次旧居应制, <author ref="suting">苏颋</author></title>
+<title><yingzhi ref="yuxue"/>苑中遇雪<person ref="lixian" type="honorific">应制</person>, <author ref="xuyanbo">徐彦伯</author></title>
+<title><together/>陪<person ref="zhangyue" type="position+surname">张丞相</person>祠紫盖山，途经玉泉寺, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="chunriwanghai"/><person ref="lishimin" type="honorific">奉和</person>春日望海, <author ref="xujingzong">许敬宗</author></title>
+<title><dedication/>寄<person ref="hanpeng" type="name">韩鹏</person>, <author ref="liqi">李颀</author></title>
+<title><send-off/>送<person ref="langzhong_pei" type="position+surname">裴郎中</person>贬吉州, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="shaolinsi"/><person ref="wuzetian" type="honorific">幸</person>少林寺应制, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="panguan_zhou" type="position+surname+location">广州周判官</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>奉酬<person ref="zhangjiuling" type="surname+location+name">张洪州九龄</person>江上见赠, <author ref="sunhong">孙翃</author></title>
+<title><send-off/>送<person ref="hezhizhang" type="name">贺知章</person>归四明, <author ref="lilongji">李隆基</author></title>
+<title><send-off/>送<person ref="wei2" type='surname+family_ranking'>魏二</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><feast/><send-off/>饯<person ref="sima_wang" type="position+surname">王司马</person>入计同用洲字, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="nanzhuang"/>奉和初春<person ref="lixian" type="honorific">幸</person><person ref="princess_taiping" type="position">太平公主</person>南庄应制, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><elegy/><person ref="suting" type="position+surname">右丞相苏公</person>挽歌二首, <author ref="zhangyue">张说</author></title>
+<title><send-off/>送<person ref="libaopu" type="position+name">玄同真人李抱朴</person>谒灊山仙祠, <author ref="lilongji">李隆基</author></title>
+<title><dedication/>答<person ref="song11" type="surname+family_ranking">宋十一</person>崖口五渡见赠, <author ref="lishi">李適</author></title>
+<title><yingzhi ref="yuxue"/>苑中遇雪<person ref="lixian" type="honorific">应制</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="limu" type="name">李穆</person>归淮南, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><feast/>饯<person ref="zhaoyanzhao" type="position+surname">赵尚书摄御史大夫</person>赴朔方军, <author ref="suting">苏颋</author></title>
+<title><elegy/><person ref="hubushangshu_cuigong" type="position+surname">户部尚书崔公</person>挽歌, <author ref="cuirong">崔融</author></title>
+<title><dedication/>赠<person ref="sixun_xiaolangzhong" type="position+surname">司勋萧郎中</person>, <author ref="zhangzirong">张子容</author></title>
+<title><dedication/>度峡口山赠<person ref="buque_qiao" type="position+surname">乔补阙</person>知之<person ref="wangji" type="surname+family_ranking+name">王二无竞</person>, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="linweitingdenggao"/>奉和九日<person ref="lixian" type="honorific">幸</person>临渭亭登高应制得臣字, <author ref="lujingchu">陆景初</author></title>
+<title><yingzhi ref="xixue"/><person ref="lilongji" type="honorific">奉和圣制</person>野次喜雪应制, <author ref="zhangyue">张说</author></title>
+<title><send-off/>送<person ref="xuechengju" type="name">薛承矩</person>秩满北游, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><dedication/>送<person ref="panguan_shi" type="position+surname">史判官</person>奏事之灵武，兼寄<person ref="relative_liuchangqing_baxi" type="collective">巴西亲故</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>听笛歌留别<person ref="zhengxielv" type="name">郑协律</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><feast ref="huirichongyan"/>晦日宴<person ref="gaojin" type="surname">高氏</person>林亭, <author ref="wangmaoshi">王茂时</author></title>
+<title><send-off/>王屋山送<person ref="simachengzhen" type="position+name">道士司马承祯</person>还天台, <author ref="lilongji">李隆基</author></title>
+<title><record/>闲园怀<person ref="zi_su" type="surname+honorific">苏子</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="friend_libai" type="indirect">友生</person>游峡中, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="friend_liuchangqing" type="indirect">友人</person>东归, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/><person ref="princess_yongtai" type="position">永泰公主</person>挽歌二首, <author ref="wujing">吴兢</author></title>
+<title><send-off/><feast/>饯<person ref="sima_song" type="position+surname+location">许州宋司马</person>赴任, <author ref="mahuaisu">马怀素</author></title>
+<title><dedication/>咏乌代<person type="name" ref="chenshidao">陈师道</person>, <author ref="lishimin">李世民</author></title>
+<title><yingzhi ref="jiuju"/><person ref="lilongji" type="honorific">奉和圣制</person>爰因巡省途次旧居应制, <author ref="zhangyue">张说</author></title>
+<title><record/><person ref="langzhong_zheng" type="position+surname">郑郎中</person>山亭, <author ref="cuiqiao">崔翘</author></title>
+<title><record/>过<person ref="shangren_rong" type="position+name">融上人</person>兰若（一作孟浩然诗）, <author ref="qiwuqian">綦毋潜</author></title>
+<title><yingzhi ref="jiancaihua"/><person ref="lixian" type="honorific">奉和圣制</person>立春日侍宴内殿出翦彩花应制, <author ref="shangguanwaner">上官昭容</author></title>
+<title><yingzhi ref="weisili"/><person ref="lixian" type="honorific">奉和圣制</person>幸<person ref="weisili" type="name">韦嗣立</person>山庄应制, <author ref="zhangyue">张说</author></title>
+<title><send-off/><record/>送<person ref="yuangong" type="position">元公</person>之鄂渚，寻<person ref="zhangcanluan" type="position+name">观主张骖鸾</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="yuanwai_cui" type="position+surname">崔员外</person>黔中监选, <author ref="qiwuqian">綦毋潜</author></title>
+<title><together/><dedication/>陪<person ref="zhangyue" type="position+surname">张丞相</person>登荆城楼，因寄<person ref="shijun_zhang" type="position+surname+location">蓟州张使君</person>及<person ref="langboshuzhuliujia" type="collective">浪泊戍主刘家</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><record/>望送<person ref="weizheng" type="name">魏徵</person>葬, <author ref="lishimin">李世民</author></title>
+<title><dedication/>寄河上<person ref="duan16" type="surname+family_ranking">段十六</person>（一作王维诗）, <author ref="luxiang">卢象</author></title>
+<title><dedication/>杂言用投<person ref="friend_danyang" type="indirect">丹阳知己</person>兼奉<person ref="xuanweipanguan" type="position">宣慰判官</person>（以下见《诗纪》）, <author ref="libai">李白</author></title>
+<title><send-off/>别<person ref="monk_donglinsi" type="indirect">东林寺僧</person>, <author ref="libai">李白</author></title>
+<title><send-off/>五松山送<person ref="yinshu" type="name">殷淑</person>, <author ref="libai">李白</author></title>
+<title><dedication/>酬<person ref="jishi_guo" type="position+surname">郭给事</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>秋夜寓直中书呈<person ref="huangmen_uncle" type="position+word">黄门舅</person>, <author ref="suting">苏颋</author></title>
+<title><record/>渡浙江问<person ref="boat_passenger" type="indirect">舟中人</person>（一题作济江问同舟人。一作崔国辅诗）, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>九日题<person ref="princess_caiguo" type="position">蔡国公主</person>楼, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="canjun_dou" type="position+surname">窦参军</person>, <author ref="liqi">李颀</author></title>
+<title><together/><feast/>云阳驿陪<person ref="shijun_cui" type="position+surname">崔使君</person><person ref="daoshi_shao" type="position+surname">邵道士</person>夜宴, <author ref="zhangzirong">张子容</author></title>
+<title><send-off/>送<person ref="sifa_yao" type="position+surname">姚司法</person>归吴, <author ref="wangchangling">王昌龄</author></title>
+<title><dedication/>赠<person ref="wang9" type="surname+family_ranking">王九</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>赠<person ref="xujingzong" type="position+surname">许左丞</person>从驾万年宫, <author ref="luzhaolin">卢照邻</author></title>
+<title><send-off/>送人寻<person ref="peifei" type="name">裴斐</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>巡边, <author ref="xiyu">席豫</author></title>
+<title><send-off/>送<person ref="zhangshi_liu" type="position+surname+location">鲁郡刘长史</person>迁弘农长史, <author ref="libai">李白</author></title>
+<title><together/>同<person ref="luzangyong" type="position+surname">卢拾遗</person>过<person ref="jishi_wei" type="position+surname">韦给事</person>东山别业二十韵给事首春…不果斯诺, <author ref="wangwei">王维</author></title>
+<title><record/>谒<person ref="lianshi_jiao" type="position+surname">焦炼师</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><feast/>宴<person ref="biejia_zhang" type="position+surname">张别驾</person>新斋, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>长沙赠<person ref="chanshi_bore" type="position+location">衡岳祝融峰般若禅师</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>秋晨同<person ref="sima_mao" type="position+surname+location">淄川毛司马</person>秋九咏·秋蝉, <author ref="luobinwang">骆宾王</author></title>
+<title><record/>过<person ref="shanren_zheng" type="position+surname">郑山人</person>所居, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="ciensi"/><person ref="lizhi" type="honorific">奉和</person>九月九日登慈恩寺浮图应制, <author ref="cuiriyong">崔日用</author></title>
+<title><yingzhi ref="yandutang"/><person ref="lilongji" type="honorific">奉和</person>御制璟与<person ref="zhangyue" type="name">张说</person><person ref="yuanqianyao" type="name">源乾曜</person>同日上官命宴都堂赐诗应制, <author ref="songjing">宋璟</author></title>
+<title><send-off/>武陵桃源送<person ref="someone" type="indirect">人</person>, <author ref="baorong">包融</author></title>
+<title><yingzhi ref="shangguanzhaorong"/><person ref="lixian" type="honorific">奉和</person>幸<person ref="shangguanwaner" type="position+surname">上官昭容</person>院献诗四首, <author ref="zhengyin">郑愔</author></title>
+<title><dedication/>家园夜坐寄<person ref="guowei" type="name">郭微</person>, <author ref="zuyong">祖咏</author></title>
+<title><dedication/>秋山寄<person ref="weiwei_zhangqing" type="position+surname">卫尉张卿</person>及<person ref="zhengjun_wang" type="position+surname">王征君</person>, <author ref="libai">李白</author></title>
+<title><record/>饭覆<person ref="monk_fushan" type="indirect">釜山僧</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>春过<person ref="peiqiu" type="name">裴虬</person>郊园（时裴不在，因以寄之）, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>夏日过青龙寺谒<person ref="chanshi_cao" type="position+name">操禅师</person>, <author ref="peidi">裴迪</author></title>
+<title><record/><person ref="fashi_jing" type="position+name">静法师</person>东斋, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/><yingzhi ref="lixian"/>送沙门<person ref="hongjing" type="name">弘景</person><person ref="daojun" type="name">道俊</person><person ref="xuanzang" type="name">玄奘</person>还荆州应制（一作宋之问诗）, <author ref="liqiao">李峤</author></title>
+<title><dedication/>泾溪东亭寄<person ref="zhenge" type="position+name">郑少府谔</person>, <author ref="libai">李白</author></title>
+<title><send-off/>题冤句<person ref="shaofu_song" type="position+surname">宋少府</person>厅留别, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/><person ref="wife_general_cheng" type="position+word">程将军夫人</person>挽诗, <author ref="xuanzhen">徐安贞</author></title>
+<title><dedication/>奉答<person ref="zhangyue" type="position">燕公</person>, <author ref="zhaodongxi">赵冬曦</author></title>
+<title><yingzhi ref="jiuri"/>九日<person ref="lixian" type="honorific">应制</person>得欢字, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="jixianxueshi"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>上集贤学士赐宴（赋得华字）, <author ref="weishu">韦述</author></title>
+<title><send-off/>送<person ref="cuie" type="name">崔遏</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>赠<person ref="chushi_cheng" type="position+surname">程处士</person>, <author ref="wangji">王绩</author></title>
+<title><dedication/>月夜江行，寄<person ref="cuizongzhi" type="position+name">崔员外宗之</person>, <author ref="libai">李白</author></title>
+<title><dedication/>江上赠<person ref="zhangshi_dou" type="position+surname">窦长史</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="chunrixingwang"/><person ref="lilongji" type="honorific">奉和圣制</person>春日幸望****应制, <author ref="xueji">薛稷</author></title>
+<title><record/>自衡阳至韶州谒<person ref="chanshi_neng" type="position+name">能禅师</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>赠<person ref="lilie" type="word+name">从弟冽</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="qianqiujie"/><person ref="lilongji" type="honorific">奉和圣制</person>千秋节宴应制, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="princess_anle_house"/>奉和<person ref="lixian" type="honorific">幸</person>安乐公主山庄应制, <author ref="mahuaisu">马怀素</author></title>
+<title><yingzhi ref="ciensi"/><person ref="lizhi" type="honorific">奉和</person>九月九日登慈恩寺浮图应制, <author ref="biqiantai">毕乾泰</author></title>
+<title><send-off/>送<person ref="zhuzuo_li" type="position+surname">李著作</person>倅杭州, <author ref="zhange">张谔</author></title>
+<title><yingzhi ref="dajianfusi"/><person ref="lixian" type="honorific">奉和幸</person>大荐福寺（寺即中宗旧宅）, <author ref="zhengyin">郑愔</author></title>
+<title><elegy/><person ref="princess_gaomi" type="position">高密长公主</person>挽歌, <author ref="shangguanyi">上官仪</author></title>
+<title><feast/><send-off/>饯<person ref="shijun_gao1" type="position+surname+location">唐州高使君</person>赴任, <author ref="suting">苏颋</author></title>
+<title><dedication/>赠<person ref="yanqi" type="position+name">严仓曹乞</person>推命录, <author ref="chenziang">陈子昂</author></title>
+<title><record/>观<person ref="licou" type="name">李凑</person>所画美人障子, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>陪<person ref="shijun_dugu" type="position+surname">独孤使君</person>同与<person ref="xiaozheng" type="position+name">萧员外证</person>登万山亭, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="yandutang"/><person ref="lilongji" type="honorific">奉和圣制</person><person ref="zhangyue" type="position+name">左丞相说</person><person ref="songjing" type="position+name">右丞相璟</person><person ref="yuanqianyao" type="position+name">太子少傅乾曜</person>同…宴都堂赐诗, <author ref="yuwenrong">宇文融</author></title>
+<title><yingzhi ref="renriyuxue"/>苑中人日遇雪<person ref="lixian" type="honorific">应制</person>, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><dedication/>江上寄<person ref="yuandanqiu" type="surname+family_ranking+name">元六林宗</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="queshugu"/>南出雀鼠谷答<person ref="zhangyue" type="name">张说</person>, <author ref="lilongji">李隆基</author></title>
+<title><dedication/>醉后答<person ref="ding18" type="surname+family_ranking">丁十八</person>以诗讥余捶碎黄鹤楼（此诗杨慎云是伪作）, <author ref="libai">李白</author></title>
+<title><yingzhi ref="tianshu"/><person ref="lixian" type="honorific">奉和</person>天枢成宴夷夏群僚应制, <author ref="liqiao">李峤</author></title>
+<title><send-off/><dedication/>赠别<person ref="bingcao_zhang" type="position+surname">张兵曹</person>, <author ref="liqi">李颀</author></title>
+<title><send-off/>送<person ref="shijun_pei" type="position+surname">裴使君</person>赴荆南充行军司马, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="lingche_shangren" type="position+name">灵澈上人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>京口留别<person ref="buque_xu" type="surname+family_ranking+position">徐大补阙</person><person ref="zhao2" type="surname+family_ranking+location">赵二零陵</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>送<person ref="bingcao_wei12" type="surname+family_ranking+position">韦十二兵曹</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><together/><dedication/>同<person ref="canjun_song" type="position+surname">宋参军</person>之问梦<person ref="zhao6" type="surname+family_ranking">赵六</person>赠<person ref="luzangyong" type="surname+honorific">卢</person><person ref="zi_chen" type="surname+honorific">陈</person>二子之作, <author ref="chenziang">陈子昂</author></title>
+<title><send-off/>重别<person ref="xuehua" type="name">薛华</person>, <author ref="wangbo">王勃</author></title>
+<title><together/>和<person ref="shilang_xu" type="position+surname">许侍郎</person>游昆明池, <author ref="libaiyao">李百药</author></title>
+<title><feast/><record/><person ref="dudu_xiao" type="position+surname+location">广州萧都督</person>入朝过岳州宴饯得冬字, <author ref="zhangyue">张说</author></title>
+<title><dedication/>赠<person ref="officials_yizhou" type="collective">益府群官</person>, <author ref="luzhaolin">卢照邻</author></title>
+<title><yingzhi ref="yuxue"/>苑中遇雪<person ref="lixian" type="honorific">应制</person>, <author ref="liuxian">刘宪</author></title>
+<title><elegy/><person ref="concubine_yang_prince_jieyi" type="position+surname">节义太子杨妃</person>挽歌二首, <author ref="zhangyue">张说</author></title>
+<title><dedication/>制袍字赐<person ref="direnjie" type="name">狄仁杰</person>, <author ref="wuzetian">武则天</author></title>
+<title><yingzhi ref="hanshi"/>寒食<person ref="emperor" type='honorific'>应制</person>, <author ref="weichengqing">韦承庆</author></title>
+<title><dedication/>酬<person ref="chushi_li" type="position+surname">李处士</person>山中见赠, <author ref="chuguangxi">储光羲</author></title>
+<title><elegy/>哭<person ref="elder_ji_xuancheng" type="indirect">宣城善酿纪叟</person>, <author ref="libai">李白</author></title>
+<title><together/>陪<person ref="mingfu_lu2" type="position+surname">卢明府</person>泛舟回作, <author ref="menghaoran">孟浩然</author></title>
+<title><together/>和<person ref="libushilang_li" type="position+surname">吏部李侍郎</person>见示秋夜望月忆诸侍郎之什…因命仆继作, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="jiurishiyan"/><person ref="emperor" type="honorific">奉和圣制</person>九日侍宴应制得高字, <author ref="lishi">李適</author></title>
+<title><dedication/>行至汝坟寄<person ref="luhongyi" type="position+surname">卢征君</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>宿白鹭洲，寄<person ref="jiangning_yang" type="surname+location">杨江宁</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="xijie"/>侍宴旋师喜捷<person ref="lixian" type="honorific">应制</person>, <author ref="weianshi">韦安石</author></title>
+<title><send-off/>送<person ref="brothers_luzhaolin" type="word">二兄</person>入蜀, <author ref="luzhaolin">卢照邻</author></title>
+<title><together/>集<person ref="lianggeng" type="name">梁耿</person>开元寺所居院, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="jiaoshu_li" type="position+surname">李校书</person>适越谒<person ref="zhongcheng_du" type="position+surname">杜中丞</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="xiyu"/><person ref="lixian" type="honorific">奉和</person>春日游苑喜雨应制, <author ref="liqiao">李峤</author></title>
+<title><send-off/><feast/>饯<person ref="tangyongchang" type="name">唐永昌</person>, <author ref="liuxian">刘宪</author></title>
+<title><send-off/>送<person ref="lizhuo" type="name">李擢</person>游江东, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>送特进<person ref="liqiao" type="name">李峤</person>入都袝庙, <author ref="xuyanbo">徐彦伯</author></title>
+<title><record/>谒慈恩寺题<person ref="fashi_zang" type="position+name">奘法师</person>房, <author ref="lizhi">李治</author></title>
+<title><dedication/>送<person ref="yinshu" type="name">殷淑</person>三首, <author ref="libai">李白</author></title>
+<title><together/>陪<person ref="liye" type="position+word+name">族叔刑部侍郎晔</person>及<person ref="sheren_jia" type="position+surname">中书贾舍人</person>至游洞庭五首, <author ref="libai">李白</author></title>
+<title><dedication/><person ref="luhongyi" type="position+word">家叔征君</person>东溪草堂二首, <author ref="luxiang">卢象</author></title>
+<title><record/>至端州驿见<person ref="dushenyan" type="surname+family_ranking+name">杜五审言</person><person ref="shenquanqi" type="surname+family_ranking+name">沈三佺期</person><person ref="yanchaoying" type="surname+family_ranking+name">阎五朝隐</person><person ref="wangwujing" type="surname+family_ranking+name">王二无竞</person>…成咏, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>赠<person ref="peimin" type="position+surname">裴将军</person>, <author ref="yanzhenqing">颜真卿</author></title>
+<title><yingzhi ref="lichunyouyuan"/><person ref="emperor" type="honorific">奉和</person>立春游苑迎春应制, <author ref="weiyuandan">韦元旦</author></title>
+<title><together/>和<person ref="mingfu_lu4" type="position+surname">陆明府</person>赠<person ref="general" type="indirect">将军</person>重出塞, <author ref="chenziang">陈子昂</author></title>
+<title><send-off/>留别<person ref="qiuwei" type="name">丘为</person>, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="linweitingdenggao"/>九日临渭亭侍宴<person ref="lixian" type="honorific">应制</person>得长字, <author ref="shenquanqi">沈佺期</author></title>
+<title><record/>夜泊黄山，闻<person ref="yinshu" type="surname+family_ranking">殷十四</person>吴吟, <author ref="libai">李白</author></title>
+<title><record/>游精思观回，<person ref="wangjiong" type="surname+zi">王白云</person>在后, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="luli" type="name">陆澧</person>还吴中（一作李嘉祐诗）, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="zhangxu3" type="name">张栩</person>扶侍之睦州（此公旧任建德令）, <author ref="liuchangqing">刘长卿</author></title>
+<title><feast/>临涣<person ref="mingfu_pei" type="position+surname">裴明府</person>席遇<person ref="zhang11" type="surname+family_ranking">张十一</person>、<person ref="fang6" type="surname+family_ranking">房六</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><elegy/><person ref="dafu_le" type="position+surname">乐大夫</person>挽词五首, <author ref="luobinwang">骆宾王</author></title>
+<title><record/><person ref="herb_collector" type="indirect">嵩山采菖蒲者</person>, <author ref="libai">李白</author></title>
+<title><send-off/>赠别<person ref="panguan_zheng" type="position+surname">郑判官</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="chuntaiwang"/><person ref="emperor" type="honorific">奉和圣制</person>春台望应制, <author ref="suting">苏颋</author></title>
+<title><dedication/>东征答<person ref="court_officials" type="collective">朝臣</person>相送, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="shangyanggong"/><person ref="lixian" type="honorific">奉和</person>幸上阳宫侍宴应制, <author ref="zongchuke">宗楚客</author></title>
+<title><dedication/>赠<person ref="weimu" type="surname+family_ranking+name">韦穆十八</person>, <author ref="wangwei">王维</author></title>
+<title><feast/><send-off/>饯<person ref="shijun_gao1" type="position+surname+location">唐州高使君</person>赴任, <author ref="cuishi">崔湜</author></title>
+<title><dedication/>三山望金陵，寄<person ref="yinshu" type="name">殷淑</person>, <author ref="libai">李白</author></title>
+<title><send-off/>灵云池送<person ref="brother_wangwei" type="word">从弟</person>, <author ref="wangwei">王维</author></title>
+<title><record/>越中逢<person ref="taiyizi" type="position+location">天台太乙子</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>宿怀仁县南湖，寄<person ref="chushi_xun" type="position+surname+location">东海荀处士</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>题<person ref="tianyouyan" type="position+name">田洗马游岩</person>桔槔, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="lishan"/><person ref="lixian" type="honorific">奉和圣制</person>登骊山高顶寓目应制, <author ref="liuxian">刘宪</author></title>
+<title><send-off/>送<person ref="gao8" type="surname+family_ranking">告八</person>从军, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/><together/>同<person ref="wangchangling" type="name">王昌龄</person>送<person ref="lixiang" type="word+name">族弟襄</person>归桂阳二首, <author ref="libai">李白</author></title>
+<title><dedication/>题<person ref="sima_chen" type="position+surname+location">梧州陈司马</person>山斋（一作宋之问诗）, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>郡江南上别<person ref="shiyu_sun" type="position+surname">孙侍御</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="longchi"/><person ref="lilongji" type="honorific">奉和圣制</person>龙池篇, <author ref="yaochong">姚崇</author></title>
+<title><yingzhi ref="wenluo"/><person ref="emperor" type="honorific">奉和</person>受图温洛应制, <author ref="niufengji">牛凤及</author></title>
+<title><dedication/>大堤行寄<person ref="wan7" type="surname+family_ranking">万七</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>泾川送<person ref="lichun" type="word+name">族弟錞</person>, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="zhubu_liu" type="position+surname">光禄刘主簿</person>之洛, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="xingqingchi"/><person ref="lixian" type="position">帝</person>幸兴庆池戏竞渡应制, <author ref="lishi">李適</author></title>
+<title><elegy/><person ref="xujian" type="position+surname">右侍郎集贤院学士徐公</person>挽词二首, <author ref="zhangyue">张说</author></title>
+<title><feast ref="huirichongyan"/><person ref="gaojin" type="null"/><person ref="chenjiayan" type="null"/><person ref="langyuling" type="null"/><person ref="wangmian" type="null"/><person ref="xuhao" type="null"/><person ref="wangmaoshi" type="null"/>晦日置酒林亭, <author ref="gaozhengchen">高正臣</author></title>
+<title><send-off/>送<person ref="jia3" type="surname+family_ranking">贾三</person>北游, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="fangshi_zhao" type="position+surname">方士赵叟</person>之东平, <author ref="libai">李白</author></title>
+<title><send-off/>新安奉送<person ref="yude_mu" type="position+surname">穆谕德</person>归朝，赋得行字, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>夏日过青龙寺谒<person ref="chanshi_cao" type="position+name">操禅师</person>（与裴迪同作）, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="jixianxueshi"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>上集贤学士赐宴（赋得风字）, <author ref="chuxiu">褚琇</author></title>
+<title><record/>见<person ref="weiliang" type="position+ame+location">京兆韦参军量</person>移东阳二首, <author ref="libai">李白</author></title>
+<title><record/><person ref="murongcheng" type="name">慕容承</person>携素馔见过, <author ref="wangwei">王维</author></title>
+<title><dedication/>赠<person ref="zhongrui" type="position+ame+location">宣州灵源寺仲濬公</person>, <author ref="libai">李白</author></title>
+<title><send-off/>严陵钓台，送<person ref="likangcheng" type="name">李康成</person>赴江东使, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>喜<person ref="canjun_ma" type="position+surname">马参军</person>相遇醉歌, <author ref="chenziang">陈子昂</author></title>
+<title><send-off/><feast/>饯<person ref="zhangshi_lu" type="position+surname+location">潞州陆长史</person>再守汾州, <author ref="suting">苏颋</author></title>
+<title><send-off/>送<person ref="li11" type="surname+family_ranking+position">李十一尉</person>临溪, <author ref="changjian">常建</author></title>
+<title><yingzhi ref="lishan"/><person ref="lixian" type="honorific">奉和圣制</person>登骊山高顶寓目应制, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><feast/><send-off/>饯<person ref="liyun" type="position+word+name">校书叔云</person>, <author ref="libai">李白</author></title>
+<title><feast/>修书院学士奉敕宴<person ref="wusansi" type="position">梁王</person>宅, <author ref="weiyuanzhong">魏元忠</author></title>
+<title><dedication/>酬通事舍人寓直见示篇中兼起居<person ref="lujingxian" type="position+name">陆舍人景献</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>题<person ref="shi_yuan" type="surname">袁氏</person>别业（一作偶游主人园）, <author ref="hezhizhang">贺知章</author></title>
+<title><yingzhi ref="huangtaizi"/><person ref="lixian" type="honorific">上</person>幸<person ref="lichongrun" type="position">皇太子</person>新院应制, <author ref="luzhuan">卢僎</author></title>
+<title><send-off/>送<person ref="mingfu_wei" type="position+surname+location">方城韦明府</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>寄<person ref="lizhao" type="position+location+word">从弟宣州长史昭</person>, <author ref="libai">李白</author></title>
+<title><send-off/>高阳池送<person ref="zhu2" type="surname+family_ranking">朱二</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="pujinguan"/><person ref="lilongji" type="honorific">奉和圣制</person>早渡蒲津关, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>送<person ref="qiwuqian" type="name">綦毋潜</person>, <author ref="luxiang">卢象</author></title>
+<title><yingzhi ref="ruixuepian"/><person ref="lilongji" type="honorific">奉和圣制</person>瑞雪篇, <author ref="liutingqi">刘庭琦</author></title>
+<title><dedication/>赠<person ref="panguan_wang" type="position+surname">王判官</person>，时余归隐，居庐山屏风叠, <author ref="libai">李白</author></title>
+<title><yingzhi ref="wangjiaqiang"/><person ref="emperor" type="honorific">奉和圣制</person>至长****登楼望稼穑之作, <author ref="suting">苏颋</author></title>
+<title><yingzhi ref="queshugu"/><person ref="lilongji" type="honorific">扈从</person>南出雀鼠谷, <author ref="zhangyue">张说</author></title>
+<title><together/>和<person ref="yinmao" type="name">尹懋</person>秋夜游灉湖二首, <author ref="zhaodongxi">赵冬曦</author></title>
+<title><send-off/>留别<person ref="people" type="indirect">二三子</person>，得韵字, <author ref="xiaoyingshi">萧颖士</author></title>
+<title><record/><person ref="wuzetian" type="honorific">奉使</person>嵩山途经缑岭, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>赠<person ref="lianshi_jiao" type="position+surname">焦道士</person>, <author ref="wangwei">王维</author></title>
+<title><dedication/>溪行寄<person ref="wangzhen" type="name">王震</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><feast/><send-off/>饯<person ref="luo4" type="surname+family_ranking">骆四</person>二首, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="lichunyouyuan"/><person ref="emperor" type="honorific">奉和</person>立春游苑迎春应制, <author ref="mahuaisu">马怀素</author></title>
+<title><record/>道逢<person ref="envoy_north" type="indirect">北使</person>题赠<person ref="relative_friend_jjd" type="collective">京邑亲知</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>送<person ref="xi1" type="surname+family_ranking">席大</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/><person ref="yangshidao" type="position">安德</person>山池宴集（安德，杨师道封号）, <author ref="libaiyao">李百药</author></title>
+<title><dedication/><person ref="liuzhi" type="position+name+word+location">洛阳主簿叔知</person>和驿承恩赴选伏辞一首, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="miaofa" type="position+name">苗发员外</person>, <author ref="zuyong">祖咏</author></title>
+<title><record/>过<person ref="jia6" type="surname+family_ranking">贾六</person>, <author ref="sujin">苏晋</author></title>
+<title><feast/>寒食宴于<person ref="bro_zhongshebiejia" type="position+name">中舍别驾兄弟</person>宅, <author ref="suting">苏颋</author></title>
+<title><record/>宿<person ref="master_qingxi" type="indirect">清溪主人</person>, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="chushi_ge" type="position+surname+location">张公洲革处士</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="yingzhihuai"/><person ref="lizhi" type="honorific">奉和</person>出颍至淮应令, <author ref="yushinan">虞世南</author></title>
+<title><send-off/>送<person ref="shilang_he" type="position+surname+location">朔方何侍郎</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>寄<person ref="simachengzhen" type="location+surname+honorific">天台司马先生</person>, <author ref="cuishi">崔湜</author></title>
+<title><record/>宿五松山下<person ref="old_woman_xun" type="surname">荀媪</person>家, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="panguan_li" type="position+surname">李判官</person>之润州行营, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>蓟丘览古赠<person ref="luzangyong" type="position+name">卢居士藏用</person>七首·田光先生, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="zongchisi"/>闰九月九日幸总持寺登浮图<person ref="lixian" type="honorific">应制</person>, <author ref="liyi4">李乂</author></title>
+<title><dedication/>从驩州廨宅移住山间水亭赠<person ref="shijun_su" type="position+surname">苏使君</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>酬<person ref="shaofu_yuwen" type="position+surname">宇文少府</person>见赠桃竹书筒, <author ref="libai">李白</author></title>
+<title><yingzhi ref="taizinafei"/><person ref='lizhi' type="honorific">奉和</person><person ref="lixian" type="position">太子</person>纳妃<person ref="princess_taiping" type="position">太平公主</person>出降, <author ref="renxigu">任希古</author></title>
+<title><record/>对酒忆<person ref="hezhizhang" type="position+surname">贺监</person>二首, <author ref="libai">李白</author></title>
+<title><dedication/>在浔阳非所寄<person ref="wife_libai" type="word">内</person>, <author ref="libai">李白</author></title>
+<title><feast/><send-off/>饯<person ref="sima_xue" type="position+surname+location">湖州薛司马</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="sikong_zhou" type="position+surname+location">郑州周司空</person>, <author ref="yangjiong">杨炯</author></title>
+<title><send-off/>青溪口送<person ref="someone3" type="indirect">人</person>归岳州, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="chaowu"/><person ref="lishimin" type="honorific">应诏</person>咏巢乌, <author ref="yangshidao">杨师道</author></title>
+<title><send-off/>送<person ref="weichong" type="position+name">魏骑曹充</person><person ref="shiyu_yuwen" type="position+surname">宇文侍御判官</person>分按山南, <author ref="sunti">孙逖</author></title>
+<title><yingzhi ref="sanxiang"/><person ref="lilongji" type="honorific">奉和圣制</person>早发三乡山行, <author ref="zhangjiuling">张九龄</author></title>
+<title><together/>和<person ref="shangren_zhen" type="position+name">振上人</person>秋夜怀士会, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>送<person ref="shanren_yang" type="position+surname">杨山人</person>归天台, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="songzhi" type="position+ame+location">溧阳宋少府陟</person>, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="luhongyi" type="position+surname">卢征君昆弟</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="leyouyuan"/>恩赐乐游园宴<person ref="lilongji" type="honorific">应制</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><record/>宿京江口期<person ref="liushenxu" type="name">刘昚虚</person>不至, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>送<person ref="yanwei" type="name">严维</person>赴河南充<person ref="yanying" type="position+surname">严中丞</person>幕府, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="panguan_hao" type="position+surname">郝判官</person>, <author ref="liqi">李颀</author></title>
+<title><send-off/>送<person ref="li15" type="surname+family_ranking">李十五</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><dedication/>寄<person ref="simachengzhen" type="position+surname+location">天台司马道士</person>, <author ref="zhangyue">张说</author></title>
+<title><dedication/>草创大还，赠<person ref="liuguandi" type="name">柳官迪</person>, <author ref="libai">李白</author></title>
+<title><send-off/><feast/>饯<person ref="shijun_gao1" type="position+surname+location">唐州高使君</person>赴任, <author ref="liyi4">李乂</author></title>
+<title><send-off/>送<person ref="shijun_li2" type="position+surname+location">泉州李使君</person>之任, <author ref="zhangxunzhi">张循之</author></title>
+<title><yingzhi ref="kunmingchi"/><person ref="emperor" type="honorific">恩敕</person>尚书省僚宴昆明池应制（同用尧字）, <author ref="zhangjiazhen">张嘉贞</author></title>
+<title><yingzhi ref="longchi"/><feast/><person ref="lilongji" type="honorific"/>龙池篇, <author ref="jiangxi">姜晞</author></title>
+<title><yingzhi ref="lifu"/><person ref="emperor" type="position">奉和皇帝</person>上礼抚事述怀应制, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="linweitingdenggao"/>奉和九日<person ref="lixian" type="honorific">幸</person>临渭亭登高应制得枝字, <author ref="weianshi">韦安石</author></title>
+<title><feast ref="huirichongyan"/>晦日宴<person ref="gaojin" type="surname">高氏</person>林亭, <author ref="xuhao">徐皓</author></title>
+<title><send-off/>金乡送<person ref="wei8" type="surname+family_ranking">韦八</person>之西京, <author ref="libai">李白</author></title>
+<title><yingzhi ref="caihuashu"/><person ref="lixian" type="honorific">奉和</person>立春内出彩花树应制, <author ref="wupingyi">武平一</author></title>
+<title><send-off/>送<person ref="panguan_zhang" type="position+surname">张判官</person>罢使东归, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>酬<person ref="huguan_li" type="surname+location">李壶关</person>奉使行县忆诸公, <author ref="chuguangxi">储光羲</author></title>
+<title><dedication/>赠<person ref="sihu_cui" type="position+surname">崔司户</person>文昆季, <author ref="libai">李白</author></title>
+<title><send-off/>西使兼送<person ref="scholar_meng" type="position+surname">孟学士</person>南游, <author ref="luzhaolin">卢照邻</author></title>
+<title><yingzhi ref="taihangshan"/><person ref="lilongji" type="honorific">奉和圣制</person>太行山中言志应制, <author ref="zhangyue">张说</author></title>
+<title><dedication/>永嘉即事寄<person ref="yuanguan" type="position+ame+location">赣县袁少府瓘</person>, <author ref="zhangzirong">张子容</author></title>
+<title><dedication/>答<person ref="xiucai_du" type="position+surname">杜秀才</person>五松见赠（五松山在南陵铜坑西五六里）, <author ref="libai">李白</author></title>
+<title><record/>遇<person ref="mingfu_xue" type="position+surname">薛明府</person>谒<person ref="shangren_cong" type="position+name">聪上人</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>巡边, <author ref="zhangjiazhen">张嘉贞</author></title>
+<title><send-off/>送<person ref="lushi_xie" type="position+surname">谢录事</person>之越, <author ref="menghaoran">孟浩然</author></title>
+<title><record/>过<person ref="chanshi_chengru" type="position+name">乘如禅师</person><person ref="jushi_xiao" type="position+surname">萧居士</person>嵩丘兰若, <author ref="wangwei">王维</author></title>
+<title><feast ref="huirichongyan"/>晦日宴<person ref="gaojin" type="surname">高氏</person>林亭同用华字, <author ref="wangmian">王勔</author></title>
+<title><dedication/>巴陵赠<person ref="sheren_jia" type="position+surname">贾舍人</person>, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="xiucai_yan" type="position+surname">严秀才</person>还蜀, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="linweitingdenggao"/>奉和九日<person ref="lixian" type="honorific">幸</person>临渭亭登高应制得欢字, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>留别<person ref="wangwei" type="name">王维</person>（一作王维留别丘为诗）, <author ref="qiuwei">丘为</author></title>
+<title><together/>与<person ref="mingfu_bai" type="position+surname">白明府</person>游江, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/><send-off/>题瓜州新河，饯<person ref="liben" type="position+word+name">族叔舍人贲</person>, <author ref="libai">李白</author></title>
+<title><record/>奉和<person ref="yuanwai_du" type="position+surname">杜员外</person>扈从教阅, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="lichunyouyuan"/><person ref="emperor" type="honorific">奉和</person>立春游苑迎春, <author ref="lishi">李適</author></title>
+<title><record/><person ref="tianshi_zhang" type="position+surname">张天师</person>草堂, <author ref="changjian">常建</author></title>
+<title><send-off/>南行别<person ref="bro_yujizi" type="word">弟</person>（一作杨师道诗，《英华》作韦承庆南中咏雁）, <author ref="yujizi">于季子</author></title>
+<title><dedication/>寄<person ref='zhangzhenggu' type="name">张徵古</person>, <author ref="shenrujun">沈如筠</author></title>
+<title><feast/>奉和<person ref="wusansi" type="position">梁王</person>宴龙泓应教得微字, <author ref="songzhiwen">宋之问</author></title>
+<title><record/>喜<person ref="zuyong" type="surname+family_ranking">祖三</person>至留宿, <author ref="wangwei">王维</author></title>
+<title><elegy/>故<person ref="taishou_du" type="position+surname+location">西河郡杜太守</person>挽歌三首, <author ref="wangwei">王维</author></title>
+<title><dedication/>寄<person ref="wanghan" type="position+surname">王长史</person>, <author ref="zuyong">祖咏</author></title>
+<title><send-off/>送<person ref="shijun_li4" type="position+surname+location">梓州李使君</person>, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="jixianxueshi"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>上集贤学士赐宴（赋得私字）, <author ref="liyuanhong">李元纮</author></title>
+<title><send-off/>送<person ref="qiwuqian" type="position+surname">綦毋三谒房给事</person>, <author ref="liqi">李颀</author></title>
+<title><send-off/>送<person ref="yiren_lu" type="position+surname">卢逸人</person>, <author ref="liqi">李颀</author></title>
+<title><yingzhi ref="huaqinggongguan"/>奉和华清宫观行香应制, <author ref="cuiguofu">崔国辅</author></title>
+<title><dedication/>进<person ref="lishimin" type="position">太宗</person>, <author ref="concubine_xu">徐贤妃</author></title>
+<title><dedication/>江上寄<person ref="friend_badong" type="indirect">巴东故人</person>, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="chushi_cui" type="position+surname">崔处士</person>先适越, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="daoshi" type="indirect">道士</person>入天台, <author ref="xueyao">薛曜</author></title>
+<title><dedication/>贻<person ref="yuan3" type="surname+family_ranking+position">袁三拾遗</person>谪作, <author ref="chuguangxi">储光羲</author></title>
+<title><together/>汝坟秋同<person ref="wanghan" type="position+surname+location">仙州王长史翰</person>闻百舌鸟, <author ref="zuyong">祖咏</author></title>
+<title><record/>宿<person ref="wangchangling" type="name">王昌龄</person>隐居, <author ref="changjian">常建</author></title>
+<title><yingzhi ref="qiuri"/><person ref="lizhi" type="honorific">奉和</person>秋日即目应制, <author ref="shangguanyi">上官仪</author></title>
+<title><dedication/>题<person ref="lingyou_heshang" type="position+name">灵祐和尚</person>故居, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="wue" type="surname+family_ranking+name">武十七谔</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="huayue"/><person ref="lilongji" type="honorific">奉和圣制</person>途经华岳应制, <author ref="zhangyue">张说</author></title>
+<title><dedication/>登敬亭山南望怀古，赠<person ref="zhubu_dou" type="position+surname">窦主簿</person>, <author ref="libai">李白</author></title>
+<title><dedication/>题<person ref="yeren_zhang" type="position+surname">张野人</person>园庐, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>泛舟送<person ref="qing_zheng" type="position+surname">郑卿</person>入京, <author ref="dushenyan">杜审言</author></title>
+<title><send-off/>送<person ref="wangguangting" type="name">王光庭</person>, <author ref="zhangyue">张说</author></title>
+<title><dedication/>放歌行答<person ref="bro_liqi" type="word+name">从弟墨卿</person>, <author ref="liqi">李颀</author></title>
+<title><together/>和<person ref="yuzhining" type="position">左仆射燕公</person>春日端居述怀, <author ref="renxigu">任希古</author></title>
+<title><dedication/>赋秋日悬清光赐<person ref="fangxuanling" type="name">房玄龄</person>, <author ref="lishimin">李世民</author></title>
+<title><record/>使回次杨柳过<person ref="yuan8" type="surname+family_ranking">元八</person>所居, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>答<person ref="wangji" type="surname+zi">王无功</person>冬夜载酒乡馆, <author ref="cuishanwei">崔善为</author></title>
+<title><yingzhi ref="denglishan"/>奉和登骊山<person ref="lixian" type="honorific">应制</person>, <author ref="yanchaoying">阎朝隐</author></title>
+<title><send-off/>送<person ref="liwan" type='word+name'>族弟绾</person>从军安西, <author ref="libai">李白</author></title>
+<title><dedication/>寄<person ref="liuxi" type="position+name">刘道士舄</person>, <author ref="zhangyue">张说</author></title>
+<title><together/>和<person ref="shangshu_wei" type="position+surname">韦尚书</person>答<person ref="bro_zizhou" type="location+word">梓州兄</person>南亭宴集, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>秦中初霁献<person ref="jishi" type="position">给事</person>二首, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="lifu"/><person ref="emperor" type="position">皇帝</person>上礼抚事述怀, <author ref="liqiao">李峤</author></title>
+<title><record/>游感化寺<person ref="shangren_tanxing" type="position+name">昙兴上人</person>山院, <author ref="peidi">裴迪</author></title>
+<title><send-off/>别<person ref="liuxu" type="name">刘谞</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><dedication/>荆门上<person ref="zhangyue" type="position+surname">张丞相</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>同<person ref="cuizaihua" type="name">崔载华</person>赠<person ref="envoy_japan" type="indirect">日本聘使</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="sanhuisi"/>奉和<person ref="emperor" type="honorific">幸</person>三会寺应制, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="liang4" type="surname+family_ranking">梁四</person>归东平, <author ref="libai">李白</author></title>
+<title><record/>过<person ref="chanshi_fu" type="position+name">福禅师</person>兰若, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="yongyinma"/>咏饮马<person ref="lishimin" type="honorific">应诏</person>, <author ref="yangshidao">杨师道</author></title>
+<title><together/>九日陪<person ref="shijun_shao" type="position+surname+location">润州邵使君</person>登北固山, <author ref="zhangzirong">张子容</author></title>
+<title><dedication/>赠<person ref="shangren_shaowei" type="position+name">微上人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="yuanyanglou"/><person ref="emperor" type="honorific">奉和御制</person>登鸳鸯楼即目应制, <author ref="sunti">孙逖</author></title>
+<title><dedication/>丁寓<person ref="farmer" type="indirect">田家</person>有赠, <author ref="wangwei">王维</author></title>
+<title><dedication/>赴巴南书情寄<person ref="friend_liuchangqing2" type="indirect">故人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/><person ref="shi_lu" type='position+surname'>天官崔侍郎夫人卢氏</person>挽歌, <author ref="shenquanqi">沈佺期</author></title>
+<title><send-off/>送<person ref="cuixingzong" type="name">崔兴宗</person>, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="lixian"/>奉和九日<person ref="lixian" type="honorific">幸</person>临渭亭，登高应制得筵字, <author ref="yanchaoying">阎朝隐</author></title>
+<title><send-off/>送<person ref="suwan" type="position+name">苏郎中绾</person>出佐荆州, <author ref="sunti">孙逖</author></title>
+<title><together/>秋晨同<person ref="sima_mao" type="position+surname+location">淄川毛司马</person>秋九咏·秋月, <author ref="luobinwang">骆宾王</author></title>
+<title><yingzhi ref="cailvrensheng"/>人日侍宴大明宫<person ref="lixian" type="honorific">应制</person>, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><dedication/>湖中旅泊，寄<person ref="yanfang" type="surname+family_ranking+position+name">阎九司户防</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="wei1" type="surname+family_ranking">魏大</person>从军, <author ref="chenziang">陈子昂</author></title>
+<title><dedication/>翻著葛巾呈<person ref="yin_zhao" type="position+surname">赵尹</person>, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="zhanlidaizong"/><person ref="lizhi" type="honorific">奉和</person>展礼岱宗涂经濮济, <author ref="xuekegou">薛克构</author></title>
+<title><feast/><send-off/>饯<person ref="shijun_li5" type="position+surname+location">郢州李使君</person>, <author ref="suting">苏颋</author></title>
+<title><send-off/>送<person ref="liqing" type='name'>李青</person>归南叶阳川, <author ref="libai">李白</author></title>
+<title><dedication/>酬<person ref="shizhong_xiao" type="position+surname">萧侍中</person>春园听妓（一作李元操诗）, <author ref="chenziliang">陈子良</author></title>
+<title><record/>寻<person ref="yingshi_xishan" type="indirect">西山隐者</person>不遇（一作山行寻隐者不遇）, <author ref="qiuwei">丘为</author></title>
+<title><send-off/>送<person ref="guchaoyang" type="name">顾朝阳</person>还吴, <author ref="liqi">李颀</author></title>
+<title><dedication/>奉酬<person ref="zhongshuxianggong" type="position">中书相公</person>至日圆丘摄事合于中书后阁宿斋移止…之作, <author ref="cuishu">崔曙</author></title>
+<title><dedication/>对酒寄<person ref="yanwei" type="name">严维</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>秋园卧病呈<person ref="shangren_hui" type="position+name">晖上人</person>, <author ref="chenziang">陈子昂</author></title>
+<title><dedication/>东陂遇雨，率尔贻<person ref="nanchi_xie" type="surname+location">谢南池</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="duhu_zhao" type="position+surname">赵都护</person>赴安西, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="shicong"/><person ref="wuzetian" type="honorific">奉和圣制</person>夏日游石淙山, <author ref="direnjie">狄仁杰</author></title>
+<title><send-off/>送<person ref="zi_qian" type="surname+honorific">钱子</person>入京, <author ref="liqi">李颀</author></title>
+<title><yingzhi ref="princess_anle_newhouse"/><feast/>侍宴<person ref="princess_anle" type="position">安乐公主</person>新宅<person ref="lixian" type="honorific">应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>酬<person ref="li16" type="surname+family_ranking+location+position">滁州李十六使君</person>见赠, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="zhaozhengu" type="surname+family_ranking+name">赵六贞固</person>二首, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="lishan"/><person ref="lixian" type="honorific">奉和圣制</person>登骊山瞩眺应制, <author ref="zhangyue">张说</author></title>
+<title><dedication/>奉使朔方，赠<person ref="guoyouxian" type="position+surname">郭都护</person>, <author ref="lihua">李华</author></title>
+<title><send-off/>鲁城北郭曲腰桑下送<person ref="zi_zhang" type="surname">张子</person>还嵩阳, <author ref="libai">李白</author></title>
+<title><dedication/>伯奴边见归田赋因投<person ref="shiyu_zhao" type="position+surname">赵侍御</person>, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="ciensi"/><person ref="lizhi" type="honorific">奉和</person>九月九日登慈恩寺浮图应制, <author ref="zhangjingyuan">张景源</author></title>
+<title><dedication/>答<person ref="boshi_jin" type="position+surname">太常靳博士</person>见赠一绝, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>送<person ref="zhangshi_yuan" type="position+surname+location">岐州源长史</person>归（同在崔常侍幕中，时常侍已殁）, <author ref="wangwei">王维</author></title>
+<title><feast/><send-off/>夜宴洛阳<person ref="cheng9" type="surname+family_ranking">程九主簿</person>宅送<person ref="yang3" type="surname+family_ranking">杨三山人</person>往天台寻<person ref="chanshi_zhizhe" type="position+name">智者禅师</person>隐居, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="zhongshu_zhu" type="position+surname">朱中书</person>, <author ref="dingxianzhi">丁仙芝</author></title>
+<title><send-off/>送<person ref="shiyu_cai" type="position+surname">蔡侍御</person>赴上都, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><feast/>秋日鲁郡尧祠亭上宴别<person ref="buque_du" type="position+surname">杜补阙</person>、<person ref="shiyu_fan" type="position+surname">范侍御</person>, <author ref="libai">李白</author></title>
+<title><send-off/>奉和别<person ref="lilingxie" type="position">鲁王</person>, <author ref="lijingxuan">李敬玄</author></title>
+<title><together/>和<person ref="songzhiwen" type="name">宋之问</person>下山歌, <author ref="jiazeng">贾曾</author></title>
+<title><yingzhi ref="xianechi"/>仙萼池亭侍宴<person ref="emperor" type="honorific">应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>出妓金陵子呈<person ref="lu6" type="surname+family_ranking">卢六</person>四首, <author ref="libai">李白</author></title>
+<title><dedication/>山居晚眺赠<person ref="daoshi_wang" type="position+surname">王道士</person>, <author ref="wangbo">王勃</author></title>
+<title><dedication/>答<person ref="peidi" type="name">裴迪</person>辋口遇雨忆终南山之作, <author ref="wangwei">王维</author></title>
+<title><dedication/><person ref="jushi_hu" type="position+surname">胡居士</person>卧病遗米因赠, <author ref="wangwei">王维</author></title>
+<title><dedication/>忆襄阳旧游，赠<person ref="maju" type="position+name">马少府巨</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="xingqingchi"/><person ref="lixian" type="honorific">奉和</person>兴庆池戏竞渡应制, <author ref="xuyanbo">徐彦伯</author></title>
+<title><dedication/>登江中孤屿，赠<person ref="wangjiong" type="position+name">白云先生王迥</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>巴陵送<person ref="li12" type="surname+family_ranking">李十二</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><record/>北归入至德州界，偶逢<person ref="liguangzai" type="location+name+word">洛阳邻家李光宰</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="linchizhu"/>赋得临池竹<person ref="lishimin" type="honorific">应制</person>, <author ref="yushinan">虞世南</author></title>
+<title><send-off/>赴新安别<person ref="shilang_liang" type="position+surname">梁侍郎</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="shijun_cui2" type="position+surname">崔使君</person>赴寿州, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>冬日述怀奉呈<person ref="weishuxia" type="position+surname">韦祭酒</person><person ref="zhangyue" type="position+surname">张左丞</person>兰台名贤, <author ref="cuirizhi">崔日知</author></title>
+<title><dedication/>答<person ref="person_luoyang" type="indirect">洛阳主人</person>, <author ref="chenziang">陈子昂</author></title>
+<title><send-off/>送<person ref="zhengwu" type="name">郑务</person>拜伯父, <author ref="qiwuqian">綦毋潜</author></title>
+<title><record/>东鲁见<person ref="dibotong" type="name">狄博通</person>, <author ref="libai">李白</author></title>
+<title><elegy/>故<person ref="shangguanyi" type="position+surname">西台侍郎上官公</person>挽歌, <author ref="liyi4">李乂</author></title>
+<title><together/>同<person ref="zhangyue" type="position">燕公</person>泛洞庭, <author ref="yinmao">尹懋</author></title>
+<title><yingzhi ref="ciqiong"/><person ref="lilongji" type="honorific">奉和圣制</person>次琼岳韵, <author ref="zhangjiuling">张九龄</author></title>
+<title><together/>秋日与<person ref="shaofu_zhang" type="position+surname">张少府</person>、<person ref="weigong" type="surname+location">楚城韦公</person>藏书高斋作, <author ref="libai">李白</author></title>
+<title><record/>十五日夜<person ref="lilongji" type="honorific">御前</person>口号踏歌词二首, <author ref="zhangyue">张说</author></title>
+<title><together/>和<person ref="jiaoshu_chen" type="position+surname">陈校书</person>省中玩雪, <author ref="baorong">包融</author></title>
+<title><record/><person ref="bro_henanyin" type="position+surname+location+word">河南严尹弟</person>见宿弊庐访别人赋十韵, <author ref="wangwei">王维</author></title>
+<title><dedication/>赠<person ref="peidi" type='name'>裴迪</person>, <author ref="wangwei">王维</author></title>
+<title><record/>游精思，题<person ref="head_daoism_temple" type="indirect">观主</person>山房, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="shuofangjun"/><send-off/><person ref="lixian" type="honorific">奉和幸</person>望****送<person ref="zhangrenyuan" type="position+name">朔方总管张仁亶</person>, <author ref="liqiao">李峤</author></title>
+<title><record/><person ref="friend_libai2" type="indirect">友人</person>会宿, <author ref="libai">李白</author></title>
+<title><dedication/>对雨赠<person ref="shaofu_ma" type="position+surname+location">济阴马少府</person><person ref="shaofu_jiang" type="position+surname+location">考城蒋少府</person>兼献<person ref="fifth_bro" type="location+word">成武五兄</person><person ref="second_bro" type="location+word">南华二兄</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="chunrixingwang"/>奉和春日幸望****应制, <author ref="liuxian">刘宪</author></title>
+<title><send-off/>送<person ref="qiwuqian" type="surname+family_ranking">綦毋三</person>寺中赋得纱灯, <author ref="liqi">李颀</author></title>
+<title><record/>冬至后过<person ref="zi_wu" type="surname">吴</person>、<person ref="zi_zhang" type="surname">张二子</person>檀溪别业, <author ref="menghaoran">孟浩然</author></title>
+<title><together/>与<person ref="zhangzhechong" type="name">张折冲</person>游耆闍寺, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="wangshangyi" type="position+name">王尚一</person><person ref="yanyi" type="position+name">严嶷</person>二侍御赴<person ref="dudu_sima" type="position+surname">司马都督</person>军, <author ref="zhangyue">张说</author></title>
+<title><record/><person ref="zhaoyan" type="position+ame+location">当涂赵炎少府</person>粉图山水歌, <author ref="libai">李白</author></title>
+<title><feast/>宴<person ref="rong2" type="surname+family_ranking">荣二</person>山池（一题作宴荣山人池亭）, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>新丰作贻<person ref="yin4" type="surname+family_ranking+position">殷四校书</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><together/>和<person ref="quzhan" type="position+surname">麹典设</person>扈从东郊忆弟使往安西冬至日恨不得同申拜庆, <author ref="liqiao">李峤</author></title>
+<title><dedication/>襄阳早秋寄<person ref="cenxi" type="position+surname">岑侍郎</person>, <author ref="cuishi">崔湜</author></title>
+<title><dedication/>闻<person ref="yumianzhou" type="surname+location">虞沔州</person>有替，将归上都，登汉东城寄赠, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="langzhong_li" type="position+surname">李郎中</person>, <author ref="yangjun">杨浚</author></title>
+<title><dedication/>自汤还都经龙门北溪赠<person ref="zhangyue" type="position+surname">张左丞</person><person ref="cuitaizhi" type="position+surname">崔礼部</person><person ref="guanglu_cui" type="position+surname">崔光禄</person>, <author ref="weisili">韦嗣立</author></title>
+<title><yingzhi ref="hucong"/>扈从出长安<person ref="emperor" type="honorific">应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>途中寒食题黄梅临江驿寄<person ref="cuirong" type="name">崔融</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><together/>和<person ref="mingfu_li1" type="position+surname">李明府</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><yingzhi ref="jiuyuejiuri"/>奉和九月九日<person ref="emperor" type="honorific">应制</person>, <author ref="heai">贺敱</author></title>
+<title><together/>和<person ref="yuanwai_li" type="position+surname">库部李员外</person>秋夜寓直之作, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/><record/>旅次丹阳郡，遇<person ref="shiyu_kang" type="position+surname">康侍御</person>宣慰召募，兼别<person ref="cenkuang" type="surname+location">岑单父</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/><person ref="lianshi_huang" type="position+surname+location">武陵开元观黄炼师</person>院三首, <author ref="wangchangling">王昌龄</author></title>
+<title><record/>西山寻<person ref="xin1" type="name">辛谔</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/><person ref="yangshidao" type="position">安德</person>山池宴集, <author ref="shangguanyi">上官仪</author></title>
+<title><send-off/>送<person ref="yu_hou" type="position+surname">侯御</person>赴黔中充判官, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="sima_zhao" type="position+surname">赵司马</person>赴蜀州, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="yuan10" type="surname+family_ranking">袁十</person>岭南寻弟, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="riwu"/><person ref="lishimin" type="honorific">奉和</person>咏日午, <author ref="yushinan">虞世南</author></title>
+<title><record/><person ref="princess_anle" type="position">安乐郡主</person>花烛行, <author ref="zhangyue">张说</author></title>
+<title><record/>冬晚对雪忆<person ref="jushi_hu" type="position+surname">胡居士</person>家（一作王劭诗，非）, <author ref="wangwei">王维</author></title>
+<title><send-off/>送<person ref="xiucai_zhang" type="position+surname">张秀才</person>从军, <author ref="libai">李白</author></title>
+<title><dedication/>奉和<person ref="lilinfu" type="position+surname">李右相中书</person>壁画山水, <author ref="sunti">孙逖</author></title>
+<title><send-off/>龙门送<person ref="peishiyu" type="position+surname">裴侍御</person>监五岭选, <author ref="liqi">李颀</author></title>
+<title><feast/>春晚<person ref="lilongji" type="honorific">侍宴</person>丽正殿探得开字, <author ref="zhangyue">张说</author></title>
+<title><send-off/>留别<person ref="friends_guangling" type="indirect">广陵诸公</person>（一作留别邯郸故人）, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="chuguangxi" type="surname+family_ranking">储十二</person>还庄城, <author ref="qiwuqian">綦毋潜</author></title>
+<title><yingzhi ref="xingqingchi"/>兴庆池侍宴<person ref="lixian" type="honorific">应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><send-off/>送<person ref="yuanwai_li" type="position+surname">李员外</person>贤郎, <author ref="wangwei">王维</author></title>
+<title><dedication/>赠<person ref="dudu_zhang" type="position+surname+location">梁州张都督</person>, <author ref="cuihao">崔颢</author></title>
+<title><record/>过<person ref="lu4" type="position+surname">卢四员外</person>宅看饭僧共题七韵, <author ref="wangwei">王维</author></title>
+<title><send-off/>奉和别<person ref="lizhen" type="honorific">越王</person>, <author ref="zhangdaan">张大安</author></title>
+<title><dedication/>赠<person ref="shiyu_pan" type="position+surname">潘侍御</person>论<person ref="qianshaoyang" type="name">钱少阳</person>, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref='zhouweichang' type="position+ame+location">丹阳横山周处士惟长</person>, <author ref="libai">李白</author></title>
+<title><dedication/>题<person ref="yuandanqiu" type="name">元丹丘</person>山居, <author ref="libai">李白</author></title>
+<title><record/><person ref="princess_changning" type="position">长宁公主</person>旧山池, <author ref="dingxianzhi">丁仙芝</author></title>
+<title><send-off/>送<person ref="shilang_cheng" type="position+surname">程</person>、<person ref="shilang_liu" type="position+surname">刘二侍郎</person>兼<person ref="panguan_dugu" type="position+surname">独孤判官</person>赴安西幕府, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="dushenyan" type="name">杜审言</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><yingzhi ref="renriqinghui"/>奉和人日清晖阁宴群臣遇雪<person ref="emperor" type="honorific">应制</person>, <author ref="zongchuke">宗楚客</author></title>
+<title><yingzhi ref="ciensi"/>奉和九月九日登慈恩寺浮图<person ref="lizhi" type="honorific">应制</person>, <author ref="liyi4">李乂</author></title>
+<title><yingzhi ref="zongchisi"/>闰九月九日幸总持寺登浮图<person ref="emperor" type="honorific">应制</person>, <author ref="liqiao">李峤</author></title>
+<title><feast/><person ref="lifan" type="position">岐王</person>席上咏美人, <author ref="zhange">张谔</author></title>
+<title><yingzhi ref="nanzhuang"/>奉和初春<person ref="lixian" type="honorific">幸</person><person ref="princess_taiping" type="position">太平公主</person>南庄应制, <author ref="shaosheng">邵升</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="position+surname">张尚书</person>巡边, <author ref="yuanhui">袁晖</author></title>
+<title><send-off/>送<person ref="buque_li" type="position+surname">李补阙</person>之上都, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="zhangsui" type="position+surname+location">饶阳张司户燧</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="cailvrensheng"/>人日侍宴大明宫恩赐彩缕人胜应制, <author ref="liqiao">李峤</author></title>
+<title><send-off/>送<person ref="daoshi_ji" type="position+name">暨道士</person>还玉清观, <author ref="liqi">李颀</author></title>
+<title><dedication/>酬<person ref="cenxun" type="name">岑勋</person>见寻就<person ref="yuandanqiu" type="name">元丹丘</person>对酒相待，以诗见招, <author ref="libai">李白</author></title>
+<title><yingzhi ref="chuchun"/>奉和初春出游<person ref="taizi" type="honorific">应令</person>, <author ref="libaiyao">李百药</author></title>
+<title><send-off/>送<person ref="weianshi" type="position+surname">韦大夫</person>东京留守, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="ciensi"/>奉和九月九日登慈恩寺浮图<person ref="lizhi" type="honorific">应制</person>, <author ref="xiewan">解琬</author></title>
+<title><yingzhi ref="shuofangjun"/><send-off/><person ref="lixian" type="honorific">奉和圣制</person>幸望****送<person ref="zhangrenyuan" type="position+name">朔方大总管张仁亶</person>, <author ref="suting">苏颋</author></title>
+<title><yingzhi ref="kunmingchi"/><feast/><person ref="emperor" type="honorific">恩制</person>尚书省僚宴昆明池同用尧字, <author ref="suting">苏颋</author></title>
+<title><send-off/>登黄山凌歊台送<person ref="liji" type="position+word+name">族弟溧阳尉济</person>充泛舟赴华阴（得齐字）, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="zhang4" type='surname+family_ranking'>张四</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><dedication/>代书答<person ref="jiangjiao" type="surname+family_ranking">姜七</person><person ref="cuidi" type="surname+family_ranking">崔九</person>, <author ref="zhangyue">张说</author></title>
+<title><elegy/>哭<person ref="menghaoran" type="name">孟浩然</person>（时为殿中侍御史，知南选，至襄阳有作）, <author ref="wangwei">王维</author></title>
+<title><record/><person ref="lifan" type="position">岐王</person>席观妓（一作卢女曲）, <author ref="cuihao">崔颢</author></title>
+<title><dedication/>初发荆府赠<person ref="zhangshi_x" type="position">长史</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><together/>和<person ref="jianyi_yin" type="position+surname">尹谏议</person>史馆山池, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="qixiyan"/><feast/>奉和七夕宴悬圃<person ref="lishimin" type="honorific">应制</person>二首, <author ref="xujingzong">许敬宗</author></title>
+<title><dedication/>寄<person ref="lianshi_jiao" type="position+surname">焦炼师</person>, <author ref="liqi">李颀</author></title>
+<title><record/>述<person ref="weizhaoying" type="name">韦昭应</person>画犀牛, <author ref="chuguangxi">储光羲</author></title>
+<title><feast/>冬日宴于<person ref="shuzi" type="position">庶子</person>宅各赋一字得平, <author ref="cenwenben">岑文本</author></title>
+<title><together/>春日与<person ref="wangwei" type="position+surname">王右丞</person>过新昌里访<person ref="yiren_lv" type="position+surname">吕逸人</person>不遇, <author ref="peidi">裴迪</author></title>
+<title><dedication/>狱中贻<person ref="yaochong" type="surname+honorific">姚</person><person ref="zhanggong" type="surname+honorific">张</person><person ref="xuegong" type="surname+honorific">薛</person><person ref="ligong" type="surname+honorific">李</person><person ref='zhenggong' type="surname+honorific">郑</person><person ref="liugong" type="surname+honorific">柳</person>诸公, <author ref="chuguangxi">储光羲</author></title>
+<title><record/>秋登<person ref="mingfu_zhang" type="position+surname">张明府</person>海亭, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="shiyu_li" type="position+surname">李侍御</person>贬郴州, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/>五君咏五首·<person ref="guoyuanzhen" type="position+name">郭代公元振</person>, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="princess_anle_house"/><person ref="lixian" type="honorific">奉和</person>幸安乐公主山庄应制, <author ref="weiyuandan">韦元旦</author></title>
+<title><feast ref="princess_anle_newhouse"/>夜宴<person ref="princess_anle" type="position">安乐公主</person>新宅, <author ref="cenxi">岑羲</author></title>
+<title><dedication/>在洪州答<person ref="qiwuqian" type="position+surname">綦毋学士</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><record/><person ref="zhang7" type="surname+family_ranking">张七</person>及<person ref="xin1" type="surname+family_ranking">辛大</person>见寻南亭醉作（一作张七及辛大见访）, <author ref="menghaoran">孟浩然</author></title>
+<title><record/><person ref="jishi_wei" type="position+surname">韦给事</person>山居, <author ref="wangwei">王维</author></title>
+<title><elegy/>哭<person ref="sima_chu" type="position+surname">褚司马</person>, <author ref="wangwei">王维</author></title>
+<title><send-off/>别<person ref="liqiao" type="name">李峤</person>得胜字, <author ref="luobinwang">骆宾王</author></title>
+<title><send-off/>送<person ref="panguan_yuan" type="position+surname+location">河南元判官</person>赴河南勾当苗税充百官俸钱, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="friend_wangwei" type="indirect">友人</person>南归, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="leyouyuan"/>三月二十日<person ref="lilongji" type="honorific">诏</person>宴乐游园赋得风字, <author ref="zhangyue">张说</author></title>
+<title><yingzhi ref="bailuo"/><person ref="lixian" type='honorific'>奉和</person>拜洛应制, <author ref="liqiao">李峤</author></title>
+<title><dedication/>于<person ref="daoshi_ziyunguan" type="position+location">紫云观赠道士</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><dedication/>酬<person ref="jushi_li" type="position+surname">黎居士</person>淅川作（昙壁上人院走笔成）, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="weisili"/><person ref="lixian" type="honorific">奉和圣制</person>幸<person ref="weisili" type="name">韦嗣立</person>山庄应制, <author ref="wupingyi">武平一</author></title>
+<title><dedication/>司马将军歌（以代<person ref="chenan" type="position+name">陇上健儿陈安</person>）, <author ref="libai">李白</author></title>
+<title><yingzhi ref="yongtaohua"/>侍宴桃花园咏桃花<person ref="emperor" type="honorific">应制</person>, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><yingzhi ref="dajianfusi"/><person ref="lixian" type="honorific">奉和幸</person>大荐福寺（寺乃中宗旧宅）, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><yingzhi ref="jixianxueshi"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>上集贤学士赐宴赋得谟字, <author ref="hezhizhang">贺知章</author></title>
+<title><feast/><person ref="nanjiaotaiwei" type="position">南郊太尉</person>酌献武舞作凯安之乐, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>赠<person ref="sima_pei" type="position+surname">裴司马</person>, <author ref="libai">李白</author></title>
+<title><send-off/>岭南送<person ref="envoy" type="indirect">使</person>, <author ref="zhangyue">张说</author></title>
+<title><send-off/>无锡东郭送<person ref="friend_lcq" type="indirect">友人</person>游越, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>与<person ref="zhaodongxi" type="name">赵冬曦</person><person ref="son_yinmao" type="word+name">尹懋子均</person>登南楼, <author ref="zhangyue">张说</author></title>
+<title><dedication/>泊江潭贻<person ref="jiaoshu_ma" type="position+surname">马校书</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><dedication/>京口怀洛阳旧居，兼寄<person ref="friends_guangling" type="collective">广陵二三知己</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>书怀赠<person ref="zanfu_chang" type="position+surname+location">南陵常赞府</person>, <author ref="libai">李白</author></title>
+<title><record/>寻高凤石门山中<person ref="yuandanqiu" type="name">元丹丘</person>, <author ref="libai">李白</author></title>
+<title><record/><person ref="chief_of_staff" type="indirect">军师</person>凯旋自邕州顺流舟中, <author ref="liqiao">李峤</author></title>
+<title><send-off/>送<person ref="langzhong_zhang" type="position+surname">张郎中</person>迁京, <author ref="menghaoran">孟浩然</author></title>
+<title><record/>晚春<person ref="shaoyin_yan" type="position+surname">严少尹</person>与诸公见过, <author ref="wangwei">王维</author></title>
+<title><together/>陪<person ref="jinantaishou" type="position+word">从祖济南太守</person>泛鹊山湖三首, <author ref="libai">李白</author></title>
+<title><together/>和<person ref="yinmao" type="name">尹懋</person>秋夜游灉湖, <author ref="zhangyue">张说</author></title>
+<title><record/><person ref="fasi_xin" type="position+surname">辛法司</person>宅观妓, <author ref="luzhaolin">卢照邻</author></title>
+<title><send-off/>送<person ref="yanwei" type="name">严维</person>尉诸暨（严即越州人）, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>奉送<person ref="bro_liuchangqing" type="word">从兄</person>罢官之淮南, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>赠<person ref="hanyang_wang" type="surname+location">王汉阳</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="bailuguan"/><person ref="lixian" type='honorific'>幸</person>白鹿观应制, <author ref="liyi4">李乂</author></title>
+<title><dedication/>客舍喜<person ref="zheng3" type="surname+family_ranking">郑三</person>见寄, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="daoshi_yang" type="position+surname">杨道士</person>往天台, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>西陵寄<person ref="shangren_lingyi" type="position+name">一上人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="princess_anle_house"/><person ref="lixian" type="honorific">奉和幸</person>安乐公主山庄应制, <author ref="liuxian">刘宪</author></title>
+<title><send-off/>送<person ref="friend_xujin" type="indirect">友人</person>尉蜀中, <author ref="xujin">徐晶</author></title>
+<title><together/><feast/>同诸公<person ref="langzhong_yuan" type="position+surname">袁郎中</person>宴筵喜加章服, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>秋晨同<person ref="sima_mao" type="position+surname+location">淄川毛司马</person>秋九咏·秋雁, <author ref="luobinwang">骆宾王</author></title>
+<title><dedication/>寄<person ref="xiaoshu_liu" type="position+surname">刘校书</person>, <author ref="guoyuanzhen">郭震</author></title>
+<title><send-off/>将游衡岳，过汉阳双松亭，留别<person ref="fututanhao" type="word+name">族弟浮屠谈皓</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="cailvrensheng"/>人日宴大明宫恩赐彩缕人胜应制, <author ref="lishi">李適</author></title>
+<title><together/>奉陪<person ref="zhangyue" type="position+surname">张燕公</person>登南楼, <author ref="yinmao">尹懋</author></title>
+<title><record/>自道林寺西入石路至麓山寺，过<person ref="chanshi_fachong" type="position+name">法崇禅师</person>故居, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/><person ref="sheren_yuan" type="position+surname">苑舍人</person>能书梵字兼达梵音，皆曲尽其妙，戏为之赠, <author ref="wangwei">王维</author></title>
+<title><together/>和<person ref="taiwei" type="position">太尉</person>戏赠<person ref="princess_gaoyang" type="position">高阳公</person>, <author ref="shangguanyi">上官仪</author></title>
+<title><dedication/>题<person ref="yuandanqiu" type="position+name">嵩山逸人元丹丘</person>山居, <author ref="libai">李白</author></title>
+<title><send-off/>西行别<person ref="dongtai_xiangzhengxueshi" type="position">东台详正学士</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><yingzhi ref="dajianfusi"/><person ref="lixian" type="honorific">奉和幸</person>大荐福寺应制（寺即中宗旧宅）, <author ref="liqiao">李峤</author></title>
+<title><send-off/>颍阳别<person ref="yuandanqiu" type="name">元丹丘</person>之淮阳, <author ref="libai">李白</author></title>
+<title><elegy/>伤<person ref="scholar_gu" type="position+surname">顾学士</person>, <author ref="kongshaoan">孔绍安</author></title>
+<title><feast/>奉饯<person ref="shilang_yuan" type="position+surname">元侍郎加豫章采访</person>兼赐章服（时初停节度）, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>见南山夕阳召<person ref="jianshi" type="position">监师</person>不至, <author ref="songzhiwen">宋之问</author></title>
+<title><yingzhi ref="jiancaihua"/><person ref="lixian" type="honorific">奉和</person>立春日侍宴内出剪彩花应制, <author ref="songzhiwen">宋之问</author></title>
+<title><record/>过感化寺<person ref="shangren_tanxing" type="position+name">昙兴上人</person>山院（与裴迪同作）, <author ref="wangwei">王维</author></title>
+<title><together/>秋夜陪<person ref="zhangjun" type="position+surname">张丞相</person><person ref="zhaodongxi" type="position+surname">赵侍御</person>游灉湖二首, <author ref="yinmao">尹懋</author></title>
+<title><dedication/>酬<person ref="lingche_shangren" type="name+honorific">灵彻公</person>相招, <author ref="liuchangqing">刘长卿</author></title>
+<title><elegy/>哭<person ref='qiwuqian' type="position+surname">补阙亡友綦毋学士</person>, <author ref="wangwan">王湾</author></title>
+<title><yingzhi ref="queshugu"/><person ref="lilongji" type="honorific">奉和圣制</person>答<person ref="zhangyue" type="name">张说</person>扈从南出雀鼠谷, <author ref="zhaodongxi">赵冬曦</author></title>
+<title><yingzhi ref="bailuguan"/>奉和<person ref="lixian" type="honorific">幸</person>白鹿观应制, <author ref="wupingyi">武平一</author></title>
+<title><yingzhi ref="ruixuepian"/><person ref="lilongji" type="honorific">奉和圣制</person>瑞雪篇, <author ref="zhangjiuling">张九龄</author></title>
+<title><yingzhi ref="chuye"/><person ref="lilongji" type="honorific">应诏</person>赋得除夜（一作王諲诗）, <author ref="shiqing">史青</author></title>
+<title><yingzhi ref="chuqiuyezuo"/>初秋夜坐<person ref="lishimin" type="honorific">应诏</person>, <author ref="yangshidao">杨师道</author></title>
+<title><together/>酌酒与<person ref="peidi" type="name">裴迪</person>, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="chaojishi"/><person ref="lilongji" type="honorific">奉和圣制</person>送十道采访使及<person ref='chaojishi' type="collective">朝集使</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>当涂界寄<person ref="peiyaoqing" type="surname+location">裴宣州</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><dedication/>望太华赠<person ref="sicang_lu" type="position+surname">卢司仓</person>, <author ref="taohan">陶翰</author></title>
+<title><feast/>春夜<person ref="mingfu_wei1" type="position+surname">韦明府</person>宅宴得春字, <author ref="luobinwang">骆宾王</author></title>
+<title><dedication/><person ref="lilongji" type='honorific'>从猎</person>渭川献诗, <author ref="weizhigu">魏知古</author></title>
+<title><dedication/>宿直温泉宫羽林<person ref="lilongji" type="honorific">献诗</person>, <author ref="zhangyue">张说</author></title>
+<title><elegy/>哭<person ref="friend_qiaozhizhi" type="indirect">故人</person>, <author ref="qiaozhizhi">乔知之</author></title>
+<title><record/>城南隅山池春中<person ref="tiangong" type="surname">田</person><person ref="yuangong" type='surname'>袁</person>二公盛称其美夏首获赏果…故有此咏, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>送<person ref="2ji" type="surname">二季</person>之江东, <author ref="libai">李白</author></title>
+<title><dedication/>晚渡渭桥寄示<person ref="fri_jjd" type="indirect">京邑游好</person>, <author ref="luzhaolin">卢照邻</author></title>
+<title><send-off/>洞庭醉后送<person ref="lvguo" type="position+ame+location">绛州吕使君果</person>流澧州, <author ref="libai">李白</author></title>
+<title><dedication/>秋夜宿龙门香山寺奉寄<person ref="fangcheng_wang" type="surname+location">王方城</person>十七丈奉国莹上…幼成令问, <author ref="libai">李白</author></title>
+<title><send-off/>送<person ref="panguan_shaozhou" type="position+location">邵州判官</person>往南（一作皇甫冉诗）, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/><person ref="sishi_pei" type="position+surname">裴司士</person>、<person ref="sihu_yuan" type="position+surname">员司户</person>见寻（一题作裴司士见访）, <author ref="menghaoran">孟浩然</author></title>
+<title><together/>陪<person ref="shiyu_yuan" type="position+surname">元侍御</person>游支硎山寺, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="liushenxu" type="name">刘昚虚</person>归取宏词解, <author ref="wangchangling">王昌龄</author></title>
+<title><dedication/>秋夜寓直即事怀赠<person ref="linggong_xiao" type="position+surname">萧令公</person><person ref="shilang_pei" type="position+surname">裴侍郎</person>兼通简南省诸友人, <author ref="wangwan">王湾</author></title>
+<title><yingzhi ref="qixi"/>奉和七夕宴两仪殿<person ref="emperor" type="honorific">应制</person>, <author ref="suting">苏颋</author></title>
+<title><record/>山中与<person ref="yingshi" type="indirect">幽人</person>对酌, <author ref="libai">李白</author></title>
+<title><feast ref="princess_anle_newhouse"/><person ref="princess_anle" type="position">安乐公主</person>移入新宅侍宴<person ref="lixian" type="honorific">应制</person>, <author ref="zongchuke">宗楚客</author></title>
+<title><dedication/>赠<person ref="lihao" type="position+name+word+location">从兄襄阳少府皓</person>, <author ref="libai">李白</author></title>
+<title><dedication/>酬<person ref="baojie" type="position+name">包谏议佶</person>见寄之什, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>江州留别<person ref="xue6" type="surname+family_ranking+position">薛六</person>、<person ref="liu8" type="surname+family_ranking+position">柳八</person>二员外, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="yongtaohua"/>侍宴桃花园咏桃花<person ref="emperor" type="honorific">应制</person>, <author ref="liyi4">李乂</author></title>
+<title><yingzhi ref="jiangdanri"/><person ref="lixian" type="honorific">中宗</person>降诞日<person ref="princess_changning" type="position">长宁公主</person>满月侍宴应制, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="huiri_kunmingchi"/>奉和晦日<person ref="emperor" type="honorific">驾幸</person>昆明池应制, <author ref="shenquanqi">沈佺期</author></title>
+<title><yingzhi ref="nanzhuang"/>奉和初春<person ref="lixian" type="honorific">幸</person><person ref="princess_taiping" type="position">太平公主</person>南庄应制, <author ref="suting">苏颋</author></title>
+<title><record/>逢雪宿<person ref="furongshan_yinshi" type="indirect">芙蓉山主人</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><together/>秋日陪<person ref="shiyu_li" type="position+surname">李侍御</person>渡松滋江, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/>夜宴<person ref="princess_anle" type="position">安乐公主</person>宅, <author ref="wupingyi">武平一</author></title>
+<title><together/>和<person ref="mingfu_zhang" type="position+surname">张明府</person>登鹿门作, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送<person ref="zhangyin" type='surname+family_ranking'>张五</person>归山, <author ref="wangwei">王维</author></title>
+<title><send-off/>送<person ref="dali" type="position">大理正摄御史</person>判凉州别驾, <author ref="yuanxian">苑咸</author></title>
+<title><dedication/>夜泊庐江，闻<person ref="friend_mhr" type="indirect">故人</person>在东寺，以诗寄之, <author ref="menghaoran">孟浩然</author></title>
+<title><record/>过<person ref="zhengyi_shi" type="position+surname">史正议</person>宅, <author ref="songzhiwen">宋之问</author></title>
+<title><yingzhi ref="qushui"/>三日曲水侍宴<person ref="emperor" type="honorific">应制</person>, <author ref="yanchaoying">阎朝隐</author></title>
+<title><yingzhi ref="chunrixingwang"/>奉和圣制春日幸望****<person ref="lilongji" type="honorific">应制</person>, <author ref="cuiriyong">崔日用</author></title>
+<title><yingzhi ref="chunrixingwang"/><person ref="lilongji" type="honorific">奉和</person>春日幸望****, <author ref="zhengyin">郑愔</author></title>
+<title><dedication/>寒夜独坐游子多怀简<person ref="fri_lbw" type="indirect">知己</person>, <author ref="luobinwang">骆宾王</author></title>
+<title><send-off/>送<person ref="zanfu_xiao" type="position+surname+location">永昌萧赞府</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>留别<person ref="censhen" type="name">岑参</person>兄弟, <author ref="wangchangling">王昌龄</author></title>
+<title><together/>同<person ref="tuntian_pan" type="position+surname">潘屯田</person>冬日早朝, <author ref="zhangwencong">张文琮</author></title>
+<title><send-off/><feast/>饯<person ref="tangyongchang" type="name">唐永昌</person>（一作饯唐郎中洛阳令）, <author ref="shenquanqi">沈佺期</author></title>
+<title><record/><person ref="lilongji" type="honorific">敕</person>借<person ref="lifan" type="position">岐王</person>九成宫避暑应教, <author ref="wangwei">王维</author></title>
+<title><send-off/>送<person ref="shangren_shaowei" type="position+name">少微上人</person>游天台, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><dedication/>颍川留别<person ref="liwan" type="position+name">司仓李万</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><dedication/>游江西留别<person ref="shaofu_pei" type="position+surname+location">富阳裴</person>、<person ref="shaofu_liu1" type="position+surname+location">刘二少府</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/><person ref="songruosi" type="position+surname">中丞宋公</person>以吴兵三千赴河南军次寻阳…囚参谋幕府因赠之, <author ref="libai">李白</author></title>
+<title><send-off/><person ref="shaofu_du" type="position+surname">杜少府</person>之任蜀州, <author ref="wangbo">王勃</author></title>
+<title><yingzhi ref="heshanggongmiao"/><person ref="lilongji" type="honorific">奉和圣制</person>经河上公庙, <author ref="zhangjiuling">张九龄</author></title>
+<title><together/>同<person ref="friend3" type="indirect">友人</person>舟行游台越作, <author ref="libai">李白</author></title>
+<title><feast ref="princess_anle_newhouse"/>夜宴<person ref="princess_anle" type='position'>安乐公主</person>新宅, <author ref="suting">苏颋</author></title>
+<title><send-off/>送<person ref="dizongheng" type="name">狄宗亨</person>, <author ref="wangchangling">王昌龄</author></title>
+<title><record/>菩提寺禁<person ref="peidi" type="name">裴迪</person>来相看说逆贼等凝碧池上作音乐…示裴迪, <author ref="wangwei">王维</author></title>
+<title><together/>和<person ref="jishizhong_xu" type="position+surname">许给事中</person>直夜简诸公, <author ref="zhangjiuling">张九龄</author></title>
+<title><send-off/>送<person ref="guchang" type="name">顾长</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="zhangxiang" type="name">张祥</person>之房陵, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>夏日都门送<person ref="simayike" type="position+name">司马员外逸客</person><person ref="sunquan" type="position+name">孙员外佺</person>北征, <author ref="liyi4">李乂</author></title>
+<title><dedication/>咏<person ref="zhangyin" type="name">张諲</person>山水（末缺）, <author ref="liqi">李颀</author></title>
+<title><together/>和<person ref="liqiao" type="position">李侍郎</person>古意（一作古意和李侍郎峤）, <author ref="qiaozhizhi">乔知之</author></title>
+<title><feast ref="huirichongyan"/>晦日宴<person ref="gaojin" type="position+surname">高文学</person>林亭, <author ref="zhangxi">张锡</author></title>
+<title><send-off/>送<person ref="shuzi_li" type="position+surname">李庶子</person>致仕还洛, <author ref="yangjiong">杨炯</author></title>
+<title><dedication/>赠<person ref="guojiying" type="name">郭季鹰</person>, <author ref="libai">李白</author></title>
+<title><dedication/>赠<person ref="friend_libai1" type="indirect">友人</person>三首, <author ref="libai">李白</author></title>
+<title><together/>同<person ref="shijun_dugu" type="position+surname">独孤使君</person>东斋作, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>毗陵送<person ref="zoujiexian" type="name">邹结先</person>赴河南充判官, <author ref="liuchangqing">刘长卿</author></title>
+<title><yingzhi ref="qianqiujing"/>奉和圣制赐王公千秋镜<person ref="lilongji" type="honorific">应制</person>, <author ref="zhangyue">张说</author></title>
+<title><send-off/>春初送<person ref="buque_li" type="position+surname">吕补阙</person>往西岳勒碑得云字, <author ref="sunti">孙逖</author></title>
+<title><send-off/>送<person ref="qiuwei" type="name">丘为</person>下第, <author ref="zuyong">祖咏</author></title>
+<title><yingzhi ref="douxijie"/>奉和圣制<person ref="lixian" type="honorific">幸</person><person ref="douxijie" type="position+name">礼部尚书窦希玠</person>宅, <author ref="shenquanqi">沈佺期</author></title>
+<title><send-off/>送<person ref="someone2" type="indirect">人</person>归江夏, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>送<person ref="mingfu_zheng" type="position+surname+location">武进郑明府</person>, <author ref="xujian">徐坚</author></title>
+<title><elegy/>伤<person ref="lushi_pei" type="position+surname">裴录事</person>丧子, <author ref="wangbo">王勃</author></title>
+<title><record/>过<person ref="shanren_gu" type="position+surname+location">横山顾山人</person>草堂, <author ref="liuchangqing">刘长卿</author></title>
+<title><record/>于太原召<person ref="courtiers" type="indirect">侍臣</person>赐宴守岁, <author ref="lishimin">李世民</author></title>
+<title><send-off/>避地江东，留别<person ref="off_huainan" type="collective">淮南使院诸公</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><dedication/>乐城岁日赠<person ref="menghaoran" type="name">孟浩然</person>（一作王维诗）, <author ref="zhangzirong">张子容</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="position">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>巡边, <author ref="cuiyuxi">崔禹锡</author></title>
+<title><record/>过<person ref="friend_menghaoran" type="indirect">故人</person>庄, <author ref="menghaoran">孟浩然</author></title>
+<title><feast/><person ref="princess_taiping" type="position">太平公主</person>山亭侍宴, <author ref="zhangchangzong">张昌宗</author></title>
+<title><elegy/>故<person ref="xinyangjun" type="position+surname+location">荥阳君苏氏</person>挽歌词三首, <author ref="zhangjiuling">张九龄</author></title>
+<title><feast ref="princess_anle_newhouse"/>侍宴安乐公主新宅应制, <author ref="lishi">李適</author></title>
+<title><send-off/>秋日别<person ref="zhangshi_wang" type="position+surname">王长史</person>, <author ref="wangbo">王勃</author></title>
+<title><yingzhi ref="jinchenggongzhu"/>送<person ref="princess_jincheng" type="position">金城公主</person>适西蕃<person ref="lixian" type="honorific">应制</person>, <author ref="shenquanqi">沈佺期</author></title>
+<title><send-off/>赠别<person ref="shanren_wang" type="position+surname">王山人</person>归布山, <author ref="libai">李白</author></title>
+<title><dedication/>寄<person ref="monk_chongfan_temple" type="indirect">崇梵僧</person>（崇梵寺近东阿覆釜村）, <author ref="wangwei">王维</author></title>
+<title><dedication/>贻<person ref="lianshi_wei" type="position+surname">韦炼师</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="ciensi"/>奉和九月九日登慈恩寺浮图<person ref="lizhi" type="honorific">应制</person>, <author ref="quzhan">麹瞻</author></title>
+<title><yingzhi ref="wenluo"/><person ref="emperor" type="honorific">奉和</person>受图温洛应制, <author ref="suweidao">苏味道</author></title>
+<title><elegy/>哭<person ref="yangzaisi" type="position+name">仆射鄂公杨再思</person>, <author ref="zhaoyanzhao">赵彦昭</author></title>
+<title><together/><elegy/>同<person ref="wangwei" type="surname+family_ranking+name">王十三维</person>哭<person ref="yinyao" type="name">殷遥</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><yingzhi ref="huiri_kunmingchi"/>奉和晦日<person ref="emperor" type="honorific">幸</person>昆明池应制, <author ref="songzhiwen">宋之问</author></title>
+<title><dedication/>正朝上<person ref="zhangyue" type="position+surname">左相张燕公</person>, <author ref="yangchongxuan">杨重玄</author></title>
+<title><yingzhi ref="wenquan"/>奉和圣制温泉言志<person ref="lilongji" type='honorific'>应制</person>, <author ref="zhangyue">张说</author></title>
+<title><send-off/>送<person ref="weiwan" type="name">魏万</person>之京, <author ref="liqi">李颀</author></title>
+<title><send-off/>奉和幸望****送<person ref="zhangrenyuan" type="position+name">朔方大总管张仁亶</person>, <author ref="zhengyin">郑愔</author></title>
+<title><yingzhi ref="princess_anle_house"/><person ref="lixian" type="honorific">奉和幸</person>安乐公主山庄应制, <author ref="luzangyong">卢藏用</author></title>
+<title><dedication/>赠<person ref="zhangxu4" type='name'>张旭</person>, <author ref="liqi">李颀</author></title>
+<title><dedication/>赐<person ref="dengziyang" type="position+name">道士邓紫阳</person>, <author ref="lilongji">李隆基</author></title>
+<title><send-off/>送<person ref="sheren_zhang" type="position+surname">张舍人</person>之江东, <author ref="libai">李白</author></title>
+<title><send-off/><dedication/>赠别<person ref="jigui" type="position+surname">冀侍御</person><person ref="cuitaizhi" type="position+surname">崔司议</person>, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="ciensi"/><person ref="lizhi" type="honorific">奉和</person>九月九日登慈恩寺浮图应制, <author ref="wangjing">王景</author></title>
+<title><send-off/>送<person ref="liyong" type="name">李邕</person>（一作送李安邑）, <author ref="liqiao">李峤</author></title>
+<title><yingzhi ref="changangucheng"/><person ref="emperor" type="honorific">奉和幸</person>长安故城未央宫应制, <author ref="liuxian">刘宪</author></title>
+<title><yingzhi ref="shudianciyan"/><person ref="emperor" type="honorific">书殿赐宴</person>应制, <author ref="xuanzhen">徐安贞</author></title>
+<title><yingzhi ref="linweitingyuxue"/>游禁苑陪幸临渭亭遇雪<person ref="lixian" type="honorific">应制</person>, <author ref="liqiao">李峤</author></title>
+<title><record/>三日<person ref="lifan" type="position">岐王</person>宅, <author ref="zhange">张谔</author></title>
+<title><dedication/>安陆白兆山桃花岩寄<person ref="liuwan" type="position+surname">刘侍御绾</person>（作春归桃花岩贻许侍御）, <author ref="libai">李白</author></title>
+<title><dedication/>闻<person ref="wangchangling" type="name">王昌龄</person>左迁龙标，遥有此寄, <author ref="libai">李白</author></title>
+<title><send-off/>赠<person ref="hansiyan" type="name">韩思彦</person>, <author ref="hesuiliang">贺遂亮</author></title>
+<title><yingzhi ref="ciensi"/>慈恩寺九日<person ref="lizhi" type="honorific">应制</person>, <author ref="cuishi">崔湜</author></title>
+<title><elegy/>伤<person ref="prostitute_dong" type="surname">妓人董氏</person>四首, <author ref="zhangyue">张说</author></title>
+<title><dedication/>鄂渚招<person ref="wangchangling" type="name">王昌龄</person><person ref="zhangben" type="name">张偾</person>, <author ref="changjian">常建</author></title>
+<title><feast/>奉和<person ref="lixian" type="honorific">幸</person><person ref="weisili" type="name">韦嗣立</person>山庄侍宴应制, <author ref="liqiao">李峤</author></title>
+<title><dedication/>奉和<person ref="shilang_xu" type="position+surname">中书徐侍郎</person><person ref="wanbaiyun" type="name">中书省玩白云</person>寄<person ref="zhao1" type="surname+family_ranking+position">颖阳赵大</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>送<person ref="envoy_guangzhou" type="indirect">使广州</person>, <author ref="zhangjiuling">张九龄</author></title>
+<title><together/>和<person ref="yangbocheng" type="position+name">户部杨员外伯成</person>寓直, <author ref="licheng">李憕</author></title>
+<title><dedication/>途中寄<person ref="friend_mengyunqing" type="indirect">友人</person>, <author ref="mengyunqing">孟云卿</author></title>
+<title><send-off/>送<person ref="chen7" type="surname+family_ranking">陈七</person>赴西军, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/><person ref="sons_xinyang_ma" type="surname">荥阳马氏二子</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>圣善阁送<person ref="peidi" type="name">裴迪</person>入京, <author ref="liqi">李颀</author></title>
+<title><send-off/>巡去岳阳却归鄂州使院留别<person ref="zhengxun" type="position+surname">郑洵侍御</person>侍御先曾谪居此州, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="xiaoshu_wang" type="surname+family_ranking+position">王大校书</person>, <author ref="menghaoran">孟浩然</author></title>
+<title><send-off/>送合宫<person ref="suting" type="position+name">苏明府颋</person>, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="sima_song" type="position+surname+location">许州宋司马</person>赴任, <author ref="songzhiwen">宋之问</author></title>
+<title><record/>奉和<person ref="shangshu_cui" type="position+surname">崔尚书</person>赠<person ref="dalisiqing_lu" type="position+surname">大理陆卿</person><person ref="honglusiqing_liu" type="position+surname">鸿胪刘卿</person>见示之作, <author ref="suting">苏颋</author></title>
+<title><dedication/>江夏寄<person ref="lushi_fu" type="position+surname+location">汉阳辅录事</person>, <author ref="libai">李白</author></title>
+<title><elegy/>宣城哭<person ref="jianghua" type="position+name">蒋征君华</person>, <author ref="libai">李白</author></title>
+<title><yingzhi ref="weibin"/>奉和三日祓禊渭滨<person ref="lilongji" type="honorific">应制</person>, <author ref="zhangyue">张说</author></title>
+<title><feast/>岁夜<person ref="princess_anle" type="position">安乐公主</person>满月侍宴, <author ref="shenquanqi">沈佺期</author></title>
+<title><dedication/>赠<person ref="sihu_lu" type="position+surname">卢司户</person>, <author ref="libai">李白</author></title>
+<title><feast/><person ref="yangshidao" type="position">安德</person>山池宴集, <author ref="cenwenben">岑文本</author></title>
+<title><yingzhi ref="princess_anle_house"/>侍宴<person ref="princess_anle" type="position">安乐公主</person>山庄<person ref="lixian" type="honorific">应制</person>, <author ref="suting">苏颋</author></title>
+<title><dedication/>谪官后卧病官舍，简<person ref="shilang_helan" type="position+surname">贺兰侍郎</person>（一作贬睦州祖庸见赠）, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/><person ref="emperor" type="honorific">奉和圣制</person>漕桥东送<person ref="new_appointed_off" type="indirect">新除岳牧</person>, <author ref="suting">苏颋</author></title>
+<title><feast/>凝碧池侍宴<person ref="wuzetian" type="honorific">应制</person>得出水槎, <author ref="wusansi">武三思</author></title>
+<title><together/>秋晨同<person ref="sima_mao" type="position+surname+location">淄川毛司马</person>秋九咏·秋水, <author ref="luobinwang">骆宾王</author></title>
+<title><dedication/>赠<person ref="hugong" type="surname+location">黄山胡公</person>求白鹇, <author ref="libai">李白</author></title>
+<title><send-off/>洛中送<person ref="xi3" type='surname+family_ranking'>奚三</person>还扬州, <author ref="menghaoran">孟浩然</author></title>
+<title><dedication/>安宜园林献<person ref="shijun_gao2" type="position+surname">高使君</person>, <author ref="chuguangxi">储光羲</author></title>
+<title><send-off/>送<person ref="shijun_li3" type="position+surname+location">台州李使君</person>，兼寄题国清寺, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="mingfu_wang3" type="position+surname">王明府</person>参选赋得鹤, <author ref="luobinwang">骆宾王</author></title>
+<title><dedication/>登梅冈望金陵，赠<person ref="lizhongfu" type="position+word+name">族侄高座寺僧中孚</person>, <author ref="libai">李白</author></title>
+<title><dedication/><person ref="xueshou" type='position+name'>薛记室收</person>过庄见寻率题古意以赠, <author ref="wangji">王绩</author></title>
+<title><dedication/>林园即事寄<person ref="wangdan" type="word+name">舍弟紞</person>（次荆州时作）, <author ref="wangwei">王维</author></title>
+<title><send-off/><feast/>饯<person ref="tangyongchang" type="name">唐永昌</person>赴任东都, <author ref="lishi">李適</author></title>
+<title><together/>和<person ref="shiyu_lu2" type="position+surname">卢侍御</person>通塘曲, <author ref="libai">李白</author></title>
+<title><elegy/><person ref="gongbu_li" type="position+surname">李工部</person>挽歌三首, <author ref="zhangyue">张说</author></title>
+<title><together/>和<person ref="songzhiwen" type="name">宋之问</person>下山歌, <author ref="wangwujing">王无竞</author></title>
+<title><feast/>宴<person ref="mingfu_cui" type="position+surname">崔明府</person>宅夜观妓, <author ref="menghaoran">孟浩然</author></title>
+<title><yingzhi ref="huangtaizi_ciensi"/><together/><person ref="lilongji" type="honorific">奉和</person>同<person ref="liying" type="position">皇太子</person>过慈恩寺应制二首, <author ref="zhangyue">张说</author></title>
+<title><together/>同<person ref="liuhuang" type="name">刘晃</person>喜雨, <author ref="lilongji">李隆基</author></title>
+<title><dedication/>对雪献<person  ref="yuchengzai" type="position+word">从兄虞城宰</person>, <author ref="libai">李白</author></title>
+<title><feast/><send-off/>对雪奉饯<person ref="lixiu" type="position+location+word">任城六父</person>秩满归京, <author ref="libai">李白</author></title>
+<title><yingzhi ref="xunbian"/><person ref="lilongji" type="honorific">奉和圣制</person>送<person ref="zhangyue" type="name">张说</person>巡边, <author ref="songjing">宋璟</author></title>
+<title><together/>和<person ref="yuanwai_zhao" type="position+surname">赵员外</person>桂阳桥遇佳人, <author ref="songzhiwen">宋之问</author></title>
+<title><send-off/>送<person ref="sizhi_liu" type="position+surname">刘司直</person>赴安西, <author ref="wangwei">王维</author></title>
+<title><dedication/>题<person ref="shaofu_wang" type="position+surname">王少府</person>尧山隐处，简<person ref="poyang_lu" type="surname+location">陆鄱阳</person>, <author ref="liuchangqing">刘长卿</author></title>
+<title><send-off/>送<person ref="zi_shen" type="surname+honorific">沈子</person>归江东（一作送沈子福之）, <author ref="wangwei">王维</author></title>
+<title><dedication/>酬<person ref="shaoyin_yan" type="position+surname">严少尹</person><person ref="sheren_xu" type="position+surname">徐舍人</person>见过不遇, <author ref="wangwei">王维</author></title>
+<title><yingzhi ref="guowentang"/><person ref="lizhi" type="honorific">奉和圣制</person>过温汤, <author ref="yangsixuan">杨思玄</author></title>
+<title><record/><person ref="zhao14" type="surname+family_ranking">赵十四</person>兄见访, <author ref="wangchangling">王昌龄</author></title>
+<title><send-off/>落第西还别<person ref="weilin" type="surname+family_ranking+name">魏四懔</person>, <author ref="chenziang">陈子昂</author></title>
+<title><yingzhi ref="guociensi"/><person ref="lizhi" type="honorific">奉和</person>过慈恩寺应制, <author ref="xujingzong">许敬宗</author></title>
+<title><send-off/>送<person ref="qiujian" type="name">丘健</person>至州敕放作时任下邽县, <author ref="chuguangxi">储光羲</author></title>
+<title><dedication/>田家即事答<person ref="cui2" type="name">崔二</person>东皋作四首, <author ref="chuguangxi">储光羲</author></title>
+<title><feast ref="huirichongyan"/><person ref="chenjiayan" type="null"/><person ref="langyuling" type="null"/><person ref="wangmian" type="null"/><person ref="xuhao" type="null"/><person ref="wangmaoshi" type="null"/>晦日重宴, <author ref="gaojin">高瑾</author></title>
+<title><record/>求<person ref="shanren_cui" type="position+surname">崔山人</person>百丈崖瀑布图, <author ref="libai">李白</author></title>
+<title><record/>九月九日忆<person ref="brothers_shandong" type="collective">山东兄弟</person>（时年十七）, <author ref="wangwei">王维</author></title>
+<title><dedication/>自汉阳病酒归，寄<person ref="mingfu_wang2" type="position+surname">王明府</person>, <author ref="libai">李白</author></title>
+<title><dedication/>狱中上<person ref="cuihuan" type="position+name">崔相涣</person>, <author ref="libai">李白</author></title>
+</tangPoem>

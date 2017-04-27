@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <sex type="m">
+        <class type="crt">284</class>
+        <class type="prv">156</class>
+        <class type="uc">107</class>
+        <class type="bud">36</class>
+        <class type="dao">32</class>
+        <class type="mili">30</class>
+        <class type="ys">28</class>
+        <class type="com">26</class>
+        <class type="ry">16</class>
+        <class type="lc">4</class>
+        <class type="poet">2</class>
+    </sex>
+    <sex type="f">
+        <class type="crt">1</class>
+        <class type="prv">0</class>
+        <class type="uc">3</class>
+        <class type="bud">0</class>
+        <class type="dao">0</class>
+        <class type="mili">2</class>
+        <class type="ys">0</class>
+        <class type="com">2</class>
+        <class type="ry">14</class>
+        <class type="lc">0</class>
+        <class type="poet">0</class>
+    </sex>
+</root>
+

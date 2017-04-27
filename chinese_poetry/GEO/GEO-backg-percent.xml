@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geo>
+    <group type="crt">
+        <place name="jjd" chn='京畿道'>45.554614733276885</place>
+        <place name="djd" chn='都畿道'>3.895004233700254</place>
+        <place name="gnd" chn='关内道'>0.6773920406435224</place>
+        <place name="hdd" chn='河东道'>5.334462320067739</place>
+        <place name="hbdn" chn='河北道(内)'>5.165114309906858</place>
+        <place name="hbdw" chn='河北道(外)'>0.1693480101608806</place>
+        <place name="hendy" chn='河南道(豫)'>5.6731583403895005</place>
+        <place name="hendl" chn='河南道(鲁)'>3.048264182895851</place>
+        <place name="hnd" chn='淮南道'>1.3547840812870449</place>
+        <place name="jndd" chn='江南东道'>8.721422523285352</place>
+        <place name="jnxd" chn='江南西道'>4.911092294665537</place>
+        <place name="lnd" chn='岭南道'>3.302286198137172</place>
+        <place name="sndd" chn='山南东道'>2.1168501270110074</place>
+        <place name="snxd" chn='山南西道'>0.5080440304826418</place>
+        <place name="lyd" chn='陇右道'>1.7781541066892466</place>
+        <place name="jnd" chn='剑南道'>7.027942421676546</place>
+        <place name="qzd" chn='黔中道'>0.5927180355630821</place>
+    </group>
+    <group type="prv">
+        <place name="jjd" chn='京畿道'>8.152173913043478</place>
+        <place name="djd" chn='都畿道'>3.804347826086957</place>
+        <place name="gnd" chn='关内道'>0.8152173913043478</place>
+        <place name="hdd" chn='河东道'>2.989130434782609</place>
+        <place name="hbdn" chn='河北道(内)'>3.804347826086957</place>
+        <place name="hbdw" chn='河北道(外)'>0</place>
+        <place name="hendy" chn='河南道(豫)'>7.336956521739131</place>
+        <place name="hendl" chn='河南道(鲁)'>5.434782608695652</place>
+        <place name="hnd" chn='淮南道'>5.978260869565218</place>
+        <place name="jndd" chn='江南东道'>17.391304347826086</place>
+        <place name="jnxd" chn='江南西道'>10.869565217391305</place>
+        <place name="lnd" chn='岭南道'>4.3478260869565215</place>
+        <place name="sndd" chn='山南东道'>8.423913043478262</place>
+        <place name="snxd" chn='山南西道'>0.5434782608695652</place>
+        <place name="lyd" chn='陇右道'>1.358695652173913</place>
+        <place name="jnd" chn='剑南道'>18.206521739130434</place>
+        <place name="qzd" chn='黔中道'>0.5434782608695652</place>
+    </group>
+</geo>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactFreq>
+   <group name="prov_off">
+      <source name="crt">67</source>
+      <source name="prv">54</source>
+      <source name="ry">7</source>
+      <source name="bud">8</source>
+      <source name="dao">12</source>
+      <source name="ys">13</source>
+      <source name="uc">33</source>
+      <source name="com">6</source>
+      <source name="mili">6</source>
+      <source name="poet">1</source>
+      <source name="lc">0</source>
+   </group>
+   <group name="court_off">
+      <source name="crt">115</source>
+      <source name="prv">49</source>
+      <source name="ry">18</source>
+      <source name="bud">19</source>
+      <source name="dao">9</source>
+      <source name="ys">4</source>
+      <source name="uc">37</source>
+      <source name="com">8</source>
+      <source name="mili">16</source>
+      <source name="poet">1</source>
+      <source name="lc">4</source>
+   </group>
+   <group name="poet">
+      <source name="crt">29</source>
+      <source name="prv">42</source>
+      <source name="ry">0</source>
+      <source name="bud">7</source>
+      <source name="dao">9</source>
+      <source name="ys">13</source>
+      <source name="uc">42</source>
+      <source name="com">19</source>
+      <source naem="mili">9</source>
+      <source name="poet">0</source>
+      <source name="lc">1</source>
+   </group>
+   <group name="royal">
+      <source name="crt">9</source>
+      <source name="prv">0</source>
+      <source name="ry">3</source>
+      <source name="bud">1</source>
+      <source name="dao">4</source>
+      <source name="ys">0</source>
+      <source name="uc">1</source>
+      <source name="com">0</source>
+      <source name="mili">0</source>
+      <source name="poet">0</source>
+      <source name="lc">0</source>
+   </group>
+</contactFreq>

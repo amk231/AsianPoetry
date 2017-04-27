@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <desc>Background Proportion</desc>
+   <g transform="translate(200 20) scale(0.7)">
+      <rect x="0"
+            y="0"
+            height="50"
+            fill="#FC0D1B"
+            width="1107.0967741935485"/>
+      <text font-size="20px" x="-10" y="25" text-anchor="end">Court Official</text>
+      <text font-size="20px"
+            x="1117.0967741935485"
+            y="25"
+            text-anchor="start">36.9%</text>
+      <rect x="0"
+            y="70"
+            height="50"
+            fill="#1CBD20"
+            width="607.741935483871"/>
+      <text font-size="20px" x="-10" y="100" text-anchor="end">Provincial Official</text>
+      <text font-size="20px"
+            x="617.741935483871"
+            y="100"
+            text-anchor="start">20.26%</text>
+      <rect x="0"
+            y="140"
+            height="50"
+            fill="#B2B2B2"
+            width="441.2903225806451"/>
+      <text font-size="20px"
+            x="451.2903225806451"
+            y="165"
+            text-anchor="start">14.71%</text>
+      <text font-size="20px" x="-10" y="165" text-anchor="end">Unclear*</text>
+      <rect x="0"
+            y="210"
+            height="50"
+            fill="#FC6621"
+            width="139.35483870967744"/>
+      <text font-size="20px"
+            x="149.35483870967744"
+            y="235"
+            text-anchor="start">4.65%</text>
+      <text font-size="20px" x="-10" y="235" text-anchor="end">Buddhism</text>
+      <rect x="0"
+            y="280"
+            height="50"
+            fill="#241C1C"
+            width="131.61290322580643"/>
+      <text font-size="20px"
+            x="141.61290322580643"
+            y="305"
+            text-anchor="start">4.39%</text>
+      <text font-size="20px" x="-10" y="305" text-anchor="end">Common</text>
+      <rect x="0"
+            y="350"
+            height="50"
+            fill="#7F0F7E"
+            width="123.87096774193549"/>
+      <text font-size="20px"
+            x="133.8709677419355"
+            y="375"
+            text-anchor="start">4.13%</text>
+      <text font-size="20px" x="-10" y="375" text-anchor="end">Daoism</text>
+      <rect x="0"
+            y="420"
+            height="50"
+            fill="#87824A"
+            width="123.87096774193549"/>
+      <text font-size="20px"
+            x="133.8709677419355"
+            y="445"
+            text-anchor="start">4.13%</text>
+      <text font-size="20px" x="-10" y="445" text-anchor="end">Military</text>
+      <rect x="0" y="490" height="50" fill="#FDCC3A" width="120"/>
+      <text font-size="20px" x="130" y="515" text-anchor="start">4%</text>
+      <text font-size="20px" x="-10" y="515" text-anchor="end">Royal</text>
+      <rect x="0"
+            y="560"
+            height="50"
+            fill="#11807F"
+            width="108.38709677419355"/>
+      <text font-size="20px"
+            x="118.38709677419355"
+            y="585"
+            text-anchor="start">3.61%</text>
+      <text font-size="20px" x="-10" y="585" text-anchor="end">Yinshi (Recluse)</text>
+      <rect x="0"
+            y="630"
+            height="50"
+            fill="#B7C5EE"
+            width="19.35483870967742"/>
+      <text font-size="20px"
+            x="29.35483870967742"
+            y="655"
+            text-anchor="start">0.65%</text>
+      <text font-size="20px" x="-10" y="655" text-anchor="end">Local Official</text>
+      <rect x="0"
+            y="700"
+            height="50"
+            fill="#FD70FC"
+            width="7.741935483870969"/>
+      <text font-size="20px"
+            x="17.741935483870968"
+            y="725"
+            text-anchor="start">0.26%</text>
+      <text font-size="20px" x="-10" y="725" text-anchor="end">Poet</text>
+      <text font-size="20px" x="1200" y="725" text-anchor="end">*Unclear: Mostly between common people and government officials, probably local gentry class.</text>
+   </g>
+</svg>

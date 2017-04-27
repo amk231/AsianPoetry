@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(200,450) scale(1.5)">
+      <rect x="30"
+            y="-217.64705882352942"
+            height="217.64705882352942"
+            width="25"
+            fill="#FC0D1B"/>
+      <text x="30" y="20" fill="black" transform="rotate(30 30,40)">total-crt</text>
+      <text x="30" y="-227.64705882352942">43.5%</text>
+      <rect x="85"
+            y="-190.93406593406593"
+            height="190.93406593406593"
+            width="25"
+            fill="#1CBD20"/>
+      <text x="85" y="20" fill="black" transform="rotate(30 85,40)">total-prv</text>
+      <text x="85" y="-200.93406593406593">38.2%</text>
+      <rect x="140"
+            y="-6.122448979591837"
+            height="6.122448979591837"
+            width="25"
+            fill="#FDCC3A"/>
+      <text x="140" y="20" fill="black" transform="rotate(30 140,40)">total-ry</text>
+      <text x="140" y="-16.122448979591837">1.2%</text>
+      <rect x="195"
+            y="-224.59893048128345"
+            height="224.59893048128345"
+            width="25"
+            fill="#B2B2B2"/>
+      <text x="195" y="20" fill="black" transform="rotate(30 195,40)">total-uc</text>
+      <text x="195" y="-234.59893048128345">44.9%</text>
+      <rect x="250"
+            y="-14.285714285714286"
+            height="14.285714285714286"
+            width="25"
+            fill="#FC6621"/>
+      <text x="250" y="20" fill="black" transform="rotate(30 250,40)">total-bud</text>
+      <text x="250" y="-24.285714285714285">2.9%</text>
+      <rect x="305"
+            y="-178.94736842105263"
+            height="178.94736842105263"
+            width="25"
+            fill="#7F0F7E"/>
+      <text x="305" y="20" fill="black" transform="rotate(30 305,40)">total-dao</text>
+      <text x="305" y="-188.94736842105263">35.8%</text>
+      <rect x="360"
+            y="-166.66666666666663"
+            height="166.66666666666663"
+            width="25"
+            fill="#87824A"/>
+      <text x="360" y="20" fill="black" transform="rotate(30 360,40)">total-mili</text>
+      <text x="360" y="-176.66666666666663">33.3%</text>
+      <rect x="415"
+            y="-224.63768115942028"
+            height="224.63768115942028"
+            width="25"
+            fill="#11807F"/>
+      <text x="415" y="20" fill="black" transform="rotate(30 415,40)">total-ys</text>
+      <text x="415" y="-234.63768115942028">44.9%</text>
+      <text x="-10" y="-172.41379310344828" text-anchor="end">Average 34.5%</text>
+      <line x1="0"
+            x2="600"
+            y1="-172.41379310344828"
+            y2="-172.41379310344828"
+            stroke-width="1"
+            stroke="black"
+            stroke-dasharray="5, 5"/>
+      <text x="600" y="20" text-anchor="end">Surname</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-280"
+            stroke-width="1"
+            stroke="black"/>
+      <line x1="0"
+            x2="600"
+            y1="0"
+            y2="0"
+            stroke-width="1"
+            stroke="black"/>
+   </g>
+</svg>

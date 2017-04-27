@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="400">
+   <g transform="translate(20,350)">
+      <rect x="30"
+            y="-196.94868238557558"
+            height="196.94868238557558"
+            width="20"
+            fill="#0066CC"/>
+      <text x="40" y="20" transform="rotate(30 30,40)" font-size="12">CRT</text>
+      <text x="50" y="-206.94868238557558" font-size="10" text-anchor="end">39.4%</text>
+      <rect x="100"
+            y="-108.18307905686545"
+            height="108.18307905686545"
+            width="20"
+            fill="#0066CC"/>
+      <text x="110" y="20" transform="rotate(30 100,40)" font-size="12">PRV</text>
+      <text x="120"
+            y="-118.18307905686545"
+            font-size="10"
+            text-anchor="end">21.6%</text>
+      <rect x="170"
+            y="-74.20249653259361"
+            height="74.20249653259361"
+            width="20"
+            fill="#0066CC"/>
+      <text x="180" y="20" transform="rotate(30 170,40)" font-size="12">UC</text>
+      <text x="190" y="-84.20249653259361" font-size="10" text-anchor="end">14.8%</text>
+      <rect x="240"
+            y="-24.96532593619972"
+            height="24.96532593619972"
+            width="20"
+            fill="#0066CC"/>
+      <text x="250" y="20" transform="rotate(30 240,40)" font-size="12">BUD</text>
+      <text x="260" y="-34.96532593619972" font-size="10" text-anchor="end">5%</text>
+      <rect x="310"
+            y="-22.19140083217753"
+            height="22.19140083217753"
+            width="20"
+            fill="#0066CC"/>
+      <text x="320" y="20" transform="rotate(30 310,40)" font-size="12">DAO</text>
+      <text x="330" y="-32.19140083217753" font-size="10" text-anchor="end">4.4%</text>
+      <rect x="380"
+            y="-20.804438280166437"
+            height="20.804438280166437"
+            width="20"
+            fill="#0066CC"/>
+      <text x="390" y="20" transform="rotate(30 380,40)" font-size="12">MILI</text>
+      <text x="400"
+            y="-30.804438280166437"
+            font-size="10"
+            text-anchor="end">4.2%</text>
+      <rect x="450"
+            y="-19.41747572815534"
+            height="19.41747572815534"
+            width="20"
+            fill="#0066CC"/>
+      <text x="460" y="20" transform="rotate(30 450,40)" font-size="12">YS</text>
+      <text x="470" y="-29.41747572815534" font-size="10" text-anchor="end">3.9%</text>
+      <rect x="520"
+            y="-18.030513176144243"
+            height="18.030513176144243"
+            width="20"
+            fill="#0066CC"/>
+      <text x="530" y="20" transform="rotate(30 520,40)" font-size="12">COM</text>
+      <text x="540"
+            y="-28.030513176144243"
+            font-size="10"
+            text-anchor="end">3.6%</text>
+      <rect x="590"
+            y="-11.095700416088764"
+            height="11.095700416088764"
+            width="20"
+            fill="#0066CC"/>
+      <text x="600" y="20" transform="rotate(30 590,40)" font-size="12">RY</text>
+      <text x="610"
+            y="-21.095700416088764"
+            font-size="10"
+            text-anchor="end">2.2%</text>
+      <rect x="660"
+            y="-2.773925104022191"
+            height="2.773925104022191"
+            width="20"
+            fill="#0066CC"/>
+      <text x="670" y="20" transform="rotate(30 660,40)" font-size="12">LC</text>
+      <text x="680" y="-12.77392510402219" font-size="10" text-anchor="end">.6%</text>
+      <rect x="730"
+            y="-1.3869625520110955"
+            height="1.3869625520110955"
+            width="20"
+            fill="#0066CC"/>
+      <text x="740" y="20" transform="rotate(30 730,40)" font-size="12">POET</text>
+      <text x="750"
+            y="-11.386962552011095"
+            font-size="10"
+            text-anchor="end">.3%</text>
+      <rect x="50"
+            y="-22.72727272727273"
+            height="22.72727272727273"
+            width="20"
+            fill="#FF3300"/>
+      <text x="50"
+            font-size="10"
+            text-anchor="start"
+            y="-32.727272727272734">4.5%</text>
+      <rect x="120" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="120" font-size="10" text-anchor="start" y="-10">0%</text>
+      <rect x="190"
+            y="-68.18181818181817"
+            height="68.18181818181817"
+            width="20"
+            fill="#FF3300"/>
+      <text x="190"
+            font-size="10"
+            text-anchor="start"
+            y="-78.18181818181817">13.6%</text>
+      <rect x="260" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="260" font-size="10" text-anchor="start" y="-10">0%</text>
+      <rect x="330" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="330" font-size="10" text-anchor="start" y="-10">0%</text>
+      <rect x="400"
+            y="-45.45454545454546"
+            height="45.45454545454546"
+            width="20"
+            fill="#FF3300"/>
+      <text x="400"
+            font-size="10"
+            text-anchor="start"
+            y="-55.45454545454546">9.1%</text>
+      <rect x="470" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="470" font-size="10" text-anchor="start" y="-10">0%</text>
+      <rect x="540"
+            y="-45.45454545454546"
+            height="45.45454545454546"
+            width="20"
+            fill="#FF3300"/>
+      <text x="540"
+            font-size="10"
+            text-anchor="start"
+            y="-55.45454545454546">9.1%</text>
+      <rect x="610"
+            y="-318.1818181818182"
+            height="318.1818181818182"
+            width="20"
+            fill="#FF3300"/>
+      <text x="610"
+            font-size="10"
+            text-anchor="start"
+            y="-328.1818181818182">63.6%</text>
+      <rect x="680" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="680" font-size="10" text-anchor="start" y="-10">0%</text>
+      <rect x="750" y="-0" height="0" width="20" fill="#FF3300"/>
+      <text x="750" font-size="10" text-anchor="start" y="-10">0%</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-300"
+            stroke-width="1"
+            stroke="black"/>
+      <line x1="0"
+            x2="800"
+            y1="0"
+            y2="0"
+            stroke-width="1"
+            stroke="black"/>
+      <rect x="750" y="-250" width="15" height="15" fill="#0066CC"/>
+      <text x="770" y="-235" text-anchor="start">Male</text>
+      <rect x="750" y="-220" width="15" height="15" fill="#FF3300"/>
+      <text x="770" y="-205" text-anchor="start">Female</text>
+   </g>
+</svg>
