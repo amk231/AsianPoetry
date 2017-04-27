@@ -5,7 +5,7 @@
     version="2.0" xmlns="http://www.w3.org/2000/svg">
     <xsl:output indent="yes" doctype-system="compact" method="xml"></xsl:output>
     <xsl:template match="/">
-        <svg>
+        <svg width="1000" height="800">
             <style>
                 <xsl:apply-templates select="//place" mode="css"/>
             </style>
@@ -23,7 +23,7 @@
     </xsl:template>
     <xsl:template match="place" mode="css">
         #<xsl:value-of select="@name"/>{
-        fill-opacity: <xsl:if test=". &lt; 10"><xsl:value-of select=". div 10"/></xsl:if><xsl:if test=". &gt; 10">1.0</xsl:if><xsl:text>;</xsl:text>
+        fill-opacity: <xsl:if test=". &lt; 10"><xsl:value-of select=". div 10"/></xsl:if><xsl:if test=". &gt;= 10">1.0</xsl:if><xsl:text>;</xsl:text>
         fill: red;
         }
        
