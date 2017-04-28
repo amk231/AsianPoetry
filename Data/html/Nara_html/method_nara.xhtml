@@ -23,22 +23,49 @@
         <!--#include virtual="/data/html/menu.xhtml" -->
         <img class="banner" src="http://shi-waka.obdurodon.org/images/Jpn7.jpg" />
         <div>
-            <h1>Corpus Selection</h1>
-            <p> The Nara corpus was created through the collection of 100 poems from four of the twenty total books in the Manyoshu.
+            <h1 class="txt">Corpus Selection</h1>
+            <p> The Nara corpus was created through the collection of 100 poems from four of the twenty total books in the Nippon Gakujutsu Shinkokai translation 
+                of the Manyoshu.
+                Before discussing which poems we chose and why, it is important to understand the distinctions between the Books. The
+                first two books were compiled under Imperial order. The poems included in the first book were written from the reign of 
+                Emperor Yuraku in 456 A.D. to the Middle Nara Period. Book II had a wider range of composition dates ranging from
+                313-715 A.D. Both Book IV and VIII were written later between 723-744 A.D.
                 Books I, II, IV, and VIII were chosen due to the balanced nature of the contributing authors' genders. Twenty poems 
                 were arbitrarily selected from Book I, II, and VIII. Forty poems were chosen from Book IV because of its greater size
                 and closest ratio of male to female authors. The result of the gender distribution of the chosen poems was as follows: 
-                <img src="http://shi-waka.obdurodon.org/images/svg/manyoshuGender.svg" alt="" /> 
-          </p>
-            <h2>Mark Up</h2>
+             </p> 
+            <p> <img src="http://shi-waka.obdurodon.org/images/svg/manyoshuGender.svg" alt="" /> </p>
+            
+          
+            <h1 class="txt">Mark Up</h1>
             <p>
                 The structural mark up for the Nara portion of the project is organized by book and further by poem number. In some 
-                cases within the Manyoshu multiple poems were provided as a single paragraph. For the sake of accuracy we preserved 
+                cases within the Manyoshu multiple poems were provided as a single paragraph. For the sake of conistency we preserved 
                 this structure except when the poems were written by different authors. Even poems within the same paragraph 
                 contribute to the total number of poems. The texts of the selected poems were marked up with special attention given
                 to specific names and places. Attributes describing the sex and role were applied to the names and attributes 
                 describing region, type, and coordinates were applied to locations. Using these tags we were able to create the,
                 albeit small, network analysis illustrating the communication between authors.
+            </p>
+            <hr/>
+            <h1 class="txt">Relationship Network</h1>
+            <p>
+                As previously mentioned, each person within the context of the poems, including the author and people mentioned were given attributes recording
+                their sex and roles. Not all of the poems included a context which addressed another person, but for the few that did, the authors
+                constitute the source nodes and the person mentioned is the target node. We transformed our data into gexf format and used
+                Gelphi to create the display.
+            </p>
+            
+            <h1 class="txt">Geography Analysis</h1>
+            <p>
+                This analysis relied heavily on the coordinate attributes placed on the location elements. We only marked up instances of specific
+                named locations instead of all individual mentions which included vague terms such as "mountain" or "river of doubt" which is
+                difficult to locate and leaves room for error. As many of the locations recorded within the Manyoshu poems no longer exist, have been
+                renamed, or regrouped into new territories it was important to ensure that we were marking the correct coordinates. In some cases this 
+                required us to compare with medieval Japanese maps, though we cannot role out the possibility of human error. In the instances where we 
+                could not find coordinates for a referenced location we decided to leave them out of the map completely. In addition, some poems 
+                referenced the "capital" without providing a specific capital name. In these cases we compared the date the poem was composed to the 
+                known dates of different capital sites. In our corpus there were a total of three referenced capitals: Naniwa, Nara, and Fujiwara. 
             </p>
         </div>
     </body>
