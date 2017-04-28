@@ -96,13 +96,20 @@ div {
     text-align: center;
     margin:  auto;
 }
+.space {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left:auto;
+    margin-right: auto;
+}
 p {
-    font-family: Helvetica, Tahoma, Arial;
+    font-family: 'times new roman';
     font-size: 18px;
     text-align: left;
-    width: 50%;
-    margin:auto;
+    width: 60%;
+    margin: auto;
 }
+
 .banner {
     width: 100%;
 }
@@ -114,13 +121,73 @@ body {
     padding: 0;
 }
 img {
+    display: block;
+    margin: auto;
+    width: 85%;
+    text-align: center;
+}
+.med {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.lg {
      display: block;
     margin: auto;
-    width: 100%;
+    width: 100%; 
 }
-h1{
-    font-size: 30px;
+.txt {
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'times new roman', times, serif;
+    text-align: center;
 }
-h2 {
-    font-size: 30px;
+.med10 {
+    display: block;
+    margin: auto;
+    width: 100%; 
+}
+.medper {
+     display: block;
+    margin: auto;
+    width: 40%;
+}
+hr {
+    border: dotted;
+    color: #ff6600;
+    width: 70%;
+}
+.flex-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.flexh1, .flexh2 {
+  width: 300px;  
+  box-sizing: border-box;
+  padding: 0 10px;
+  margin: 50px;
+}
+.flex-wrapper2 {
+  display: flex;
+  justify-content: center;
+}
+.flexg1, .flexg2 {
+  width: 300px;  
+  box-sizing: border-box;
+  padding: 0 10px;
+  width: 50%;
+  
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 25px;
+    background-color: #ffff99;
+}
+.ccimg {
+    width: 5%; 
+}
+.link{
+    color: blue;
 }
