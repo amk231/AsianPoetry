@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Method: Tang Poems</title>
+        <link rel="shortcut icon" href="http://shi-waka.obdurodon.org/images/svg/intro_icon_chinesebuilding_orange.svg"/>
+        <link rel="stylesheet" type="text/css" href="http://shi-waka.obdurodon.org/css/method_tang.css"/> 
+        <link rel="stylesheet" type="text/css" href="http://shi-waka.obdurodon.org/css/paragraph_tang.css"/> 
+    </head>
+    <body>
+        <div class="h1"><h1>Methods</h1>
+            <div class="decoration" id="deco-shi">
+                <embed src="http://shi-waka.obdurodon.org/images/svg/index_decoration_shi_blue.svg" width="90"></embed>
+            </div>
+            <div class="decoration" id="deco-tang">
+                <embed src="http://shi-waka.obdurodon.org/images/svg/index_decoration_tang_blue.svg" width="77"></embed>
+            </div>
+        </div>
+        <!--#include virtual="/data/html/menu.xhtml" -->
+        <div onclick="document.getElementById('method').style.display='none';document.getElementById('intro').style.display='none';document.getElementById('text').style.display='none';document.getElementById('conclusion').style.display='none'">
+            <img class="banner" src="http://shi-waka.obdurodon.org/images/banner_tang5_final.jpg"/> 
+            <div>
+                <h2>Text Selection</h2>
+                <p>
+                    We first selected 1500 titles from volume 1-5 and 30-185 of Quan Tangshi randomly. These volumes collected early Tang poems that were mostly written before the outbreak of Anlushan Rebellion.
+                    Since not all of the titles contain people's names, that amount of titles is huge enough to build a comprehensive relationship network.
+                </p>
+                <hr/>
+                <h2>Markup</h2>
+                <h3>Basic Structure</h3>
+                <p>
+                    Each poem's title is surrounded by one &lt;title> tag. Within the &lt;title> tag, there are several &lt;person> tags which indicates the appearance of each person in the title and one &lt;author> tag which 
+                    indicates the author of the poem.
+                </p>
+                <div class="sample">
+                    &lt;title>赠嵩山&lt;person ref="lianshi_jiao" type="position+sname">焦炼师&lt;/person>, &lt;author ref="libai">李白&lt;/author>&lt;/title>
+                </div>
+                <h3>For Relationship Network</h3>
+                <p>
+                    Each person (authors and people mentioned) is given a unique id and we created a personography for each id which records their social background, sex, Chinese name, English name, hometown, living places and kinship relationship. 
+                    Each &lt;person> and &lt;author> tag within the text is given an attribute @ref, which equals to the person's unique id.
+                </p>
+                <div class="sample">
+                    &lt;person xml:id="lianshi_jiao" gender="m" backg="daoism"  chinese="焦炼师" living_place="[hendy]" eng="Jiao LIANSHI"/><br/>
+                    &lt;person xml:id="libai" gender="m" backg="poet"  chinese="李白" hometown="[lyd]" living_place="[jnd][jjd][jndd][jnxd][hendl][djd][sndd][hnd][hdd]" clan="longxi_li" eng="Li Bai"/>
+                </div>
+                <p>
+                    Then, each &lt;person> and &lt;author> tag will be transformed to gexf format, which is readable in Gephi. Through Gephi, we can draw relationship network reflected in early Tang poems.
+                    Authors will be source nodes in the network and people mentioned in titles will be target nodes. 
+                </p>
+                <div class="sample">
+                    &lt;gexf xmlns="http://www.gexf.net/1.2draft"><br/>
+                    &#160;&#160;&#160;&#160;&lt;meta><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;creator>Shaobai Xiong&lt;/creator><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;description>Relationship Network in Tang Poems-Sample&lt;/description><br/>
+                    &#160;&#160;&#160;&#160;&lt;/meta><br/>
+                    &#160;&#160;&#160;&#160;&lt;graph><br/>
+                     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attributes class="node"><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attribute id="gd" title="gender" type="string"/><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attribute id="bg" title="background" type="string"/><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attribute id="ht" title="hometown" type="string"/><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attribute id="lp" title="living place" type="string"/><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attribute id="rp" title="related place" type="stirng"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attributes><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;nodes><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;node id="lianshi_jiao" label="焦炼师"><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attvalues><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="gd" value="m"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="bg" value="daoism"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="ht" value=""/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="lp" value="[hendy]"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="rp" value=""/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/node><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;node id="libai" label="李白"><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;attvalues><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="gd" value="m"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="bg" value="poet"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="ht" value="[lyd]"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="lp" value="[jnd][jjd][jndd][jnxd][hendl][djd][sndd][hnd][hdd]"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues for="rp" value=""/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/attvalues><br/>
+                    &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/node><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/nodes><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;edges><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;edge id="#【libai】-1-【lianshi_jiao】" source="libai" target="lianshi_jiao"/><br/>
+                    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&lt;/edges><br/>
+                    &#160;&#160;&#160;&#160;&lt;/graph><br/>
+                    &lt;/gexf><br/>
+                </div>
+                <h3>
+                    For Name Analysis
+                </h3>
+                <p>
+                    People's names appeared in Tang poems differ according to their social background and degree of intimacy with the author. There are several combinations of different name components. We added a @type attribute to &lt;person> tag that indicates the type of 
+                    name combination, like position+sname that means a combination of position and surname.
+                </p>
+                <div class="sample">
+                    &lt;title>赠嵩山&lt;person ref="lianshi_jiao" type="position+sname">焦炼师&lt;/person>, &lt;author ref="libai">李白&lt;/author>&lt;/title>
+                </div>
+                <hr/>
+                <h3>
+                    For Geography Analysis
+                </h3>
+                <p>
+                    We used personography to store each person's information about hometown, living places and related places.
+                </p>
+                <p>
+                    The basic geography unit that we used is based on Jiancha Dao 监察道 in Tang dynasty which is usually simplified as Dao道. 
+                    In fact, Dao is not completely designed for administrative purpose like that of province. Each Dao is an assemblage of Zhou州 or Jun郡, but Dao
+                    doesn't have full authority over its subordinate Zhou or Jun. In spite of that, we still chose to use Dao as basic
+                    unit of geography. We have two reasons: First, there is no other system that is on the same level of Dao. The basic 
+                    administrative unit of Tang is Zhou, but there are hundreds of Zhou that is too trivial to use as our basic unit; Second,
+                    Dao is an embryonic form of later Sheng (Provinces) and it division is reasonable. It is said that the division considers
+                    natural geography and transportation. 
+                </p>
+                <p>
+                    We are not restricted by the division of Dao. We did a bit changes to it: First, since Hebei Dao was a extremly large area and most people from Hebei Dao 河北道 lived
+                    in its southern part within the great wall, we divided Hebei Dao into Outer Hebei Dao 河北道外 and Inner Hebei Dao 河北道内; Second, Henan Dao in Tang dynasty includes two future 
+                    provinces Henan Province 河南省 and Shandong Provinces 山东省. Because the two areas in fact have two different indigenous culture, we divided Henan Dao into Henan Dao (Yu) 河南道(豫), which refers to 
+                    the part that becomes Henan province in the future, and Henan (Lu) 河南(鲁), which is the part that becomes Shandong Province in the future; Third, we also included foreign geography units like Tibet 吐蕃 and Japan 日本.
+                </p>
+                <p>
+                    We typed each geography unit into personography with simplified version. We used [] to separate units.
+                    
+                </p>
+                <table border="1">
+                    <tr>
+                        <th>Simplified</th>
+                        <th>Complete</th>
+                    </tr>
+                    <tr>
+                        <td>[jjd]</td>
+                        <td>Jingji Dao 京畿道</td>
+                    </tr>
+                    <tr>
+                        <td>[tibet]</td>
+                        <td>Tibet 吐蕃</td>
+                    </tr>
+                    <tr>
+                        <td>[hendy]</td>
+                        <td>Henan Dao (Yu) 河南道(豫)</td>
+                    </tr>
+                    <tr>
+                        <td>[jnd]</td>
+                        <td>Jiannan Dao 剑南道</td>
+                    </tr>
+                    <tr>
+                        <td>[jndd]</td>
+                        <td>Jiangnan East Dao 江南东道</td>
+                    </tr>
+                    <tr>
+                        <td>[jnxd]</td>
+                        <td>Jiangnan West Dao 江南西道</td>
+                    </tr>
+                    <tr>
+                        <td>[hendl]</td>
+                        <td>Henan Dao (Lu) 河南道(鲁)</td>
+                    </tr>
+                    <tr>
+                        <td>[djd]</td>
+                        <td>Duji Dao 都畿道</td>
+                    </tr>
+                    <tr>
+                        <td>[sndd]</td>
+                        <td>Shannan East Dao 山南东道</td>
+                    </tr>
+                    <tr>
+                        <td>[hnd]</td>
+                        <td>Huainan Dao 淮南道</td>
+                    </tr>
+                    <tr>
+                        <td>[hdd]</td>
+                        <td>Hedong Dao 河东道</td>
+                    </tr>
+                    <tr>
+                        <td>[snxd]</td>
+                        <td>Shannan West Dao 山南西道</td>
+                    </tr>
+                    <tr>
+                        <td>[lyd]</td>
+                        <td>Longyou Dao 陇右道</td>
+                    </tr>
+                    <tr>
+                        <td>[lnd]</td>
+                        <td>Lingnan Dao 岭南道</td>
+                    </tr>
+                    <tr>
+                        <td>[hbdn]</td>
+                        <td>Inner Hebei Dao 河北道内</td>
+                    </tr>
+                    <tr>
+                        <td>[qzd]</td>
+                        <td>Qianzhong Dao 黔中道</td>
+                    </tr>
+                    <tr>
+                        <td>[hbdw]</td>
+                        <td>Outer Hebei Dao 河北道外</td>
+                    </tr>
+                    <tr>
+                        <td>[gnd]</td>
+                        <td>Guannei Dao 关内道</td>
+                    </tr>
+                    <tr>
+                        <td>[japan]</td>
+                        <td>Japan 日本</td>
+                    </tr>
+                </table>
+                    <p>
+                        We got the data from biography of each person online. Thus, we don't promise the accuracy of all of the data. However, since most of these online data
+                    were copied from official history records, most of them are credible.
+                    </p>
+                <p>
+                    Living places are places that the person had been in for more than several months, usually places that he worked. Related places are places that are mentioned
+                    in titles of poems but there is no evidence in his biography to prove that the person indeed stayed there for a long time. For example, there is a title called "A send-off for Buque Du and Shiyu Fan in Yaoci Pavilion, Lu County, in Fall 秋日鲁郡尧祠亭上宴别杜补阙、范侍御."
+                    From the title, we could assume that Buque Du and Shiyu Fan had once been to Lu County. However, their titles Buque and Shiyu shows that they were court officials. There is no evidence that they have been in Lu County for a long time.
+                    Thus, Henan Dao (Lu), the region that Lu County belongs to, is the related place of Buque Du and Shiyu Fan.
+                </p>
+                <hr/>
+                <h3>For Social Class Analysis</h3>
+                <p>
+                    Social Class were divided into eleven types: court official, provincial official, royal family, Buddhism (including laypeople), Daoism, yinshi, 
+                    unclear, common, military, local official and poet. <br/>
+                </p>
+                <h4>Standard of Social Class Identification</h4>
+                <p>
+                    For those we have biography, we follow biography. For those who don't have biography, we identify their social class by their titles. For those
+                    who have neither biography nor title, we identify them as unclear.
+                </p>
+                <hr/>
+            </div>
+        </div>
+    </body>
+</html>

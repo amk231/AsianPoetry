@@ -1,0 +1,67 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Relationship Network of Tang Dynasty</title>
+        <script type="text/javascript" src="http://www.shi-waka.obdurodon.org/js/leaflet.js"/>
+        <link rel="stylesheet" href="http://www.shi-waka.obdurodon.org/css/leaflet.css"/>
+        <link rel="stylesheet" href="http://www.shi-waka.obdurodon.org/css/network-display_tang.css"/>
+        <style type="text/css">
+        #map {
+            width: 100%;
+            height: 800px;
+            text-align: center;
+            }
+            #map2 {
+            width: 100%;
+            height: 800px;
+            text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div id='map'>
+            
+        </div>
+        <div id='map3' style="display:none;">
+           
+        </div>
+        <div id='map2' style="display:none;">
+            
+        </div>
+        <div id="buttons">
+            <div id="button2" class="button" onclick="document.getElementById('map').style.display='block';document.getElementById('map2').style.display='none';document.getElementById('map3').style.display='none'">General Network</div>
+            <div id="button3" class="button" onclick="document.getElementById('map2').style.display='block';document.getElementById('map').style.display='none';document.getElementById('map3').style.display='none'">Religion</div>
+            <div id="button4" class="button" onclick="document.getElementById('map3').style.display='block';document.getElementById('map').style.display='none';document.getElementById('map2').style.display='none'">General Larger Scale</div>
+        </div>
+        <script>
+        var map = L.map('map', {
+        crs: L.CRS.Simple
+        });
+        
+        var bounds = [[0,0], [1000,1000]];
+        var image = L.imageOverlay('http://www.shi-waka.obdurodon.org/images/svg/relationship_tang.svg', bounds).addTo(map);
+        
+        map.fitBounds(bounds);
+        </script>
+        
+        <script>
+        var map = L.map('map2', {
+        crs: L.CRS.Simple
+        });
+        
+        var bounds = [[0,0], [1000,1000]];
+        var image = L.imageOverlay('http://www.shi-waka.obdurodon.org/images/svg/relationship-religion.svg', bounds).addTo(map);
+        
+        map.fitBounds(bounds);
+        </script>
+        <script>
+        var map = L.map('map3', {
+        crs: L.CRS.Simple
+        });
+        
+        var bounds = [[0,0], [1000,1000]];
+        var image = L.imageOverlay('http://www.shi-waka.obdurodon.org/images/svg/relationship-network(scale2m).svg', bounds).addTo(map);
+        
+        map.fitBounds(bounds);
+        </script>
+    </body>
+</html>

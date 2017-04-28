@@ -1,0 +1,268 @@
+<svg width="2200" height="700" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="2202" height="702" id="canvas_background" fill="#fff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_771">
+   <g id="svg_541">
+    <line x1="104.829269" x2="104.829269" y1="108.108951" y2="88.108951" stroke="black" id="svg_542"/>
+    <line x1="104.829269" x2="104.829269" y1="608.108951" y2="108.108951" stroke="black" id="svg_543"/>
+    <line x1="104.829269" x2="2604.829269" y1="608.108951" y2="608.108951" stroke="black" id="svg_544"/>
+    <line x1="104.829269" x2="2604.829269" y1="358.108951" y2="358.108951" stroke="black" stroke-dasharray="10,10" id="svg_545"/>
+    <text x="84.829269" y="108.108951" text-anchor="end" id="svg_546">50%</text>
+    <text x="84.829269" y="358.108951" text-anchor="end" id="svg_547">25%</text>
+    <text x="84.829269" y="483.108951" text-anchor="end" id="svg_548">12.5%</text>
+    <line x1="104.829269" x2="2604.829269" y1="483.108951" y2="483.108951" stroke="black" stroke-dasharray="10,10" id="svg_549"/>
+    <line x1="104.829269" x2="2604.829269" y1="108.108951" y2="108.108951" stroke="black" stroke-dasharray="10,10" id="svg_550"/>
+    <rect x="134.829269" y="197.394665" fill="#FC0D1B" width="30" height="410.714286" id="svg_551"/>
+    <text x="149.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_552">CRT</text>
+    <text x="149.829269" y="187.394665" text-anchor="middle" id="svg_553">41.1%</text>
+    <text x="149.829269" y="167.394665" text-anchor="middle" id="svg_554">115</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_555">COURT OFFICIAL</text>
+    <rect x="174.829269" y="433.108951" fill="#1CBD20" width="30" height="175" id="svg_556"/>
+    <text x="189.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_557">PRV</text>
+    <text x="189.829269" y="423.108951" text-anchor="middle" id="svg_558">17.5%</text>
+    <text x="189.829269" y="403.108951" text-anchor="middle" id="svg_559">49</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_560">COURT OFFICIAL</text>
+    <rect x="214.829269" y="543.823237" fill="#FDCC3A" width="30" height="64.285714" id="svg_561"/>
+    <text x="229.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_562">RY</text>
+    <text x="229.829269" y="533.823237" text-anchor="middle" id="svg_563">6.4%</text>
+    <text x="229.829269" y="513.823237" text-anchor="middle" id="svg_564">18</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_565">COURT OFFICIAL</text>
+    <rect x="254.829269" y="540.251808" fill="#FC6621" width="30" height="67.857143" id="svg_566"/>
+    <text x="269.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_567">BUD</text>
+    <text x="269.829269" y="530.251808" text-anchor="middle" id="svg_568">6.8%</text>
+    <text x="269.829269" y="510.251808" text-anchor="middle" id="svg_569">19</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_570">COURT OFFICIAL</text>
+    <rect x="294.829269" y="575.966094" fill="#7F0F7E" width="30" height="32.142857" id="svg_571"/>
+    <text x="309.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_572">DAO</text>
+    <text x="309.829269" y="565.966094" text-anchor="middle" id="svg_573">3.2%</text>
+    <text x="309.829269" y="545.966094" text-anchor="middle" id="svg_574">9</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_575">COURT OFFICIAL</text>
+    <rect x="334.829269" y="593.823237" fill="#11807F" width="30" height="14.285714" id="svg_576"/>
+    <text x="349.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_577">YS</text>
+    <text x="349.829269" y="583.823237" text-anchor="middle" id="svg_578">1.4%</text>
+    <text x="349.829269" y="563.823237" text-anchor="middle" id="svg_579">4</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_580">COURT OFFICIAL</text>
+    <rect x="374.829269" y="475.966094" fill="#B2B2B2" width="30" height="132.142857" id="svg_581"/>
+    <text x="389.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_582">UC</text>
+    <text x="389.829269" y="465.966094" text-anchor="middle" id="svg_583">13.2%</text>
+    <text x="389.829269" y="445.966094" text-anchor="middle" id="svg_584">37</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_585">COURT OFFICIAL</text>
+    <rect x="414.829269" y="579.537523" fill="#241C1C" width="30" height="28.571429" id="svg_586"/>
+    <text x="429.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_587">COM</text>
+    <text x="429.829269" y="569.537523" text-anchor="middle" id="svg_588">2.9%</text>
+    <text x="429.829269" y="549.537523" text-anchor="middle" id="svg_589">8</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_590">COURT OFFICIAL</text>
+    <rect x="454.829269" y="550.966094" fill="#87824A" width="30" height="57.142857" id="svg_591"/>
+    <text x="469.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_592">MILI</text>
+    <text x="469.829269" y="540.966094" text-anchor="middle" id="svg_593">5.7%</text>
+    <text x="469.829269" y="520.966094" text-anchor="middle" id="svg_594">16</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_595">COURT OFFICIAL</text>
+    <rect x="494.829269" y="604.537523" fill="#FD70FC" width="30" height="3.571429" id="svg_596"/>
+    <text x="509.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_597">POET</text>
+    <text x="509.829269" y="594.537523" text-anchor="middle" id="svg_598">.4%</text>
+    <text x="509.829269" y="574.537523" text-anchor="middle" id="svg_599">1</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_600">COURT OFFICIAL</text>
+    <rect x="534.829269" y="593.823237" fill="#B7C5EE" width="30" height="14.285714" id="svg_601"/>
+    <text x="549.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_602">LC</text>
+    <text x="549.829269" y="583.823237" text-anchor="middle" id="svg_603">1.4%</text>
+    <text x="549.829269" y="563.823237" text-anchor="middle" id="svg_604">4</text>
+    <text x="334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_605">COURT OFFICIAL</text>
+    <rect x="634.829269" y="284.437454" fill="#FC0D1B" width="30" height="323.671498" id="svg_606"/>
+    <text x="649.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_607">CRT</text>
+    <text x="649.829269" y="274.437454" text-anchor="middle" id="svg_608">32.4%</text>
+    <text x="649.829269" y="254.437454" text-anchor="middle" id="svg_609">67</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_610">PROVINCIAL OFFICIAL</text>
+    <rect x="674.829269" y="347.239386" fill="#1CBD20" width="30" height="260.869565" id="svg_611"/>
+    <text x="689.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_612">PRV</text>
+    <text x="689.829269" y="337.239386" text-anchor="middle" id="svg_613">26.1%</text>
+    <text x="689.829269" y="317.239386" text-anchor="middle" id="svg_614">54</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_615">PROVINCIAL OFFICIAL</text>
+    <rect x="714.829269" y="574.292526" fill="#FDCC3A" width="30" height="33.816425" id="svg_616"/>
+    <text x="729.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_617">RY</text>
+    <text x="729.829269" y="564.292526" text-anchor="middle" id="svg_618">3.4%</text>
+    <text x="729.829269" y="544.292526" text-anchor="middle" id="svg_619">7</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_620">PROVINCIAL OFFICIAL</text>
+    <rect x="754.829269" y="569.461608" fill="#FC6621" width="30" height="38.647343" id="svg_621"/>
+    <text x="769.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_622">BUD</text>
+    <text x="769.829269" y="559.461608" text-anchor="middle" id="svg_623">3.9%</text>
+    <text x="769.829269" y="539.461608" text-anchor="middle" id="svg_624">8</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_625">PROVINCIAL OFFICIAL</text>
+    <rect x="794.829269" y="550.137937" fill="#7F0F7E" width="30" height="57.971014" id="svg_626"/>
+    <text x="809.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_627">DAO</text>
+    <text x="809.829269" y="540.137937" text-anchor="middle" id="svg_628">5.8%</text>
+    <text x="809.829269" y="520.137937" text-anchor="middle" id="svg_629">12</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_630">PROVINCIAL OFFICIAL</text>
+    <rect x="834.829269" y="545.307019" fill="#11807F" width="30" height="62.801932" id="svg_631"/>
+    <text x="849.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_632">YS</text>
+    <text x="849.829269" y="535.307019" text-anchor="middle" id="svg_633">6.3%</text>
+    <text x="849.829269" y="515.307019" text-anchor="middle" id="svg_634">13</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_635">PROVINCIAL OFFICIAL</text>
+    <rect x="874.829269" y="448.688661" fill="#B2B2B2" width="30" height="159.42029" id="svg_636"/>
+    <text x="889.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_637">UC</text>
+    <text x="889.829269" y="438.688661" text-anchor="middle" id="svg_638">15.9%</text>
+    <text x="889.829269" y="418.688661" text-anchor="middle" id="svg_639">33</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_640">PROVINCIAL OFFICIAL</text>
+    <rect x="914.829269" y="579.123444" fill="#241C1C" width="30" height="28.985507" id="svg_641"/>
+    <text x="929.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_642">COM</text>
+    <text x="929.829269" y="569.123444" text-anchor="middle" id="svg_643">2.9%</text>
+    <text x="929.829269" y="549.123444" text-anchor="middle" id="svg_644">6</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_645">PROVINCIAL OFFICIAL</text>
+    <rect x="954.829269" y="579.123444" fill="#87824A" width="30" height="28.985507" id="svg_646"/>
+    <text x="969.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_647">MILI</text>
+    <text x="969.829269" y="569.123444" text-anchor="middle" id="svg_648">2.9%</text>
+    <text x="969.829269" y="549.123444" text-anchor="middle" id="svg_649">6</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_650">PROVINCIAL OFFICIAL</text>
+    <rect x="994.829269" y="603.278033" fill="#FD70FC" width="30" height="4.830918" id="svg_651"/>
+    <text x="1009.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_652">POET</text>
+    <text x="1009.829269" y="593.278033" text-anchor="middle" id="svg_653">.5%</text>
+    <text x="1009.829269" y="573.278033" text-anchor="middle" id="svg_654">1</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_655">PROVINCIAL OFFICIAL</text>
+    <rect x="1034.829269" y="608.108951" fill="#B7C5EE" width="30" height="0" id="svg_656"/>
+    <text x="1049.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_657">LC</text>
+    <text x="1049.829269" y="598.108951" text-anchor="middle" id="svg_658">%</text>
+    <text x="1049.829269" y="578.108951" text-anchor="middle" id="svg_659">0</text>
+    <text x="834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_660">PROVINCIAL OFFICIAL</text>
+    <rect x="1134.829269" y="438.518308" fill="#FC0D1B" width="30" height="169.590643" id="svg_661"/>
+    <text x="1149.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_662">CRT</text>
+    <text x="1149.829269" y="428.518308" text-anchor="middle" id="svg_663">17%</text>
+    <text x="1149.829269" y="408.518308" text-anchor="middle" id="svg_664">29</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_665">POET</text>
+    <rect x="1174.829269" y="362.494916" fill="#1CBD20" width="30" height="245.614035" id="svg_666"/>
+    <text x="1189.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_667">PRV</text>
+    <text x="1189.829269" y="352.494916" text-anchor="middle" id="svg_668">24.6%</text>
+    <text x="1189.829269" y="332.494916" text-anchor="middle" id="svg_669">42</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_670">POET</text>
+    <rect x="1214.829269" y="608.108951" fill="#FDCC3A" width="30" height="0" id="svg_671"/>
+    <text x="1229.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_672">RY</text>
+    <text x="1229.829269" y="598.108951" text-anchor="middle" id="svg_673">%</text>
+    <text x="1229.829269" y="578.108951" text-anchor="middle" id="svg_674">0</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_675">POET</text>
+    <rect x="1254.829269" y="567.173279" fill="#FC6621" width="30" height="40.935673" id="svg_676"/>
+    <text x="1269.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_677">BUD</text>
+    <text x="1269.829269" y="557.173279" text-anchor="middle" id="svg_678">4.1%</text>
+    <text x="1269.829269" y="537.173279" text-anchor="middle" id="svg_679">7</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_680">POET</text>
+    <rect x="1294.829269" y="555.477372" fill="#7F0F7E" width="30" height="52.631579" id="svg_681"/>
+    <text x="1309.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_682">DAO</text>
+    <text x="1309.829269" y="545.477372" text-anchor="middle" id="svg_683">5.3%</text>
+    <text x="1309.829269" y="525.477372" text-anchor="middle" id="svg_684">9</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_685">POET</text>
+    <rect x="1334.829269" y="532.085559" fill="#11807F" width="30" height="76.023392" id="svg_686"/>
+    <text x="1349.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_687">YS</text>
+    <text x="1349.829269" y="522.085559" text-anchor="middle" id="svg_688">7.6%</text>
+    <text x="1349.829269" y="502.085559" text-anchor="middle" id="svg_689">13</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_690">POET</text>
+    <rect x="1374.829269" y="362.494916" fill="#B2B2B2" width="30" height="245.614035" id="svg_691"/>
+    <text x="1389.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_692">UC</text>
+    <text x="1389.829269" y="352.494916" text-anchor="middle" id="svg_693">24.6%</text>
+    <text x="1389.829269" y="332.494916" text-anchor="middle" id="svg_694">42</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_695">POET</text>
+    <rect x="1414.829269" y="496.99784" fill="#241C1C" width="30" height="111.111111" id="svg_696"/>
+    <text x="1429.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_697">COM</text>
+    <text x="1429.829269" y="486.99784" text-anchor="middle" id="svg_698">11.1%</text>
+    <text x="1429.829269" y="466.99784" text-anchor="middle" id="svg_699">19</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_700">POET</text>
+    <rect x="1454.829269" y="555.477372" width="30" height="52.631579" id="svg_701"/>
+    <text x="1469.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_702"/>
+    <text x="1469.829269" y="545.477372" text-anchor="middle" id="svg_703">5.3%</text>
+    <text x="1469.829269" y="525.477372" text-anchor="middle" id="svg_704">9</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_705">POET</text>
+    <rect x="1494.829269" y="608.108951" fill="#FD70FC" width="30" height="0" id="svg_706"/>
+    <text x="1509.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_707">POET</text>
+    <text x="1509.829269" y="598.108951" text-anchor="middle" id="svg_708">%</text>
+    <text x="1509.829269" y="578.108951" text-anchor="middle" id="svg_709">0</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_710">POET</text>
+    <rect x="1534.829269" y="602.260998" fill="#B7C5EE" width="30" height="5.847953" id="svg_711"/>
+    <text x="1549.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_712">LC</text>
+    <text x="1549.829269" y="592.260998" text-anchor="middle" id="svg_713">.6%</text>
+    <text x="1549.829269" y="572.260998" text-anchor="middle" id="svg_714">1</text>
+    <text x="1334.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_715">POET</text>
+    <rect x="1634.829269" y="108.108951" fill="#FC0D1B" width="30" height="500" id="svg_716"/>
+    <text x="1649.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_717">CRT</text>
+    <text x="1649.829269" y="98.108951" text-anchor="middle" id="svg_718">50%</text>
+    <text x="1649.829269" y="78.108951" text-anchor="middle" id="svg_719">9</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_720">ROYAL FAMILY</text>
+    <rect x="1674.829269" y="608.108951" fill="#1CBD20" width="30" height="0" id="svg_721"/>
+    <text x="1689.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_722">PRV</text>
+    <text x="1689.829269" y="598.108951" text-anchor="middle" id="svg_723">%</text>
+    <text x="1689.829269" y="578.108951" text-anchor="middle" id="svg_724">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_725">ROYAL FAMILY</text>
+    <rect x="1714.829269" y="441.442284" fill="#FDCC3A" width="30" height="166.666667" id="svg_726"/>
+    <text x="1729.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_727">RY</text>
+    <text x="1729.829269" y="431.442284" text-anchor="middle" id="svg_728">16.7%</text>
+    <text x="1729.829269" y="411.442284" text-anchor="middle" id="svg_729">3</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_730">ROYAL FAMILY</text>
+    <rect x="1754.829269" y="552.553396" fill="#FC6621" width="30" height="55.555556" id="svg_731"/>
+    <text x="1769.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_732">BUD</text>
+    <text x="1769.829269" y="542.553396" text-anchor="middle" id="svg_733">5.6%</text>
+    <text x="1769.829269" y="522.553396" text-anchor="middle" id="svg_734">1</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_735">ROYAL FAMILY</text>
+    <rect x="1794.829269" y="385.886729" fill="#7F0F7E" width="30" height="222.222222" id="svg_736"/>
+    <text x="1809.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_737">DAO</text>
+    <text x="1809.829269" y="375.886729" text-anchor="middle" id="svg_738">22.2%</text>
+    <text x="1809.829269" y="355.886729" text-anchor="middle" id="svg_739">4</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_740">ROYAL FAMILY</text>
+    <rect x="1834.829269" y="608.108951" fill="#11807F" width="30" height="0" id="svg_741"/>
+    <text x="1849.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_742">YS</text>
+    <text x="1849.829269" y="598.108951" text-anchor="middle" id="svg_743">%</text>
+    <text x="1849.829269" y="578.108951" text-anchor="middle" id="svg_744">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_745">ROYAL FAMILY</text>
+    <rect x="1874.829269" y="552.553396" fill="#B2B2B2" width="30" height="55.555556" id="svg_746"/>
+    <text x="1889.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_747">UC</text>
+    <text x="1889.829269" y="542.553396" text-anchor="middle" id="svg_748">5.6%</text>
+    <text x="1889.829269" y="522.553396" text-anchor="middle" id="svg_749">1</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_750">ROYAL FAMILY</text>
+    <rect x="1914.829269" y="608.108951" fill="#241C1C" width="30" height="0" id="svg_751"/>
+    <text x="1929.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_752">COM</text>
+    <text x="1929.829269" y="598.108951" text-anchor="middle" id="svg_753">%</text>
+    <text x="1929.829269" y="578.108951" text-anchor="middle" id="svg_754">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_755">ROYAL FAMILY</text>
+    <rect x="1954.829269" y="608.108951" fill="#87824A" width="30" height="0" id="svg_756"/>
+    <text x="1969.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_757">MILI</text>
+    <text x="1969.829269" y="598.108951" text-anchor="middle" id="svg_758">%</text>
+    <text x="1969.829269" y="578.108951" text-anchor="middle" id="svg_759">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_760">ROYAL FAMILY</text>
+    <rect x="1994.829269" y="608.108951" fill="#FD70FC" width="30" height="0" id="svg_761"/>
+    <text x="2009.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_762">POET</text>
+    <text x="2009.829269" y="598.108951" text-anchor="middle" id="svg_763">%</text>
+    <text x="2009.829269" y="578.108951" text-anchor="middle" id="svg_764">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_765">ROYAL FAMILY</text>
+    <rect x="2034.829269" y="608.108951" fill="#B7C5EE" width="30" height="0" id="svg_766"/>
+    <text x="2049.829269" y="628.108951" text-anchor="middle" font-size="10pt" id="svg_767">LC</text>
+    <text x="2049.829269" y="598.108951" text-anchor="middle" id="svg_768">%</text>
+    <text x="2049.829269" y="578.108951" text-anchor="middle" id="svg_769">0</text>
+    <text x="1834.829269" y="658.108951" text-anchor="middle" font-size="15pt" id="svg_770">ROYAL FAMILY</text>
+   </g>
+   <rect id="svg_1" height="20" width="20" y="120" x="1923.997477" stroke-width="1.5" fill="#FC0D1B"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_2" y="135.90026" x="1959.99743" stroke-width="0" fill="#000000">COURT OFFICIAL</text>
+   <rect id="svg_3" height="20" width="20" y="160" x="1924" stroke-width="1.5" fill="#1CBD20"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_4" y="176" x="1958.000003" stroke-width="0" fill="#000000">PROVINCIAL OFFICIAL</text>
+   <rect id="svg_6" height="20" width="20" y="200" x="1924" stroke-width="1.5" fill="#FDCC3A"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_7" y="215.900155" x="1960" stroke-width="0" fill="#000000">ROYAL FAMILY</text>
+   <rect id="svg_8" height="20" width="20" y="240" x="1924" stroke-width="1.5" fill="#FC6621"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_9" y="256" x="1960" stroke-width="0" fill="#000000">BUDDHISM</text>
+   <rect id="svg_10" height="20" width="20" y="280" x="1924" stroke-width="1.5" fill="#7F0F7E"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_11" y="296" x="1960" stroke-width="0" fill="#000000">DAOISM</text>
+   <rect id="svg_12" height="20" width="20" y="320" x="1924" stroke-width="1.5" fill="#11807F"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_13" y="336" x="1960" stroke-width="0" fill="#000000">YINSHI (RECLUSE)</text>
+   <rect id="svg_14" height="20" width="19.999974" y="360" x="1924" stroke-width="1.5" fill="#B2B2B2"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_15" y="376" x="1960" stroke-width="0" fill="#000000">UNCLEAR</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_18" y="369.899953" x="2037.997328" stroke-width="0" fill="#000000"/>
+   <rect id="svg_21" height="20" width="20" y="400" x="1924" stroke-width="1.5" fill="#241C1C"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_22" y="416" x="1960" stroke-width="0" fill="#000000">COMMON PEOPLE</text>
+   <rect id="svg_23" height="20" width="20" y="441.899623" x="1924" stroke-width="1.5" fill="#87824A"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_24" y="456" x="1960" stroke-width="0" fill="#000000">MILITARY</text>
+   <rect id="svg_25" height="20" width="20" y="479.899809" x="1924" stroke-width="1.5" fill="#FD70FC"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_26" y="496" x="1960" stroke-width="0" fill="#000000">POET</text>
+   <rect id="svg_27" height="20" width="20" y="521.999762" x="1924" stroke-width="1.5" fill="#B7C5EE"/>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_28" y="536" x="1960" stroke-width="0" fill="#000000">LOCAL OFFICIAL</text>
+   <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="30" id="svg_29" y="100" x="1924" stroke-width="0" fill="#000000">LEGEND</text>
+  </g>
+ </g>
+</svg>

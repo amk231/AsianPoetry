@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="5564.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2832.000000 -2709.000000 5564.000000 5687.000000" height="5687.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+        <g id="edges" transform="scale(0.5)">
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1143.558105,-1376.853027 -1535.489502,-964.414307 -1803.612793,-957.578552"
+              class="libai lianshi_jiao" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2654.480957,-1221.498779 2676.511230,-1158.242188 2662.769043,-1129.813232"
+              class="chuguangxi chushi_yan" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 497.633514,1613.898193 C 483.753662,1622.541992 449.968079,1614.688110 441.324188,1600.808228"
+              class="qiwuqian zunshi_fang" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2594.524414,-1221.361572 2526.413086,-1247.834351 2512.533691,-1279.362427"
+              class="chuguangxi chushi_yu" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -329.240570,2853.150879 C -342.519226,2836.361328 -337.252899,2791.259033 -320.463318,2777.980225"
+              class="menghaoran xin1" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1190.707031,-1628.314453 -1276.169434,-1663.791504 -1292.831299,-1704.104736"
+              class="libai pei18" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2247.058350,1416.652466 2157.520752,1335.242188 2154.811523,1278.259521"
+              class="liuchangqing fashi_hui" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1190.124390,-2640.187256 C 1194.964600,-2614.250977 1163.320190,-2568.085938 1137.383789,-2563.245850"
+              class="lilongji zhenshi_hu" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 344.181030,894.102173 C 346.195160,883.043091 365.804932,869.475708 376.863983,871.489868"
+              class="maomingsu fashi_lin" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2605.584717,-1205.754761 2530.653809,-1192.226929 2501.167725,-1212.694580"
+              class="chuguangxi shanren_xu" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2641.662598,-1204.636719 2619.171631,-1135.314941 2588.567627,-1119.704590"
+              class="chuguangxi sheren_ma" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2607.523193,-700.459961 -2765.521973,-691.581848 -2821.147705,-741.288757"
+              class="wangwei peidi" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2580.496094,-696.026428 -2704.604004,-639.957031 -2764.663086,-662.636536"
+              class="wangwei yiren_lv" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2525.675293,-772.917114 -2452.216553,-749.953064 -2435.385010,-717.812073"
+              class="wangwei shangren_wengu" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2561.505615,-789.207764 -2517.356201,-844.424988 -2484.233887,-848.114197"
+              class="wangwei wangjin" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -322.045807,2886.960938 -361.968689,2948.468018 -395.778687,2955.662842"
+              class="menghaoran fashi_bianyu" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2269.132080,1436.607422 2182.771973,1418.240234 2160.107666,1383.331177"
+              class="liuchangqing shangren_lingyi" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -339.091705,2809.653809 -288.623077,2729.631836 -245.126190,2719.780762"
+              class="menghaoran wangjiong" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -303.829376,2822.546387 -219.805588,2814.756104 -189.200928,2840.167236"
+              class="menghaoran jiuchanshi" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1196.322754,-1650.086182 -1257.551270,-1726.644531 -1252.441406,-1772.573486"
+              class="libai shanren_husi" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1095.263794,-1638.445679 -1022.364624,-1545.954834 -1028.895264,-1490.824829"
+              class="libai daoshi_in_daitianshan" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2330.128418,1451.922607 2312.290527,1548.022583 2274.311035,1574.109863"
+              class="liuchangqing chushi_wang" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2595.282471,-1242.463745 2559.961670,-1299.452515 2567.184570,-1330.222412"
+              class="chuguangxi shanren_cui1" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1143.857422,-1603.166748 -1196.766968,-1530.647827 -1238.576538,-1524.111450"
+              class="libai chanshi_tong" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1190.124390,-2640.187256 C 1167.564697,-2640.978516 1134.912109,-2676.004883 1135.703491,-2698.564697"
+              class="lilongji libaopu" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1190.124390,-2640.187256 C 1237.179932,-2651.519043 1324.760864,-2597.933838 1336.092773,-2550.878418"
+              class="lilongji simachengzhen" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 497.633514,1613.898193 C 499.253937,1597.838989 525.773315,1576.180908 541.832458,1577.801392"
+              class="qiwuqian shangren_rong" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -369.382813,2833.791260 -400.556824,2744.538818 -381.197296,2704.396484"
+              class="menghaoran yuan_gong" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -320.058624,2811.918701 -244.437164,2763.843018 -203.204819,2773.024902"
+              class="menghaoran zhangcanluan" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1107.823364,-1623.863647 -1075.636963,-1528.338989 -1096.749634,-1485.768555"
+              class="libai monk_donglinsi" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1021.443054,1474.179077 C -1037.228882,1470.678589 -1055.656982,1441.749268 -1052.156494,1425.963379"
+              class="zhangzirong shijun_cui" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1021.443054,1474.179077 C -1009.270325,1463.164917 -974.490112,1464.902832 -963.475952,1477.075439"
+              class="zhangzirong daoshi_shao" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1683.843384,-477.014008 -1853.192017,-795.100220 -1803.612793,-957.578552"
+              class="wangchangling lianshi_jiao" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2252.388916,1391.604736 2208.418945,1280.618774 2230.757568,1228.966797"
+              class="liuchangqing chanshi_bore" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2327.454590,1376.911621 2418.122314,1356.484497 2455.154053,1379.898193"
+              class="liuchangqing shanren_zheng" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2542.396484,-720.280029 -2572.974854,-643.441895 -2608.780518,-628.021973"
+              class="wangwei monk_fushan" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2821.147705,-741.288757 C -2804.213623,-757.221069 -2754.913818,-755.718201 -2738.981689,-738.784058"
+              class="peidi chanshi_cao" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1513.451050,-399.085022 -1544.104980,-344.689575 -1572.454712,-336.775726"
+              class="wangchangling fashi_jing" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1988.456787,1906.401123 C -1988.002686,1884.107178 -1953.880493,1851.347168 -1931.586548,1851.801270"
+              class="liqiao hongjing" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1988.456787,1906.401123 C -1969.242554,1902.574341 -1934.680786,1925.655762 -1930.854004,1944.869995"
+              class="liqiao daojun" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1988.456787,1906.401123 C -2007.500244,1901.832031 -2029.211792,1866.413086 -2024.642700,1847.369629"
+              class="liqiao xuanzang" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 802.562439,538.690552 C 802.230347,527.456726 818.582886,510.107727 829.816711,509.775635"
+              class="wangji chushi_cheng" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -310.894592,1076.526978 C -299.777710,1074.792480 -280.500763,1088.866211 -278.766327,1099.983032"
+              class="songzhiwen chanshi_neng" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -1150.393799,-1644.976318 C -1162.640137,-1668.176025 -1146.209839,-1721.344849 -1123.010132,-1733.591187"
+              class="libai yuandanqiu" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2291.837402,1369.599365 2340.048096,1284.778198 2384.391846,1272.574707"
+              class="liuchangqing lingche_shangren" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2623.168701,-1199.542969 2565.296143,-1150.321045 2529.598145,-1153.204590"
+              class="chuguangxi chushi_li" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1036.176270,-19.334023 C 1025.026123,-20.797487 1010.496033,-39.717930 1011.959534,-50.868088"
+              class="lizhi fashi_zang" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -371.446381,2852.841064 -434.290649,2789.068115 -433.981018,2746.862305"
+              class="menghaoran taiyizi" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2346.837402,1415.116577 2409.271973,1481.071289 2408.098633,1523.867676"
+              class="liuchangqing chushi_xun" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1668.975220,-432.979553 C 1678.346313,-419.696411 1672.478394,-385.714935 1659.195190,-376.343781"
+              class="chenziang tianyouyan" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1103.902710,-1684.020874 -975.599243,-1672.851074 -936.554688,-1626.359985"
+              class="libai fangshi_zhao" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2590.589355,-716.392212 -2699.288330,-706.011353 -2738.981689,-738.784058"
+              class="wangwei chanshi_cao" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1192.621582,-1670.151367 -1218.200684,-1771.255859 -1193.025635,-1813.483643"
+              class="libai zhongrui" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2447.274170,-947.224854 -1994.752075,-1068.120728 -1803.612793,-957.578552"
+              class="wangwei lianshi_jiao" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1122.159912,-1697.731201 -1000.676575,-1734.512451 -947.921753,-1706.278564"
+              class="libai master_qingxi" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1171.989380,-1609.238892 -1257.988892,-1588.026367 -1293.726318,-1609.621948"
+              class="libai chushi_ge" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1313.716309,-2471.619873 C 1302.339966,-2491.947021 1315.765747,-2539.501953 1336.092773,-2550.878418"
+              class="cuishi simachengzhen" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1494.922607,-408.875427 -1483.098267,-341.372925 -1501.657593,-314.930634"
+              class="wangchangling shangren_zhen" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1181.953369,-1687.006348 -1166.247803,-1797.390747 -1124.217773,-1828.950317"
+              class="libai shanren_yang" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1439.745605,-2472.142822 C 1403.267944,-2467.159424 1341.076294,-2514.400879 1336.092773,-2550.878418"
+              class="zhangyue simachengzhen" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1488.068237,-428.031677 -1437.227661,-378.981781 -1436.630859,-345.684998"
+              class="wangchangling mingfu_xue" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1491.316284,-446.677338 -1417.379639,-430.468262 -1398.137085,-400.419678"
+              class="wangchangling shangren_cong" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2587.681885,-775.927185 -2602.718018,-850.487976 -2582.876465,-880.353638"
+              class="wangwei chanshi_chengru" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2524.698486,-721.816284 -2526.425293,-620.735413 -2560.694580,-587.617371"
+              class="wangwei jushi_xiao" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1382.261475,-137.539383 C -1355.857666,-121.581451 -1340.188843,-58.038895 -1356.146851,-31.635118"
+              class="changjian tianshi_zhang" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2050.251709,-987.269043 C -2068.999756,-1004.872437 -2070.717041,-1059.399658 -2053.113525,-1078.147827"
+              class="liqi yiren_lu" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2341.502441,1393.204834 2428.802246,1418.289429 2449.540527,1455.750732"
+              class="liuchangqing chushi_cui" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 426.918640,94.181427 C 431.446777,104.472382 422.802582,126.701050 412.511627,131.229202"
+              class="xueyao daoshi" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2262.665039,1409.816162 2206.791992,1341.562012 2210.918945,1300.186157"
+              class="liuchangqing lingyou_heshang" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -348.236206,2884.861816 -424.295929,2903.934570 -456.006775,2884.938965"
+              class="menghaoran yeren_zhang" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1439.745605,-2472.142822 C 1461.010010,-2464.427734 1481.334229,-2420.958496 1473.619141,-2399.694092"
+              class="zhangyue liuxi" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2821.147705,-741.288757 C -2824.917725,-768.014954 -2790.483398,-813.759216 -2763.757324,-817.529236"
+              class="peidi shangren_tanxing" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2517.901611,-737.706055 -2485.598389,-650.264465 -2503.978027,-610.349548"
+              class="wangwei chanshi_fu" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2268.264160,1457.376953 2149.447998,1468.862061 2106.014404,1433.085083"
+              class="liuchangqing shangren_shaowei" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -294.082062,2841.704834 -224.175461,2877.273926 -212.729553,2912.432373"
+              class="menghaoran yanfang" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -63.427734,551.638611 C -64.766251,562.805603 -83.524551,577.548340 -94.691559,576.209839"
+              class="qiuwei yingshi_xishan" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1668.975220,-432.979553 C 1652.659790,-433.878967 1629.535889,-459.701080 1630.435303,-476.016449"
+              class="chenziang shangren_hui" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2286.500000,1452.990356 2201.617920,1485.249756 2162.570557,1467.708740"
+              class="liuchangqing cheng9" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2273.144043,1370.218628 2292.385986,1258.286377 2336.110596,1227.389648"
+              class="liuchangqing yang3" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2313.531738,1458.919800 2260.303223,1540.620728 2215.326660,1550.111450"
+              class="liuchangqing chanshi_zhizhe" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 815.157410,-1224.031738 C 820.428650,-1233.974609 843.249695,-1240.982178 853.192566,-1235.710938"
+              class="wangbo daoshi_wang" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -357.802094,2817.259277 -346.806915,2720.579590 -310.915314,2692.018066"
+              class="menghaoran head_daoism_temple" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -297.881592,2867.695313 -272.659698,2936.550293 -287.204041,2967.909180"
+              class="menghaoran rong2" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1521.364990,-427.434784 C -1509.752197,-454.458466 -1451.797241,-477.574677 -1424.773560,-465.961761"
+              class="wangchangling lianshi_huang" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1107.963257,-1651.368042 -1034.729980,-1597.309937 -1028.338257,-1554.879395"
+              class="libai zhouweichang" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2050.251709,-987.269043 C -2025.926270,-984.273865 -1993.931030,-943.293091 -1996.926147,-918.967712"
+              class="liqi daoshi_ji" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1121.469238,-1610.296387 -1130.102295,-1514.889526 -1164.782227,-1485.964966"
+              class="libai cenxun" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2050.251709,-987.269043 C -1994.985840,-1030.658691 -1847.002441,-1012.844421 -1803.612793,-957.578552"
+              class="liqi lianshi_jiao" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2821.147705,-741.288757 C -2794.120361,-736.855225 -2760.229492,-689.663940 -2764.663086,-662.636536"
+              class="peidi yiren_lv" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -329.240570,2853.150879 C -364.734344,2871.054688 -444.830597,2844.669434 -462.734344,2809.175781"
+              class="menghaoran zhang7" stroke-opacity="1.0" stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 992.866333,-736.021057 C 991.660522,-747.198181 1006.617371,-765.772583 1017.794495,-766.978394"
+              class="luobinwang daoshi_ziyunguan" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 530.960815,-466.119751 C 521.691650,-472.479675 517.327820,-495.923248 523.687683,-505.192413"
+              class="zhangjiuling daoshi_yang" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1147.510742,-1703.562988 -1055.306152,-1787.118286 -996.719543,-1784.235229"
+              class="libai fututanhao" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2309.782471,1368.204224 2387.003662,1308.208130 2432.742676,1313.949829"
+              class="liuchangqing chanshi_fachong" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2611.293457,-727.186157 -2734.857910,-764.052307 -2763.757324,-817.529236"
+              class="wangwei shangren_tanxing" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1165.177612,-1695.881958 -1110.995117,-1794.416138 -1060.089478,-1809.199951"
+              class="libai yingshi" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2296.639648,1466.908691 2206.089355,1535.254761 2153.124023,1527.853516"
+              class="liuchangqing furongshan_yinshi" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2531.366699,-835.855957 -2372.036621,-915.836975 -2292.266113,-889.387268"
+              class="wangwei zhangyin" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2050.251709,-987.269043 C -2079.078125,-919.289795 -2224.286865,-860.560730 -2292.266113,-889.387268"
+              class="liqi zhangyin" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2341.844971,1436.060913 2365.374268,1525.943237 2343.256836,1563.747192"
+              class="liuchangqing shanren_gu" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1118.257202,-1674.400757 -1025.915405,-1670.332764 -996.490967,-1638.196167"
+              class="libai shanren_wang" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2557.816406,-756.085571 C -2515.894531,-754.843811 -2454.874512,-690.098572 -2456.116211,-648.176758"
+              class="wangwei monk_chongfan_temple" stroke-opacity="1.0"
+              stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2650.960938,-1248.373291 2708.022461,-1230.708862 2721.154785,-1205.800171"
+              class="chuguangxi lianshi_wei" stroke-opacity="1.0"
+              stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -2050.251709,-987.269043 C -2045.720581,-1011.795715 -2002.133789,-1041.788940 -1977.607056,-1037.257813"
+              class="liqi weiwan" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1190.124390,-2640.187256 C 1174.557983,-2618.010986 1117.944214,-2608.096191 1095.767944,-2623.662598"
+              class="lilongji dengziyang" stroke-opacity="1.0" stroke="#800080"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1382.261475,-137.539383 C -1468.061279,-167.697754 -1551.523438,-341.635010 -1521.364990,-427.434784"
+              class="changjian wangchangling" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1382.261475,-137.539383 C -1351.051514,-140.882126 -1299.222412,-99.081238 -1295.879639,-67.871239"
+              class="changjian zhangben" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1138.323853,-1688.290649 -1055.247314,-1735.157227 -1011.932983,-1723.087280"
+              class="libai lizhongfu" stroke-opacity="1.0" stroke="#ff8000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2252.087891,1437.379150 2139.004639,1394.603271 2115.568604,1342.650269"
+              class="liuchangqing shaofu_wang" stroke-opacity="1.0"
+              stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2304.041016,1413.943237 C 2270.629395,1387.266113 2260.527588,1297.133057 2287.204834,1263.721558"
+              class="liuchangqing poyang_lu" stroke-opacity="1.0"
+              stroke="#000000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 2626.052246,-1235.240967 C 2614.919678,-1261.113281 2637.029297,-1316.620728 2662.901611,-1327.753296"
+              class="chuguangxi cui2" stroke-opacity="1.0" stroke="#008000"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1150.393799,-1644.976318 C -1094.843506,-1664.035156 -982.929993,-1609.298218 -963.871155,-1553.747925"
+              class="libai shanren_cui" stroke-opacity="1.0" stroke="#008000"/>
+    </g>
+        <g id="nodes" transform="scale(0.5)">
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="1036.1763"
+                class="lizhi" cy="-19.334023" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1803.6128"
+                class="lianshi_jiao" cy="-957.57855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1150.3938"
+                class="libai" cy="-1644.9763" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="1190.1244"
+                class="lilongji" cy="-2640.1873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="2304.041"
+                class="liuchangqing" cy="1413.9432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-2557.8164"
+                class="wangwei" cy="-756.0856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="530.9608"
+                class="zhangjiuling" cy="-466.11975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="1439.7456"
+                class="zhangyue" cy="-2472.1428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="2626.0522"
+                class="chuguangxi" cy="-1235.241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2662.769"
+                class="chushi_yan" cy="-1129.8132" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="441.3242"
+                class="zunshi_fang" cy="1600.8082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="497.6335"
+                class="qiwuqian" cy="1613.8982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-310.8946"
+                class="songzhiwen" cy="1076.527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="992.86633"
+                class="luobinwang" cy="-736.02106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-329.24057"
+                class="menghaoran" cy="2853.151" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2512.5337"
+                class="chushi_yu" cy="-1279.3624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-320.46332"
+                class="xin1" cy="2777.9802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1292.8313"
+                class="pei18" cy="-1704.1047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2154.8115"
+                class="fashi_hui" cy="1278.2595" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="802.56244"
+                class="wangji" cy="538.69055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1137.3838"
+                class="zhenshi_hu" cy="-2563.2458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="344.18103"
+                class="maomingsu" cy="894.1022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="376.86398"
+                class="fashi_lin" cy="871.48987" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2501.1677"
+                class="shanren_xu" cy="-1212.6946" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="2588.5676"
+                class="sheren_ma" cy="-1119.7046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-2821.1477"
+                class="peidi" cy="-741.28876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-2764.663"
+                class="yiren_lv" cy="-662.63654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-2484.234"
+                class="wangjin" cy="-848.1142" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="426.91864"
+                class="xueyao" cy="94.18143" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2435.385"
+                class="shangren_wengu" cy="-717.8121" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-2050.2517"
+                class="liqi" cy="-987.26904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-395.7787"
+                class="fashi_bianyu" cy="2955.6628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2160.1077"
+                class="shangren_lingyi" cy="1383.3312" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-245.12619"
+                class="wangjiong" cy="2719.7808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1252.4414"
+                class="shanren_husi" cy="-1772.5735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1521.365"
+                class="wangchangling" cy="-427.43478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1028.8953"
+                class="daoshi_in_daitianshan" cy="-1490.8248" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2274.311"
+                class="chushi_wang" cy="1574.1099" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-963.87115"
+                class="shanren_cui" cy="-1553.7479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2567.1846"
+                class="shanren_cui1" cy="-1330.2224" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="37.915215"
+                class="limi" cy="24.434393" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="1668.9752"
+                class="chenziang" cy="-432.97955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1238.5765"
+                class="chanshi_tong" cy="-1524.1115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1135.7035"
+                class="libaopu" cy="-2698.5647" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1021.44305"
+                class="zhangzirong" cy="1474.1791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1988.4568"
+                class="liqiao" cy="1906.4011" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1336.0928"
+                class="simachengzhen" cy="-2550.8784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="541.83246"
+                class="shangren_rong" cy="1577.8014" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-381.1973"
+                class="yuan_gong" cy="2704.3965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-203.20482"
+                class="zhangcanluan" cy="2773.025" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1096.7496"
+                class="monk_donglinsi" cy="-1485.7686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1052.1565"
+                class="shijun_cui" cy="1425.9634" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-963.47595"
+                class="daoshi_shao" cy="1477.0754" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-189.20093"
+                class="jiuchanshi" cy="2840.1672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2230.7576"
+                class="chanshi_bore" cy="1228.9668" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2455.154"
+                class="shanren_zheng" cy="1379.8982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2608.7805"
+                class="monk_fushan" cy="-628.022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2738.9817"
+                class="chanshi_cao" cy="-738.78406" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1572.4547"
+                class="fashi_jing" cy="-336.77573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1931.5865"
+                class="hongjing" cy="1851.8013" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1930.854"
+                class="daojun" cy="1944.87" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2024.6427"
+                class="xuanzang" cy="1847.3696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="829.8167"
+                class="chushi_cheng" cy="509.77563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-278.76633"
+                class="chanshi_neng" cy="1099.983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1123.0101"
+                class="yuandanqiu" cy="-1733.5912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2384.3918"
+                class="lingche_shangren" cy="1272.5747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2721.1548"
+                class="lianshi_wei" cy="-1205.8002" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1977.607"
+                class="weiwan" cy="-1037.2578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="815.1574"
+                class="wangbo" cy="-1224.0317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2529.5981"
+                class="chushi_li" cy="-1153.2046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="1011.95953"
+                class="fashi_zang" cy="-50.868088" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-63.427734"
+                class="qiuwei" cy="551.6386" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="1313.7163"
+                class="cuishi" cy="-2471.6199" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-433.98102"
+                class="taiyizi" cy="2746.8623" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2408.0986"
+                class="chushi_xun" cy="1523.8677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="1659.1952"
+                class="tianyouyan" cy="-376.34378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2456.1162"
+                class="monk_chongfan_temple" cy="-648.17676" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1996.9261"
+                class="daoshi_ji" cy="-918.9677" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1164.7822"
+                class="cenxun" cy="-1485.965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="523.6877"
+                class="daoshi_yang" cy="-505.1924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2106.0144"
+                class="shangren_shaowei" cy="1433.0851" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-936.5547"
+                class="fangshi_zhao" cy="-1626.36" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1124.2178"
+                class="shanren_yang" cy="-1828.9503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1193.0256"
+                class="zhongrui" cy="-1813.4836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1382.2615"
+                class="changjian" cy="-137.53938" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2662.9016"
+                class="cui2" cy="-1327.7533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-947.92175"
+                class="master_qingxi" cy="-1706.2786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="853.19257"
+                class="daoshi_wang" cy="-1235.7109" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1293.7263"
+                class="chushi_ge" cy="-1609.622" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1501.6576"
+                class="shangren_zhen" cy="-314.93063" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1356.1469"
+                class="tianshi_zhang" cy="-31.635118" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1017.7945"
+                class="daoshi_ziyunguan" cy="-766.9784" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1095.768"
+                class="dengziyang" cy="-2623.6626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1295.8796"
+                class="zhangben" cy="-67.87124" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="2449.5405"
+                class="chushi_cui" cy="1455.7507" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="412.51163"
+                class="daoshi" cy="131.2292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="1473.6191"
+                class="liuxi" cy="-2399.694" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2503.978"
+                class="chanshi_fu" cy="-610.34955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2115.5686"
+                class="shaofu_wang" cy="1342.6503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="2287.2048"
+                class="poyang_lu" cy="1263.7216" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1011.933"
+                class="lizhongfu" cy="-1723.0873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="1630.4353"
+                class="shangren_hui" cy="-476.01645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-996.71954"
+                class="fututanhao" cy="-1784.2352" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2432.7427"
+                class="chanshi_fachong" cy="1313.9498" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2763.7573"
+                class="shangren_tanxing" cy="-817.52924" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-212.72955"
+                class="yanfang" cy="2912.4324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-94.69156"
+                class="yingshi_xishan" cy="576.20984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2343.2568"
+                class="shanren_gu" cy="1563.7472" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2153.124"
+                class="furongshan_yinshi" cy="1527.8535" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-2292.266"
+                class="zhangyin" cy="-889.38727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-1436.6309"
+                class="mingfu_xue" cy="-345.685" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-1398.1371"
+                class="shangren_cong" cy="-400.41968" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="-2582.8765"
+                class="chanshi_chengru" cy="-880.35364" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-2560.6946"
+                class="jushi_xiao" cy="-587.6174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-2053.1135"
+                class="yiren_lu" cy="-1078.1478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1028.3383"
+                class="zhouweichang" cy="-1554.8794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-462.73434"
+                class="zhang7" cy="2809.1758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2210.919"
+                class="lingyou_heshang" cy="1300.1862" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-1060.0895"
+                class="yingshi" cy="-1809.2" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="2162.5706"
+                class="cheng9" cy="1467.7087" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="2336.1106"
+                class="yang3" cy="1227.3896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8000" r="10.0" cx="2215.3267"
+                class="chanshi_zhizhe" cy="1550.1115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-310.9153"
+                class="head_daoism_temple" cy="2692.018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-287.20404"
+                class="rong2" cy="2967.9092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-996.49097"
+                class="shanren_wang" cy="-1638.1962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#800080" r="10.0" cx="-1424.7736"
+                class="lianshi_huang" cy="-465.96176" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#008000" r="10.0" cx="-456.00677"
+                class="yeren_zhang" cy="2884.939" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+        <g id="node-labels" transform="scale(0.5)">
+        <text font-size="30" x="1036.1763" y="-12.449022" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lizhi">
+            李治
+        </text>
+        <text font-size="30" x="-1803.6128" y="-950.64105" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lianshi_jiao">
+            焦炼师
+        </text>
+        <text font-size="30" x="-1150.3938" y="-1638.0688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="libai">
+            李白
+        </text>
+        <text font-size="30" x="1190.1244" y="-2633.2874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lilongji">
+            李隆基
+        </text>
+        <text font-size="30" x="2304.041" y="1420.8958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="liuchangqing">
+            刘长卿
+        </text>
+        <text font-size="30" x="-2557.8164" y="-749.20056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangwei">
+            王维
+        </text>
+        <text font-size="30" x="530.9608" y="-459.18976" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangjiuling">
+            张九龄
+        </text>
+        <text font-size="30" x="1439.7456" y="-2465.1904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangyue">
+            张说
+        </text>
+        <text font-size="30" x="2626.0522" y="-1228.2734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chuguangxi">
+            储光羲
+        </text>
+        <text font-size="30" x="2662.769" y="-1122.8383" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_yan">
+            阎处士
+        </text>
+        <text font-size="30" x="441.3242" y="1607.7682" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zunshi_fang">
+            方尊师
+        </text>
+        <text font-size="30" x="497.6335" y="1620.8507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="qiwuqian">
+            綦毋潜
+        </text>
+        <text font-size="30" x="-310.8946" y="1083.4719" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="songzhiwen">
+            宋之问
+        </text>
+        <text font-size="30" x="992.86633" y="-729.06104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="luobinwang">
+            骆宾王
+        </text>
+        <text font-size="30" x="-329.24057" y="2860.1035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="menghaoran">
+            孟浩然
+        </text>
+        <text font-size="30" x="2512.5337" y="-1272.5525" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_yu">
+            余处士
+        </text>
+        <text font-size="30" x="-320.46332" y="2784.9102" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="xin1">
+            辛谔
+        </text>
+        <text font-size="30" x="-1292.8313" y="-1697.1823" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="pei18">
+            裴图南
+        </text>
+        <text font-size="30" x="2154.8115" y="1285.1746" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fashi_hui">
+            惠法师
+        </text>
+        <text font-size="30" x="802.56244" y="545.62054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangji">
+            王绩
+        </text>
+        <text font-size="30" x="1137.3838" y="-2556.3308" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhenshi_hu">
+            胡慧超
+        </text>
+        <text font-size="30" x="344.18103" y="901.02466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="maomingsu">
+            毛明素
+        </text>
+        <text font-size="30" x="376.86398" y="878.3899" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fashi_lin">
+            琳法师
+        </text>
+        <text font-size="30" x="2501.1677" y="-1205.8096" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_xu">
+            徐山人
+        </text>
+        <text font-size="30" x="2588.5676" y="-1112.842" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="sheren_ma">
+            马舍人
+        </text>
+        <text font-size="30" x="-2821.1477" y="-734.39624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="peidi">
+            裴迪
+        </text>
+        <text font-size="30" x="-2764.663" y="-655.7366" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yiren_lv">
+            吕逸人
+        </text>
+        <text font-size="30" x="-2484.234" y="-841.21423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangjin">
+            王缙
+        </text>
+        <text font-size="30" x="426.91864" y="101.07393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="xueyao">
+            薛曜
+        </text>
+        <text font-size="30" x="-2435.385" y="-710.9646" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_wengu">
+            温古上人
+        </text>
+        <text font-size="30" x="-2050.2517" y="-980.35406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="liqi">
+            李颀
+        </text>
+        <text font-size="30" x="-395.7787" y="2962.608" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fashi_bianyu">
+            辨玉法师
+        </text>
+        <text font-size="30" x="2160.1077" y="1390.2236" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_lingyi">
+            灵一上人
+        </text>
+        <text font-size="30" x="-245.12619" y="2726.5532" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangjiong">
+            王迥
+        </text>
+        <text font-size="30" x="-1252.4414" y="-1765.5835" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_husi">
+            斛斯山人
+        </text>
+        <text font-size="30" x="-1521.365" y="-420.5048" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangchangling">
+            王昌龄
+        </text>
+        <text font-size="30" x="-1028.8953" y="-1483.9023" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_in_daitianshan">
+            戴天山道士
+        </text>
+        <text font-size="30" x="2274.311" y="1580.9199" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_wang">
+            王处士
+        </text>
+        <text font-size="30" x="-963.87115" y="-1546.8629" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_cui">
+            崔山人
+        </text>
+        <text font-size="30" x="2567.1846" y="-1323.3374" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_cui1">
+            崔山人
+        </text>
+        <text font-size="30" x="37.915215" y="31.289392" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="limi">
+            李泌
+        </text>
+        <text font-size="30" x="1668.9752" y="-426.01956" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chenziang">
+            陈子昂
+        </text>
+        <text font-size="30" x="-1238.5765" y="-1517.1665" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_tong">
+            通禅师
+        </text>
+        <text font-size="30" x="1135.7035" y="-2691.6572" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="libaopu">
+            李抱朴
+        </text>
+        <text font-size="30" x="-1021.44305" y="1481.1016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangzirong">
+            张子容
+        </text>
+        <text font-size="30" x="-1988.4568" y="1913.2786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="liqiao">
+            李峤
+        </text>
+        <text font-size="30" x="1336.0928" y="-2543.9258" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="simachengzhen">
+            司马承祯
+        </text>
+        <text font-size="30" x="541.83246" y="1584.679" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_rong">
+            融上人
+        </text>
+        <text font-size="30" x="-381.1973" y="2711.274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yuan_gong">
+            元公
+        </text>
+        <text font-size="30" x="-203.20482" y="2780.0073" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangcanluan">
+            张骖鸾
+        </text>
+        <text font-size="30" x="-1096.7496" y="-1478.801" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="monk_donglinsi">
+            东林寺僧
+        </text>
+        <text font-size="30" x="-1052.1565" y="1432.9233" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shijun_cui">
+            崔使君
+        </text>
+        <text font-size="30" x="-963.47595" y="1483.9829" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_shao">
+            邵道士
+        </text>
+        <text font-size="30" x="-189.20093" y="2847.1123" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jiuchanshi">
+            就禅师
+        </text>
+        <text font-size="30" x="2230.7576" y="1235.9193" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_bore">
+            般若禅师
+        </text>
+        <text font-size="30" x="2455.154" y="1386.7532" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_zheng">
+            郑山人
+        </text>
+        <text font-size="30" x="-2608.7805" y="-621.0995" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="monk_fushan">
+            覆釜山僧
+        </text>
+        <text font-size="30" x="-2738.9817" y="-731.83905" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_cao">
+            操禅师
+        </text>
+        <text font-size="30" x="-1572.4547" y="-329.81573" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fashi_jing">
+            静法师
+        </text>
+        <text font-size="30" x="-1931.5865" y="1858.5737" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="hongjing">
+            弘景
+        </text>
+        <text font-size="30" x="-1930.854" y="1951.845" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daojun">
+            道俊
+        </text>
+        <text font-size="30" x="-2024.6427" y="1854.3296" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="xuanzang">
+            玄奘
+        </text>
+        <text font-size="30" x="829.8167" y="516.6306" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_cheng">
+            程处士
+        </text>
+        <text font-size="30" x="-278.76633" y="1106.928" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_neng">
+            能禅师
+        </text>
+        <text font-size="30" x="-1123.0101" y="-1726.7812" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yuandanqiu">
+            元丹丘
+        </text>
+        <text font-size="30" x="2384.3918" y="1279.5272" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lingche_shangren">
+            灵澈上人
+        </text>
+        <text font-size="30" x="2721.1548" y="-1198.9302" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lianshi_wei">
+            韦炼师
+        </text>
+        <text font-size="30" x="-1977.607" y="-1030.3203" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="weiwan">
+            魏万
+        </text>
+        <text font-size="30" x="815.1574" y="-1217.2068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="wangbo">
+            王勃
+        </text>
+        <text font-size="30" x="2529.5981" y="-1146.3271" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_li">
+            李处士
+        </text>
+        <text font-size="30" x="1011.95953" y="-43.960587" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fashi_zang">
+            奘法师
+        </text>
+        <text font-size="30" x="-63.427734" y="558.4861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="qiuwei">
+            丘为
+        </text>
+        <text font-size="30" x="1313.7163" y="-2464.75" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cuishi">
+            崔湜
+        </text>
+        <text font-size="30" x="-433.98102" y="2753.7021" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="taiyizi">
+            太乙子
+        </text>
+        <text font-size="30" x="2408.0986" y="1530.7302" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_xun">
+            荀处士
+        </text>
+        <text font-size="30" x="1659.1952" y="-369.4138" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tianyouyan">
+            田游岩
+        </text>
+        <text font-size="30" x="-2456.1162" y="-641.2543" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="monk_chongfan_temple">
+            崇梵僧
+        </text>
+        <text font-size="30" x="-1996.9261" y="-912.0602" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_ji">
+            暨道士
+        </text>
+        <text font-size="30" x="-1164.7822" y="-1479.0499" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cenxun">
+            岑勋
+        </text>
+        <text font-size="30" x="523.6877" y="-498.2849" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_yang">
+            杨道士
+        </text>
+        <text font-size="30" x="2106.0144" y="1440.0076" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_shaowei">
+            少微上人
+        </text>
+        <text font-size="30" x="-936.5547" y="-1619.4225" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fangshi_zhao">
+            方士赵叟
+        </text>
+        <text font-size="30" x="-1124.2178" y="-1822.1104" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_yang">
+            杨山人
+        </text>
+        <text font-size="30" x="-1193.0256" y="-1806.5161" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhongrui">
+            仲濬
+        </text>
+        <text font-size="30" x="-1382.2615" y="-130.60938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="changjian">
+            常建
+        </text>
+        <text font-size="30" x="2662.9016" y="-1320.8833" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cui2">
+            崔二
+        </text>
+        <text font-size="30" x="-947.92175" y="-1699.3635" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="master_qingxi">
+            清溪主人
+        </text>
+        <text font-size="30" x="853.19257" y="-1228.8035" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_wang">
+            王道士
+        </text>
+        <text font-size="30" x="-1293.7263" y="-1602.7594" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_ge">
+            革处士
+        </text>
+        <text font-size="30" x="-1501.6576" y="-308.09814" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_zhen">
+            振上人
+        </text>
+        <text font-size="30" x="-1356.1469" y="-24.742619" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="tianshi_zhang">
+            张天师
+        </text>
+        <text font-size="30" x="1017.7945" y="-760.0259" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi_ziyunguan">
+            紫云观道士
+        </text>
+        <text font-size="30" x="1095.768" y="-2616.77" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="dengziyang">
+            邓紫阳
+        </text>
+        <text font-size="30" x="-1295.8796" y="-60.93374" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangben">
+            张偾
+        </text>
+        <text font-size="30" x="2449.5405" y="1462.6582" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chushi_cui">
+            崔处士
+        </text>
+        <text font-size="30" x="412.51163" y="138.1367" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="daoshi">
+            道士
+        </text>
+        <text font-size="30" x="1473.6191" y="-2392.7866" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="liuxi">
+            刘舄
+        </text>
+        <text font-size="30" x="-2503.978" y="-603.40454" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_fu">
+            福禅师
+        </text>
+        <text font-size="30" x="2115.5686" y="1349.6028" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shaofu_wang">
+            王少府
+        </text>
+        <text font-size="30" x="2287.2048" y="1270.5465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="poyang_lu">
+            陆鄱阳
+        </text>
+        <text font-size="30" x="-1011.933" y="-1716.1273" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lizhongfu">
+            李中孚
+        </text>
+        <text font-size="30" x="1630.4353" y="-469.13144" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_hui">
+            晖上人
+        </text>
+        <text font-size="30" x="-996.71954" y="-1777.2452" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="fututanhao">
+            族弟浮屠谈皓
+        </text>
+        <text font-size="30" x="2432.7427" y="1320.9023" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_fachong">
+            法崇禅师
+        </text>
+        <text font-size="30" x="-2763.7573" y="-810.61426" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_tanxing">
+            昙兴上人
+        </text>
+        <text font-size="30" x="-212.72955" y="2919.43" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yanfang">
+            阎防
+        </text>
+        <text font-size="30" x="-94.69156" y="583.1323" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yingshi_xishan">
+            西山隐者
+        </text>
+        <text font-size="30" x="2343.2568" y="1570.6697" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_gu">
+            顾山人
+        </text>
+        <text font-size="30" x="2153.124" y="1534.7385" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="furongshan_yinshi">
+            芙蓉山主人
+        </text>
+        <text font-size="30" x="-2292.266" y="-882.4873" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhangyin">
+            张諲
+        </text>
+        <text font-size="30" x="-1436.6309" y="-338.71" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="mingfu_xue">
+            薛明府
+        </text>
+        <text font-size="30" x="-1398.1371" y="-393.58716" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shangren_cong">
+            聪上人
+        </text>
+        <text font-size="30" x="-2582.8765" y="-873.4086" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_chengru">
+            乘如禅师
+        </text>
+        <text font-size="30" x="-2560.6946" y="-580.71735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="jushi_xiao">
+            萧居士
+        </text>
+        <text font-size="30" x="-2053.1135" y="-1071.2404" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yiren_lu">
+            卢逸人
+        </text>
+        <text font-size="30" x="-1028.3383" y="-1547.9869" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhouweichang">
+            周惟长
+        </text>
+        <text font-size="30" x="-462.73434" y="2816.046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="zhang7">
+            张七
+        </text>
+        <text font-size="30" x="2210.919" y="1307.1162" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lingyou_heshang">
+            灵祐和尚
+        </text>
+        <text font-size="30" x="-1060.0895" y="-1802.3225" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yingshi">
+            幽人
+        </text>
+        <text font-size="30" x="2162.5706" y="1474.5413" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="cheng9">
+            程九
+        </text>
+        <text font-size="30" x="2336.1106" y="1234.2296" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yang3">
+            杨三山人
+        </text>
+        <text font-size="30" x="2215.3267" y="1557.0564" fill="#ff8000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="chanshi_zhizhe">
+            智者禅师
+        </text>
+        <text font-size="30" x="-310.9153" y="2698.9407" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="head_daoism_temple">
+            观主
+        </text>
+        <text font-size="30" x="-287.20404" y="2975.6" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="rong2">
+            荣二(荣山人)
+        </text>
+        <text font-size="30" x="-996.49097" y="-1631.3787" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="shanren_wang">
+            王山人
+        </text>
+        <text font-size="30" x="-1424.7736" y="-459.09177" fill="#800080"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="lianshi_huang">
+            黄炼师
+        </text>
+        <text font-size="30" x="-456.00677" y="2891.809" fill="#008000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="yeren_zhang">
+            张野人
+        </text>
+    </g>
+</svg>
