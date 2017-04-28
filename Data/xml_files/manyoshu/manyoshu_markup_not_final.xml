@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="manyoshu_schema.rnc" type="application/relax-ng-compact-syntax"?> 
+<!--<?xml-model href="manyoshu_schema.rnc" type="application/relax-ng-compact-syntax"?>--> 
 <Manyoshu>
     <book num="I">
         <p>
             <p_number>1</p_number>
+            <page>3</page>
             <person type="author" sex="male" role="emperor">Emperor Yuryaku</person>
+            <context>Speaking to a <person type="addressed" where="poem" sex="female" role="unknown"
+                    >Maiden</person></context>
+
             <lg>
                 <l>Your basket, with your pretty basket,</l>
                 <l>Your trowel, with your little trowel,</l>
-                <l><person type="addressed" where="poem" sex="female" role="unknown">Maiden</person>, picking herbs on this hill-side,</l>
+                <l>Maiden, picking herbs on this hill-side,</l>
                 <l>I would ask you: Where is your home?</l>
                 <l>Will you not tell me your name?</l>
-                <l>Over the spacious Land of Yamato</l>
+                <l>Over the spacious Land of <location rg="jpn" type="province" lat="34.01624"
+                        lon="135.76654">Yamato</location></l>
                 <l>It is I who reign so wide and far,</l>
-                <l>It is I who rule so wide and far.</l>
                 <l>I myself, as your lord, will tell you</l>
                 <l>Of my home, and my name.</l>
             </lg>
@@ -21,23 +25,33 @@
 
         <p>
             <p_number>2</p_number>
+            <page>3</page>
             <person type="author" sex="male" role="emperor">Emperor Jomei</person>
-            <context>Climbing <location rg="jpn" type="mountain">Kagu-yama</location> and looking upon the land.</context>
+            <context>Climbing <location rg="jpn" type="mountain" lat="31.567" lon="131.283"
+                    >Kagu-yama</location> and looking upon the land.</context>
+
             <lg>
-                <l>Countless are the mountains in Yamato,</l>
-                <l>But perfect is the heavenly hill of <location rg="jpn" type="mountain">Kagu</location>;</l>
+                <l>Countless are the mountains in <location rg="jpn" type="province" lat="34.01624"
+                        lon="135.76654">Yamato</location>,</l>
+                <l>But perfect is the heavenly hill of <location rg="jpn" type="mountain"
+                        lat="31.567" lon="131.283">Kagu</location>;</l>
                 <l>When I climb it and survey my realm,</l>
                 <l>Over the wide plain the smoke-wreaths rise and rise,</l>
                 <l>Over the wide lakes the gulls are on the wing;</l>
-                <l>A beautiful land it is, the Land of Yamato!</l>
+                <l>A beautiful land it is, the Land of <location rg="jpn" type="province"
+                        lat="34.01624" lon="135.76654">Yamato</location>!</l>
             </lg>
         </p>
 
         <p>
             <p_number>3-4</p_number>
+            <page>4</page>
             <person type="author" sex="female" role="empress">Empress Kogyoku</person>
-            <context>Presented to the <person type="addressed" where="context" sex="male" role="emperor">Emperor Jomei</person> by a messenger,<person type="messenger" where="context" role="messenger" sex="male">Hashibito Oyu</person>, on the occasion
-                of his hunting on the <location rg="jpn" type="plain">plain of Uchi</location>.</context>
+            <context>Presented to the <person type="addressed" where="context" sex="male"
+                    role="emperor">Emperor Jomei</person> by a messenger,<person type="messenger"
+                    where="context" role="messenger" sex="male">Hashibito Oyu</person>, on the
+                occasion of his hunting on the <location rg="jpn" type="plain">plain of
+                    Uchi</location>.</context>
             <lg>
                 <l>Hear the twang of the mid-strings</l>
                 <l>Of his royal birchwood bow,</l>
@@ -50,7 +64,7 @@
                 <l>Of his loved birchwood bow!</l>
                 <envoy>
                     <l>With horses drawn abreast</l>
-                    <l>On the open waste of Uchi,</l>
+                    <l>On the open waste of <location rg="jpn" type="plain">Uchi</location>,</l>
                     <l>This morning he must be trampling</l>
                     <l>That grassy land!</l>
                 </envoy>
@@ -59,9 +73,13 @@
 
         <p>
             <p_number>5-6</p_number>
+            <page>9-10</page>
             <person type="author" sex="male" role="prince">Prince Ikusa</person>
-            <context>Seeing the mountains when the <person type="mentioned" where="context" sex="male" role="emperor" >Emperor Jomei</person> sojourned in <location rg="jpn" type="district">Aya
-                    District, Sanuki Province</location>.</context>
+            <context>Seeing the mountains when the <person type="mentioned" where="context"
+                    sex="male" role="emperor">Emperor Jomei</person> sojourned in <location rg="jpn"
+                    type="district" lat="31.9991" lon="131.2532  ">Aya</location> District,
+                    <location rg="jpn" type="province" lat="34.28841" lon="134.24813"
+                    >Sanuki</location> Province.</context>
             <lg>
                 <l>Not knowing that the long spring day-</l>
                 <l>The misty day-is spent,</l>
@@ -76,7 +94,8 @@
                 <l>I know not how to cast off</l>
                 <l>My heavy sorrows;</l>
                 <l>And like the salt-fires the fisher-girls</l>
-                <l>Burn on the shore of <location rg="jpn" type="coast">Ami</location>,</l>
+                <l>Burn on the shore of <location rg="jpn" type="coast" lat="36.03080"
+                        lon="140.21479">Ami</location>,</l>
                 <l>I burn with the fire of longing</l>
                 <l>In my heart.</l>
                 <envoy>
@@ -90,9 +109,11 @@
 
         <p>
             <p_number>8</p_number>
+            <page>10</page>
             <person type="author" sex="female" role="princess">Princess Nukada</person>
             <lg>
-                <l>While at <location rg="jpn" type="unknown">Nigitazu</location> we await the moon</l>
+                <l>While at <location rg="jpn" type="unknown">Nigitazu</location> we await the
+                    moon</l>
                 <l>To put our ships to sea,</l>
                 <l>With the moon the tide has risen;</l>
                 <l>Now let us embark!</l>
@@ -101,20 +122,25 @@
 
         <p>
             <p_number>13-15</p_number>
+            <page>5</page>
             <person type="author" sex="male" role="emperor">Emperor Tenji</person>
             <context>The Three Hills.</context>
             <lg>
-                <l><location rg="jpn" type="mountain">Mount Kagu</location> strove with <location rg="jpn" type="mountain">Mount
-                    Miminashi</location></l>
-                <l>For the love of <location rg="jpn" type="mountain">Mount Unebi</location>.</l>
+                <l><location rg="jpn" type="mountain" lat="31.567" lon="131.283">Mount
+                        Kagu</location> strove with <location rg="jpn" type="mountain"
+                        lat="34.51468" lon="135.80537">Mount Miminashi</location></l>
+                <l>For the love of <location rg="jpn" type="mountain" lat="34.49236" lon="135.78495"
+                        >Mount Unebi</location>.</l>
                 <l>Such is love since the age of the gods;</l>
                 <l>As it was thus in the early days,</l>
                 <l>So people strive for spouses even now.</l>
                 <envoy>
-                    <l>When <location rg="jpn" type="mountain">Mount Kagu</location> and <location rg="jpn" type="mountain">Mount Miminashi</location>
-                        wrangled,</l>
+                    <l>When <location rg="jpn" type="mountain" lat="31.567" lon="131.283">Mount
+                            Kagu</location> and <location rg="jpn" type="mountain" lat="34.51468"
+                            lon="135.80537">Mount Miminashi</location> wrangled,</l>
                     <l>A god came over and saw it</l>
-                    <l>Here-on this plain of <location rg="jpn" type="town">Inami</location>!</l>
+                    <l>Here- on this plain of <location rg="jpn" type="plain" lat="33.49"
+                            lon="135.13">Inami</location>!</l>
                     <l>On the rich banner-like clouds</l>
                     <l>That rim the waste of waters</l>
                     <l>The evening sun is glowing,</l>
@@ -126,11 +152,14 @@
 
         <p>
             <p_number>16</p_number>
+            <page>10-11</page>
             <person type="author" sex="female" role="princess">Princess Nukada</person>
-            <context>When the <person type="mentioned" sex="male" where="context" role="emperor">Emperor Tenji</person> commanded <person type="mentioned" sex="male" where="context" role="prime_minister">Fujiwara Kamatari</person>, Prime Minister to judge
-                between the luxuriance of the blossoms on the spring hills and the glory of the
-                tinted leaves on the autumn hills, Princess Nukada decided the question with this
-                poem.</context>
+            <context>When the <person type="mentioned" sex="male" where="context" role="emperor"
+                    >Emperor Tenji</person> commanded <person type="mentioned" sex="male"
+                    where="context" role="prime_minister">Fujiwara Kamatari</person>, Prime Minister
+                to judge between the luxuriance of the blossoms on the spring hills and the glory of
+                the tinted leaves on the autumn hills, Princess Nukada decided the question with
+                this poem.</context>
             <lg>
                 <l>When, loosened from the winter's bonds,</l>
                 <l>The spring appears,</l>
@@ -154,18 +183,23 @@
         </p>
         <p>
             <p_number>17-18</p_number>
+            <page>11</page>
             <person type="author" sex="female" role="princess">Princess Nukada</person>
-            <context>On the occasion of her journey to <location rg="jpn" type="province">Omi</location></context>
+            <context>On the occasion of her journey to <location rg="jpn" type="province"
+                    lat="35.117" lon="136.067">Omi</location></context>
             <lg>
-                <l>O That sweet mountain of <location rg="jpn" type="mountain">Miwa</location>--</l>
+                <l>O That sweet mountain of <location rg="jpn" type="mountain" lat="34.53518"
+                        lon="135.86722">Miwa</location>--</l>
                 <l>I would go lingering over its sight,</l>
                 <l>Many times looking back from far upon it</l>
-                <l>Till it is hidden beyond the hills of <location rg="jpn" type="city">Nara</location></l>
+                <l>Till it is hidden beyond the hills of <location rg="jpn" type="city"
+                        lat="34.68509" lon="135.80500">Nara</location></l>
                 <l>And beyond many turnings of the road;</l>
                 <l>Then should the clouds be heartless</l>
                 <l>And conceal the mountain from me?</l>
                 <envoy>
-                    <l>Must they veil <location rg="jpn" type="mountain">Mount Miwa</location> so?</l>
+                    <l>Must they veil <location rg="jpn" type="mountain" lat="34.53518"
+                            lon="135.86722">Mount Miwa</location> so?</l>
                     <l>Even clouds might have compassion;</l>
                     <l>Should ye, O clouds,conceal it from me?</l>
                 </envoy>
@@ -174,46 +208,58 @@
 
         <p>
             <p_number>24</p_number>
+            <page>23</page>
             <person type="author" sex="male" role="prince">Prince Omi</person>
             <context>Reply by the Prince, grieving at his lot.</context>
             <lg>
                 <l>Clinging to this transient life</l>
                 <l>I live on the seaweed,</l>
                 <l>Which I, drenched with the waves,</l>
-                <l>Gather at the <location rg="jpn" type="coast">isle of Irago</location>.</l>
+                <l>Gather at the <location rg="jpn" type="coast" lat="34.567" lon="137.000">isle of
+                        Irago</location>.</l>
             </lg>
         </p>
 
         <p>
             <p_number>28</p_number>
+            <page>17-18</page>
             <person type="author" sex="female" role="empress">Empress Jito</person>
             <lg>
                 <l>Spring has passed away</l>
                 <l>And summer is come;</l>
                 <l>Look where white clothes are spread in the sun</l>
-                <l>On the heavenly hill of <location rg="jpn" type="mountain">Kagu</location>!</l>
+                <l>On the heavenly hill of <location rg="jpn" type="mountain" lat="31.567"
+                        lon="131.283">Kagu</location>!</l>
             </lg>
         </p>
 
         <p>
             <p_number>52-53</p_number>
+            <page>69</page>
             <person type="author" sex="unknown" role="unknown">Anonymous</person>
-            <context>On the well at the Palace of <location rg="jpn" type="capital">Fujiwara</location></context>
+            <context>On the well at the Palace of <location rg="jpn" type="city" lat="34.50945"
+                    lon="135.79263">Fujiwara</location></context>
             <lg>
                 <l>Our great Sovereign who rules in peace,</l>
                 <l>Offspring of the Bright One on high,</l>
                 <l>Has begun to build her Palace</l>
-                <l>On the plain of <location rg="jpn" type="plain">Fuji</location>;</l>
-                <l>And standing on the dyke of Lake Haniyasu</l>
+                <l>On the plain of <location rg="jpn" type="plain" lat="" lon=""
+                    >Fuji</location>;</l>
+                <l>And standing on the dyke of <location rg="jpn" type="lake">Lake
+                        Haniyasu</location></l>
                 <l>She looks around her:</l>
-                <l>The green hill of <location rg="jpn" type="mountain">Kagu</location> of Yamato</l>
+                <l>The green hill of <location rg="jpn" type="mountain" lat="31.567" lon="131.283"
+                        >Kagu</location> of <location rg="jpn" type="province" lat="34.01624"
+                        lon="135.76654">Yamato</location></l>
                 <l>Stands at the eastern gate,</l>
                 <l>A luxuriant spring-time hill;</l>
-                <l>Unebi, with its fragrant slopes,</l>
+                <l><location rg="jpn" type="mountain" lat="34.49236" lon="135.78495"
+                        >Unebi</location>, with its fragrant slopes,</l>
                 <l>Rises at the western gate,</l>
                 <l>Ever fresh and flourishing</l>
                 <l>Its form divine;</l>
-                <l>And the mountains of <location rg="jpn" type="mountain">Yoshinu</location>, of lovely name,</l>
+                <l>And the mountains of <location rg="jpn" type="mountain" lat="34.36040"
+                        lon="135.86697">Yoshinu</location>, of lovely name,</l>
                 <l>Soar into the sky,</l>
                 <l>Far from the southern gate</l>
                 <l>At this towering Palace,</l>
@@ -224,7 +270,8 @@
                 <envoy>
                     <l>The bevies of maidens who will be born</l>
                     <l>And come in succession into service</l>
-                    <l>At the mightly <location rg="jpn" type="capital">Palace of Fujiwara</location>,</l>
+                    <l>At the mightly Palace of<location rg="jpn" type="city" lat="34.50945"
+                            lon="135.79263">Fujiwara</location>,</l>
                     <l>How I envy their happy lot!</l>
                 </envoy>
             </lg>
@@ -232,29 +279,37 @@
 
         <p>
             <p_number>63</p_number>
+            <page>197</page>
             <person type="author" sex="male" role="envoy">Yamanoe Okura</person>
-            <context>Thinking, while in <location rg="foreign" type="china" >China</location>, of his
-                homeland.</context>
+            <context>Thinking, while in <location rg="foreign" type="china" lat="35.8617"
+                    lon="104.1954">China</location>, of his homeland.</context>
             <lg>
-                <l>Come, my men, let us hasten to <location rg="jpn" type="province">Yamato</location>!</l>
-                <l>The shore pines on <location rg="jpn" type="coast">Mitsu</location> of Otomo</l>
+                <l>Come, my men, let us hasten to <location rg="jpn" type="province" lat="34.01624"
+                        lon="135.76654">Yamato</location>!</l>
+                <l>The shore pines on <location rg="jpn" type="coast" lat="" lon="">Mitsu</location>
+                    of <location rg="jpn" type="unknown" lat="" lon="">Otomo</location></l>
                 <l>Must wait and long for us.</l>
             </lg>
         </p>
 
         <p>
             <p_number>79-80</p_number>
+            <page>259-260</page>
             <person type="author" sex="unknown" role="unknown">Anonymous</person>
-            <context>On the occasion of the transfer of the court from <location rg="jpn" type="capital">Fujiwara</location>
-                to <location rg="jpn" type="city">Nara</location>.</context>
+            <context>On the occasion of the transfer of the court from <location rg="jpn"
+                    type="city" lat="34.50945" lon="135.79263">Fujiwara</location> to <location
+                    rg="jpn" type="city" lat="34.68509" lon="135.80500">Nara</location>.</context>
             <lg>
                 <l>Obedient to our mighty Sovereign's word,</l>
                 <l>I left my long-loved home,</l>
-                <l>And paddled my boat down the <location rg="jpn" type="river">Hatsuse</location>,</l>
+                <l>And paddled my boat down the <location rg="jpn" type="river" lat="35.2"
+                        lon="139.633333">Hatsuse</location>,</l>
                 <l>Many times looking back toward my home,</l>
                 <l>At each of the eighty windings of the river;</l>
                 <l>And benighted on the stream I reached</l>
-                <l>The <location rg="jpn" type="river" >River Saho</location> flowing through <location rg="jpn" type="city">Nara</location>;</l>
+                <l>The <location rg="jpn" type="river" lat="34.68509" lon="135.80500">River
+                        Saho</location> flowing through <location rg="jpn" type="city"
+                        >Nara</location>;</l>
                 <l>There from my couch I could see,</l>
                 <l>Clearly in the bright moonlight of dawn,</l>
                 <l>The night-frost lying like a sheet of linen</l>
@@ -265,7 +320,8 @@
                 <l>For a thousand ages,</l>
                 <l>And that I too may journey here for as long.</l>
                 <envoy>
-                    <l>I shall come to the mansion of <location rg="jpn" type="city">Nara</location></l>
+                    <l>I shall come to the mansion of <location rg="jpn" type="city" lat="34.68509"
+                            lon="135.80500">Nara</location></l>
                     <l>For a myriad ages;</l>
                     <l>Think not I shall forget!</l>
                 </envoy>
@@ -275,8 +331,10 @@
     <book num="II">
         <p>
             <p_number>85-88</p_number>
+            <page>6-7</page>
             <person type="author" sex="female" role="empress">Empress lwa-no-hime</person>
-            <context>Longing for the <person type="addressed" where="context" role="emperor" sex="male">Emperor Nintoku</person>.</context>
+            <context>Longing for the <person type="addressed" where="context" role="emperor"
+                    sex="male">Emperor Nintoku</person>.</context>
             <lg>
                 <l>Since you, my Lord, were gone,</l>
                 <l>Many long, long days have passed.</l>
@@ -304,8 +362,11 @@
         <p>
 
             <p_number>95</p_number>
+            <page>13</page>/>
             <person type="author" sex="male" role="prime_minister">Fujiwara Kamatari</person>
-            <context>On the occasion of his marriage to <person type="mentioned" where="context" sex="female" role="palace_attdt">Yasumiko</person>, a palace attendant.</context>
+            <context>On the occasion of his marriage to <person type="mentioned" where="context"
+                    sex="female" role="palace_attdt">Yasumiko</person>, a palace
+                attendant.</context>
             <lg>
                 <l>Oh, Yasumiko I have won!</l>
                 <l>Mine is she whom all men,</l>
@@ -317,20 +378,25 @@
         <p>
 
             <p_number>103</p_number>
+            <page>17</page>
             <person type="author" sex="male" role="emperor">Emperor Temmu</person>
-            <context>Addressed to <person type="addressed" where="context" sex="female" role="consort">Lady Fujiwara</person> on the occasion of snow</context>
+            <context>Addressed to <person type="addressed" where="context" sex="female"
+                    role="consort">Lady Fujiwara</person> on the occasion of snow</context>
             <lg>
                 <l>Magnificent snow </l>
                 <l>Has fallen here at my place.</l>
-                <l>But at your tumble-down old village of <location rg="jpn" type="village">Ohara</location>,</l>
+                <l>But at your tumble-down old village of <location rg="jpn" type="village"
+                        lat="34.92920" lon="135.67171">Ohara</location>,</l>
                 <l>If ever, later it will fall</l>
             </lg>
         </p>
 
         <p>
             <p_number>104</p_number>
+            <page>17</page>
             <person type="author" sex="female" role="consort">Lady Fujiwara</person>
-            <context>Reply to  <person type="author" where="context" sex="male" role="emperor">Emperor Temmu</person></context>
+            <context>Reply to <person type="author" where="context" sex="male" role="emperor"
+                    >Emperor Temmu</person></context>
             <lg>
                 <l>It was I who did command </l>
                 <l>The Dragon God of these hills</l>
@@ -342,12 +408,17 @@
 
         <p>
             <p_number>105-106</p_number>
+            <page>21</page>
             <person type="author" sex="female" role="princess">Princess Oku</person>
-            <context>Upon the departure of <person type="addressed" where="context" sex="male" role="prince">Prince Otsu</person> for the <location rg="jpn" type="capital">capital</location> after his secret visit to the
-                Shrine of <location rg="jpn" type="city">Ise</location>.</context>
+            <context>Upon the departure of <person type="addressed" where="context" sex="male"
+                    role="prince">Prince Otsu</person> for the capital,<location rg="jpn"
+                    type="city" lat="34.50945" lon="135.79263">Fujiwara</location>, after his secret
+                visit to the Shrine of <location rg="jpn" type="province" lat="34.48787"
+                    lon="136.26962">Ise</location>.</context>
             <lg>
                 <l>To speed my brother</l>
-                <l>Parting for <location rg="jpn" type="province">Yamato</location>,</l>
+                <l>Parting for <location rg="jpn" type="province" lat="34.01624" lon="135.76654"
+                        >Yamato</location>,</l>
                 <l>In the deep of night I stood</l>
                 <l>Till wet with the dew of dawn.</l>
                 <l>The lonely autumn mountains</l>
@@ -359,8 +430,10 @@
 
         <p>
             <p_number>107</p_number>
+            <page>19</page>
             <person type="author" sex="male" role="prince">Prince Otsu</person>
-            <context>Written for <person type="addressed" where="context" sex="female" role="unknown">Lady Ishikawa</person></context>
+            <context>Written for <person type="addressed" where="context" sex="female"
+                    role="unknown">Lady Ishikawa</person></context>
             <lg>
                 <l>Waiting for you, </l>
                 <l>In the dripping dew of the hill</l>
@@ -371,8 +444,10 @@
 
         <p>
             <p_number>108</p_number>
+            <page>19</page>
             <person type="author" sex="female" role="unknown">Lady Ishikawa</person>
-            <context>Written in reply to <person type="addressed" where="context" sex="male" role="prince">Prince Otsu</person></context>
+            <context>Written in reply to <person type="addressed" where="context" sex="male"
+                    role="prince">Prince Otsu</person></context>
             <lg>
                 <l>Would I had been, beloved,</l>
                 <l>The dripping dew of the hill,</l>
@@ -383,23 +458,30 @@
 
         <p>
             <p_number>131-133</p_number>
+            <page>32</page>
             <person type="author" sex="male" role="official">Kakinomoto Hitomaro</person>
-            <context>On leaving his <person type="mentioned" where="context" sex="female" role="unknown">wife</person> as he set out from <location rg="jpn" type="village">Iwami</location> for the <location rg="jpn" type="capital">capital</location>.</context>
+            <context>On leaving his <person type="mentioned" where="context" sex="female"
+                    role="unknown">wife</person> as he set out from <location rg="jpn"
+                    type="province" lat="34.67482" lon="131.84286">Iwami</location> for the
+                    capital<location rg="jpn" type="city" lat="" lon="">Heian</location>.</context>
             <lg>
-                <l>Along the coast of <location rg="jpn" type="unknown"></location>Tsunu</l>
+                <l>Along the coast of <location rg="jpn" type="unknown" lat="35.58302"
+                        lon="132.28540">Tsunu</location></l>
                 <l>On the <location rg="jpn" type="sea">sea of Iwami</location></l>
                 <l>One may find no sheltering bay,</l>
                 <l>One may find no sequestered lagoon.</l>
                 <l>O well if there be no bay!</l>
                 <l>O well if there be no lagoon!</l>
-                <l>Upon <location rg="jpn" type="coast">Watazu</location>'s rocky strand,</l>
+                <l>Upon <location rg="jpn" type="coast" lat="35.02349" lon="132.23293"
+                        >Watazu</location>'s rocky strand,</l>
                 <l>Where I travel by the whale-haunted sea,</l>
                 <l>The wind blows in the morning,</l>
                 <l>And the waves wash at eve</l>
                 <l>The sleek sea-tangle and the ocean weed,</l>
                 <l>All limpid green.</l>
                 <l>Like the sea-tangle, swaying in the wave</l>
-                <l>Hither and thither, my <person type="mentioned" where="poem" sex="female" role="unknown">wife</person> would cling to me,</l>
+                <l>Hither and thither, my <person type="mentioned" where="poem" sex="female"
+                        role="unknown">wife</person> would cling to me,</l>
                 <l>As she lay by my side.</l>
                 <l>Now I have left her, and journey on my way,</l>
                 <l>I look back a myriad times</l>
@@ -412,8 +494,10 @@
                 <l>Bend down, O mountains!</l>
                 <envoy>
                     <l>From between the trees that grow</l>
-                    <l>On Takatsunu's mountain-side</l>
-                    <l>In the land of Iwami</l>
+                    <l>On <location rg="jpn" type="mountain">Takatsunu</location>'s
+                        mountain-side</l>
+                    <l>In the land of <location rg="jpn" type="province" lat="34.67482"
+                            lon="131.84286">Iwami</location></l>
                     <l>I waved my sleeve to her--</l>
                     <l>Did she see me, my dear wife?</l>
                     <l>The leaves of bamboo grass</l>
@@ -421,7 +505,8 @@
                     <l>With loud rustling sounds;</l>
                     <l>But I think only of my love,</l>
                     <l>Having left her behind.</l>
-                    <l>In the sea of <location rg="jpn" type="sea">Iwami</location>, </l>
+                    <l>In the sea of <location rg="jpn" type="province" lat="34.67482"
+                            lon="131.84286">Iwami</location>, </l>
                     <l>By the cape of <location rg="jpn" type="coast">Kara</location>, </l>
                     <l>There amid the stones under sea</l>
                     <l>Grows the deep-sea miru weed;</l>
@@ -438,12 +523,14 @@
                     <l>My heart aches within me;</l>
                     <l>I turn back to gaze--</l>
                     <l>But because of the yellow leaves</l>
-                    <l>Of <location rg="jpn" type="town">Watari</location> Hill,</l>
+                    <l>Of <location rg="jpn" type="town" lat="38.0375" lon="140.8526"
+                            >Watari</location> Hill,</l>
                     <l>Flying and fluttering in the air,</l>
                     <l>I cannot see plainly</l>
                     <l>My wife waving her sleeve to me.</l>
                     <l>Now as the moon, sailing through the cloud rift</l>
-                    <l>Above the mountain of <location rg="jpn" type="mountain">Yakami</location>,</l>
+                    <l>Above the mountain of <location rg="jpn" type="mountain" lat="35.2"
+                            lon="139.633333">Yakami</location>,</l>
                     <l>Disappears, leaving me full of regret,</l>
                     <l>So vanishes my love out of sight;</l>
                     <l>Now sinks at last the sun,</l>
@@ -467,10 +554,12 @@
 
         <p>
             <p_number>141-142</p_number>
+            <page>8</page>
             <person type="author" sex="male" role="prince">Prince Arima</person>
             <context>Lamenting his plight, and binding pine branches.</context>
             <lg>
-                <l>At <location rg="jpn" type="province">Iwashiro</location> I bind</l>
+                <l>At <location rg="jpn" type="province" lat="33.7833302" lon="135.283322"
+                        >Iwashiro</location> I bind</l>
                 <l>The branches of a shore pine.</l>
                 <l>If fortune favours me,</l>
                 <l>I may come back</l>
@@ -484,8 +573,10 @@
 
         <p>
             <p_number>147</p_number>
+            <page>7</page>
             <person type="author" sex="female" role="empress">Empress Yamato-hime</person>
-            <context>Presented to the <person type="addressed" where="context" sex="male" role="emperor">Emperor Tenji</person> on the occasion of His Majesty’s
+            <context>Presented to the <person type="addressed" where="context" sex="male"
+                    role="emperor">Emperor Tenji</person> on the occasion of His Majesty’s
                 Illness.</context>
             <lg>
                 <l>I turn and gaze far</l>
@@ -498,19 +589,24 @@
 
         <p>
             <p_number>148</p_number>
+            <page>7</page>
             <person type="author" sex="female" role="empress">Empress Yamato-hime</person>
-            <context>After the death of <person type="addressed" where="context" sex="male" role="emperor">Emperor Temmu</person>.</context>
+            <context>After the death of <person type="addressed" where="context" sex="male"
+                    role="emperor">Emperor Temmu</person>.</context>
             <lg>
                 <l>Though my eyes could see your spirit soar</l>
-                <l>Above the hills of green-bannered <location rg="jpn" type="town">Kohata</location>,</l>
+                <l>Above the hills of green-bannered <location rg="jpn" type="town" lat="34.924938"
+                        lon="135.798856">Kohata</location>,</l>
                 <l>No more may I meet you face to face.</l>
             </lg>
         </p>
 
         <p>
             <p_number>149</p_number>
+            <page>7</page>
             <person type="author" sex="female" role="empress">Empress Yamato-hime</person>
-            <context>After the death of <person type="addressed" where="context" sex="male" role="emperor">Emperor Temmu</person>.</context>
+            <context>After the death of <person type="addressed" where="context" sex="male"
+                    role="emperor">Emperor Temmu</person>.</context>
             <lg>
                 <l>Others may cease to remember,</l>
                 <l>But I cannot forget you—</l>
@@ -521,10 +617,14 @@
 
         <p>
             <p_number>177</p_number>
+            <page>70</page>
             <person type="author" sex="unknown" role="guard">Anonymous</person>
-            <context>Poems of lamentation by the <person type="speaker" where="context" sex="male" role="guard">palace-guards</person> of the <person type="mentioned" where="context" sex="male" role="prince">Crown Prince</person>.</context>
+            <context>Poems of lamentation by the <person type="speaker" where="context" sex="male"
+                    role="guard">palace-guards</person> of the <person type="mentioned"
+                    where="context" sex="male" role="prince">Crown Prince</person>.</context>
             <lg>
-                <l>On the hill slope of <location rg="jpn" type="island">Sada</location> </l>
+                <l>On the hill slope of <location rg="jpn" type="unknown">Sada</location>
+                </l>
                 <l>Bright in the morning sun,</l>
                 <l>We gather and weep;</l>
                 <l>Our tears fall endlessly.</l>
@@ -533,11 +633,15 @@
 
         <p>
             <p_number>194-95</p_number>
+            <page>136-137</page>
             <person type="author" sex="male" role="c_official">Kakinomoto Hitomaro</person>
-            <context>Presented to <person type="addressed" where="context" sex="female" role="princess">Princess Hatstusebe</person> and <person type="addressed" where="context" sex="male" role="prince">Prince Osakabe</person></context>
+            <context>Presented to <person type="addressed" where="context" sex="female"
+                    role="princess">Princess Hatstusebe</person> and <person type="addressed"
+                    where="context" sex="male" role="prince">Prince Osakabe</person></context>
             <lg>
                 <l>Dainty water-weeds, growing up-stream</l>
-                <l>In the river of the bird-flying Asuka,</l>
+                <l>In the river of the bird-flying <location rg="jpn" type="city" lat="34.4713"
+                        lon="135.8206">Asuka</location>,</l>
                 <l>Drift down-stream, gracefully swaying.</l>
                 <l>Like the water-weeds the two would bend</l>
                 <l>Each toward the other, the princess and her consort.</l>
@@ -547,7 +651,8 @@
                 <l>Desolate must be her couch at night.</l>
                 <l>Unable to assuage her grief,</l>
                 <l>But in the hope of finding him by chance,</l>
-                <l>She journeys to the wide plain of <location rg="jpn" type="plain">Ochinu</location>,</l>
+                <l>She journeys to the wide plain of <location rg="jpn" type="plain"
+                        >Ochinu</location>,</l>
                 <l>There, her skirt drenched with morning dew</l>
                 <l>And her coat soaked with the fog of evening,</l>
                 <l>She passes the night-- a wayfarer with grass for pillow--</l>
@@ -564,9 +669,13 @@
     <book num="IV">
         <p>
             <p_number>485-487</p_number>
+            <page>4</page>
             <person type="author" sex="female" role="empress">Empress Kogyoku</person>
-            <context>Presented to the <person type="addressed" where="context" sex="male" role="emperor">Emperor Jomei</person> by a messenger, <person type="messenger" where="context" sex="male" role="messenger">Hashibito Oyu</person>, on the occasion
-                of his hunting on the plain of <location rg="jpn" type="plain">Uchi</location>.</context>
+            <context>Presented to the <person type="addressed" where="context" sex="male"
+                    role="emperor">Emperor Jomei</person> by a messenger, <person type="messenger"
+                    where="context" sex="male" role="messenger">Hashibito Oyu</person>, on the
+                occasion of his hunting on the plain of <location rg="jpn" type="plain"
+                    >Uchi</location>.</context>
             <lg>
                 <l>From the age of the gods </l>
                 <l>Men have been begotten and begetting;</l>
@@ -582,8 +691,11 @@
                     <l>Like flights of teal over the mountain edge, </l>
                     <l>To me-oh what loneliness,</l>
                     <l>Since you are absent whom I love.</l>
-                    <l>By the <location rg="jpn" type="mountain">Toko Mountain</location> in <location rg="jpn" type="province">Omi</location></l>
-                    <l>There flows the <location rg="jpn" type="river">Isaya</location>, River of Doubt.</l>
+                    <l>By the <location rg="jpn" type="mountain">Toko Mountain</location> in
+                            <location rg="jpn" type="province" lat="35.117" lon="136.067"
+                            >Omi</location></l>
+                    <l>There flows the <location rg="jpn" type="river">Isaya</location>, River of
+                        Doubt.</l>
                     <l>I doubt whether now-a-days</l>
                     <l>You, too, still think of me?</l>
                 </envoy>
@@ -593,6 +705,7 @@
 
         <p>
             <p_number>489</p_number>
+            <page>12</page>
             <person type="author" sex="female" role="princess">Princess Kagami</person>
             <lg>
                 <l>Even a breeze may fail me</l>
@@ -605,9 +718,11 @@
 
         <p>
             <p_number>496-497</p_number>
+            <page>51</page>
             <person type="author" sex="male" role="c_official">Kakinomoto Hitomaro</person>
-            <context>At the cremation of the <person type="mentioned" where="context" sex="female" role="unknown">maiden of Hijikata</person> on the hills of
-                    <location rg="jpn" type="town">Hatsuse</location>.</context>
+            <context>At the cremation of the <person type="mentioned" where="context" sex="female"
+                    role="unknown">maiden of Hijikata</person> on the hills of <location rg="jpn"
+                    type="town" lat="35.2" lon="139.633333">Hatsuse</location>.</context>
             <lg>
                 <l>Though my thoughts of her </l>
                 <l>Grow a hundredfold in my heart</l>
@@ -623,11 +738,15 @@
 
         <p>
             <p_number>500</p_number>
+            <page>66</page>
             <person type="author" sex="female" role="unknown">Wife of Go Dan-ochi</person>
-            <context>Composed during her husband <person type="mentioned" where="context" sex="male" role="unknown">Go Dan-ochi's</person> Journey to <location rg="jpn" type="city">Ise</location>.</context>
+            <context>Composed during her husband <person type="mentioned" where="context" sex="male"
+                    role="unknown">Go Dan-ochi's</person> Journey to <location rg="jpn"
+                    type="province" lat="34.48787" lon="136.26962">Ise</location>.</context>
             <lg>
                 <l>Breaking and spreading for a bed</l>
-                <l>The shore reeds of <location rg="jpn" type="city">Ise</location> of the Divine Wind,</l>
+                <l>The shore reeds of <location rg="jpn" type="province" lat="34.48787"
+                        lon="136.26962">Ise</location> of the Divine Wind,</l>
                 <l>Does he, my husband, sleep a traveller's sleep--</l>
                 <l>On that lonely rugged sea-coast?</l>
             </lg>
@@ -635,6 +754,7 @@
 
         <p>
             <p_number>506</p_number>
+            <page>115</page>
             <person type="author" sex="female" role="unknown">Lady Abe</person>
             <lg>
                 <l>Think not of things, my beloved!</l>
@@ -645,6 +765,7 @@
 
         <p>
             <p_number>514</p_number>
+            <page>115</page>
             <person type="author" sex="female" role="unknown">Lady Abe</person>
             <lg>
                 <l>My very soul, it seems,</l>
@@ -655,9 +776,12 @@
 
         <p>
             <p_number>521</p_number>
+            <page>239</page>
             <person type="author" sex="female" role="unknown">A Young Woman of Hitachi</person>
-            <context>To <person type="addressed" where="context" sex="male" role="unknown">Fujiwara Umakai</person> when he left the province for the <location rg="jpn" type="capital">capital</location> upon his transfer
-                to a new post.</context>
+            <context>To <person type="addressed" where="context" sex="male" role="unknown">Fujiwara
+                    Umakai</person> when he left the province for the capital,<location rg="jpn"
+                    type="city" lat="34.68509" lon="135.80500">Nara</location>,upon his transfer to
+                a new post.</context>
             <lg>
                 <l>Forget not, I pray, your Eastland girl</l>
                 <l>Who will be thinking of you always,</l>
@@ -668,10 +792,12 @@
 
         <p>
             <p_number>532</p_number>
+            <page>122</page>
             <person type="author" sex="male" role="c_official">Otomo Sukunamaro</person>
             <lg>
                 <l>She goes to the sun-bright palace;</l>
-                <l>Yet so dear to me is the <person type="mentioned" where="poem" sex="female" role="unknown">maiden</person>,</l>
+                <l>Yet so dear to me is the <person type="mentioned" where="poem" sex="female"
+                        role="unknown">maiden</person>,</l>
                 <l>It is heart-ache to keep her,</l>
                 <l>But despair to let her go.</l>
             </lg>
@@ -679,11 +805,15 @@
 
         <p>
             <p_number>549</p_number>
+            <page>260</page>
             <person type="author" sex="unknown" role="c_official">Anonymous</person>
-            <context>On bidding farewell at <location rg="jpn" type="town">Ashiki</location>,
-                    <location rg="jpn" type="province">Chikuzen</location>, to <person type="addressed" where="context" sex="male" role="city_official">Ishikawa Taruhito</person>, an official of the
-                    <location rg="jpn" type="city">Dazaifu</location>, transferred to a new post, in the first year of
-                Jinki (724).</context>
+            <context>On bidding farewell at <location rg="jpn" type="town" lat="33.72891"
+                    lon="130.55353">Ashiki</location>, <location rg="jpn" type="province"
+                    lat="33.72891" lon="130.55353">Chikuzen</location>, to <person type="addressed"
+                    where="context" sex="male" role="city_official">Ishikawa Taruhito</person>, an
+                official of the <location rg="jpn" type="city" lat="33.5128" lon="130.5239"
+                    >Dazaifu</location>, transferred to a new post, in the first year of Jinki
+                (724).</context>
             <lg>
                 <l>My friend, you are setting out</l>
                 <l>On a long, long journey--</l>
@@ -694,9 +824,12 @@
 
         <p>
             <p_number>557</p_number>
+            <page>197</page>
             <person type="author" sex="male" role="c_official">Hanishi Mitoshi</person>
-            <context>Composed at sea during his voyage from <location rg="jpn" type="province">Tsukushi</location> to the
-                <location rg="jpn" type="capital">capital</location>.</context>
+            <context>Composed at sea during his voyage from <location rg="jpn" type="province"
+                    lat="35.0681" lon="136.6067">Tsukushi</location> to the capital, <location
+                    rg="jpn" type="city" lat="34.68509" lon="135.80500"
+                >Fujiwara</location>.</context>
             <lg>
                 <l>As we go fast, rowing the huge ship,</l>
                 <l>Should she hit the rocks and overturn--</l>
@@ -707,6 +840,7 @@
 
         <p>
             <p_number>559-560</p_number>
+            <page>187</page>
             <person type="author" sex="male" role="m_official">Otomo Momoyo</person>
             <context>Love poems.</context>
             <lg>
@@ -725,11 +859,15 @@
 
         <p>
             <p_number>571</p_number>
+            <page>185</page>
             <person type="author" sex="male" role="m_official">Otomo Yotsuna</person>
-            <context>Composed when bidding farewell at the post town; of
-                <location rg="jpn" type="town">Ashiki</location>, <location rg="jpn" type="province">Chikuzen</location>, to <person type="addressed" where="context" sex="male" role="governor">Lord Otomo</person>, Governor-
-                General of the Dazaifu, who was appointed Grand Councillor of State and departed for
-                the <location rg="jpn" type="capital">capital</location>.</context>
+            <context>Composed when bidding farewell at the post town; of <location rg="jpn"
+                    type="town">Ashiki</location>, <location rg="jpn" type="province" lat="33.72891"
+                    lon="130.55353">Chikuzen</location>, to <person type="addressed" where="context"
+                    sex="male" role="governor">Lord Otomo</person>, Governor- General of the
+                Dazaifu, who was appointed Grand Councillor of State and departed for the
+                    capital,<location rg="jpn" type="city" lat="34.68509" lon="135.80500"
+                    >Nara</location>.</context>
             <lg>
                 <l>Beautiful is the moon-lit night,</l>
                 <l>And clear the voice of the river.</l>
@@ -740,9 +878,12 @@
 
         <p>
             <p_number>573</p_number>
+            <page>122</page>
             <person type="author" sex="male" role="monk">Manzei</person>
-            <context>Addressed by Manzei, the monk, to <person type="addressed" where="context" sex="male" role="governor">Lord Otomo</person>, Governor-General of the Dazaifu,
-                after his return to the <location rg="jpn" type="capital">capital</location>.</context>
+            <context>Addressed by Manzei, the monk, to <person type="addressed" where="context"
+                    sex="male" role="governor">Lord Otomo</person>, Governor-General of the Dazaifu,
+                after his return to the capital,<location rg="jpn" type="city" lat="34.68509"
+                    lon="135.80500">Nara</location>.</context>
             <lg>
                 <l> Even after my locks,</l>
                 <l> Black as the berries of pardanthus,</l>
@@ -754,11 +895,15 @@
 
         <p>
             <p_number>574</p_number>
+            <page>122</page>
             <person type="author" sex="male" role="m_official">Otomo Tabito</person>
-            <context>Reply to the Monk <person type="addressed" where="context" sex="male" role="monk">Manzei</person></context>
+            <context>Reply to the Monk <person type="addressed" where="context" sex="male"
+                    role="monk">Manzei</person> from the capital <location rg="jpn" type="city"
+                    lat="34.68509" lon="135.80500">Nara</location></context>
             <lg>
-                <l>Here in the <location rg="jpn" type="capital">capital</location> I wonder</l>
-                <l>Where may be your land of <location rg="jpn" type="town">Tsukushi</location>--</l>
+                <l>Here in the capital I wonder</l>
+                <l>Where may be your land of <location rg="jpn" type="town" lat="35.0681"
+                        lon="136.6067">Tsukushi</location>--</l>
                 <l>It must lie, alas! my friend,</l>
                 <l>Far beyond the mountains</l>
                 <l>Where white clouds hover.</l>
@@ -767,8 +912,10 @@
 
         <p>
             <p_number>594</p_number>
+            <page>106</page>
             <person type="author" sex="female" role="unknown">Lady Kasa</person>
-            <context>To <person type="addressed" where="context" sex="male" role="c_official">Otomo Yakamochi</person>.</context>
+            <context>To <person type="addressed" where="context" sex="male" role="c_official">Otomo
+                    Yakamochi</person>.</context>
             <lg>
                 <l>In the loneliness of my heart </l>
                 <l>I feel as if I should perish</l>
@@ -780,6 +927,7 @@
 
         <p>
             <p_number>596</p_number>
+            <page>106</page>
             <person type="author" sex="female" role="unknown">Lady Kasa</person>
             <lg>
                 <l>Even the sands uncounted of a long beach</l>
@@ -792,17 +940,20 @@
 
         <p>
             <p_number>600</p_number>
+            <page>107</page>
             <person type="author" sex="female" role="unknown">Lady Kasa</person>
             <lg>
                 <l>Oh how steadily I love you--</l>
                 <l>You who awe me</l>
                 <l>Like the thunderous waves</l>
-                <l>That lash the sea-coast of <location rg="jpn" type="city">Ise</location>!</l>
+                <l>That lash the sea-coast of <location rg="jpn" type="province" lat="34.48787"
+                        lon="136.26962">Ise</location>!</l>
             </lg>
         </p>
 
         <p>
             <p_number>602-605</p_number>
+            <page>107</page>
             <person type="author" sex="female" role="unknown">Lady Kasa</person>
             <lg>
                 <l>More sad thoughts crowd into my mind</l>
@@ -830,6 +981,7 @@
 
         <p>
             <p_number>607-608</p_number>
+            <page>107-108</page>
             <person type="author" sex="female" role="unknown">Lady Kasa</person>
             <lg>
                 <l>The bells are tolling, </l>
@@ -846,8 +998,10 @@
 
         <p>
             <p_number>632</p_number>
+            <page>86</page>
             <person type="author" sex="male" role="prince">Prince Yuhara</person>
-            <context>Addressed to a <person type="addressed" where="context" sex="female" role="unknown">young woman</person>.</context>
+            <context>Addressed to a <person type="addressed" where="context" sex="female"
+                    role="unknown">young woman</person>.</context>
             <lg>
                 <l>What can I do with you--</l>
                 <l>You who so resemble</l>
@@ -859,8 +1013,10 @@
 
         <p>
             <p_number>650</p_number>
+            <page>187</page>
             <person type="author" sex="male" role="governor">Otomo Miyori</person>
-            <context>On again meeting a <person type="addressed" where="context" sex="female" role="unknown">lady</person>.</context>
+            <context>On again meeting a <person type="addressed" where="context" sex="female"
+                    role="unknown">lady</person>.</context>
             <lg>
                 <l>You seem to have lived, my lady,</l>
                 <l>In the Land of Eternity.</l>
@@ -872,8 +1028,10 @@
 
         <p>
             <p_number>670</p_number>
+            <page>87</page>
             <person type="author" sex="male" role="prince">Prince Yuhara</person>
-            <context>To <person type="addressed" where="context" sex="unknown" role="unknown">Anonymous</person> person</context>
+            <context>To <person type="addressed" where="context" sex="unknown" role="unknown"
+                    >Anonymous</person> person</context>
             <lg>
                 <l>By the light of the Moon God</l>
                 <l>Come to me, dear heart!</l>
@@ -884,8 +1042,10 @@
 
         <p>
             <p_number>671</p_number>
+            <page>87</page>
             <person type="author" sex="unknown" role="unknown">Anonymous</person>
-            <context>Reply to <person type="addressed" where="context" sex="male" role="prince">Prince Yuhara</person></context>
+            <context>Reply to <person type="addressed" where="context" sex="male" role="prince"
+                    >Prince Yuhara</person></context>
             <lg>
                 <l>Though clear and bright</l>
                 <l>The Moon God lights the way,</l>
@@ -896,8 +1056,10 @@
 
         <p>
             <p_number>709</p_number>
+            <page>238</page>
             <person type="author" sex="female" role="unknown">Oyakeme</person>
-            <context>a Young Woman of <location rg="jpn" type="city">Buzen</location></context>
+            <context>a Young Woman of <location rg="jpn" type="province" lat="33.60547"
+                    lon="131.00946">Buzen</location></context>
             <lg>
                 <l>In the twilight darkness</l>
                 <l>Indistinguishable is the road.</l>
@@ -909,6 +1071,7 @@
 
         <p>
             <p_number>710</p_number>
+            <page>238</page>
             <person type="author" sex="female" role="unknown">Ato Tobira</person>
             <context>a Young Woman</context>
             <lg>
@@ -921,6 +1084,7 @@
 
         <p>
             <p_number>711</p_number>
+            <page>238</page>
             <person type="author" sex="female" role="unknown">Taniha Ome</person>
             <context>a Young Woman</context>
             <lg>
@@ -934,8 +1098,10 @@
 
         <p>
             <p_number>718-719</p_number>
+            <page>134</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
-            <context>Addressed to a <person type="addressed" where="context" sex="female" role="unknown">young woman</person></context>
+            <context>Addressed to a <person type="addressed" where="context" sex="female"
+                    role="unknown">Young Woman</person></context>
             <lg>
                 <l>Having seen your smile </l>
                 <l>In a dream by chance,</l>
@@ -951,8 +1117,10 @@
 
         <p>
             <p_number>722</p_number>
+            <page>134</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
-            <context>Addressed to a <person type="addressed" where="context" sex="female" role="unknown">young woman</person></context>
+            <context>Addressed to a <person type="addressed" where="context" sex="female"
+                    role="unknown">Young Woman</person></context>
             <lg>
                 <l>Rather than that I should thus pine</l>
                 <l>for you,</l>
@@ -964,8 +1132,10 @@
 
         <p>
             <p_number>728</p_number>
+            <page>134</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
-            <context>To <person type="addressed" where="context" sex="female" role="wife">Lady Otomo of Sakanoe's Elder Daughter</person>.</context>
+            <context>To <person type="addressed" where="context" sex="female" role="wife">Lady Otomo
+                    of Sakanoe's Elder Daughter</person>.</context>
             <lg>
                 <l>Would there were a land</l>
                 <l>Uninhabited by man!</l>
@@ -976,8 +1146,11 @@
 
         <p>
             <p_number>731</p_number>
-            <person type="author" sex="female" role="wife">Lady Otomo of Sakanoe's Elder Daughter</person>
-            <context>To <person type="addressed" where="context" sex="male" role="c_official">Otomo Yakamochi</person>.</context>
+            <page>184</page>
+            <person type="author" sex="female" role="wife">Lady Otomo of Sakanoe's Elder
+                Daughter</person>
+            <context>To <person type="addressed" where="context" sex="male" role="c_official">Otomo
+                    Yakamochi</person>.</context>
             <lg>
                 <l>What do I care if my name</l>
                 <l>Be on the tongues</l>
@@ -989,8 +1162,10 @@
 
         <p>
             <p_number>741</p_number>
+            <page>135</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
-            <context>To <person type="addressed" where="context" sex="female" role="wife">Lady Otomo of Sakanoe's Elder Daughter</person>.</context>
+            <context>To <person type="addressed" where="context" sex="female" role="wife">Lady Otomo
+                    of Sakanoe's Elder Daughter</person>.</context>
             <lg>
                 <l>What pain and distress</l>
                 <l>A dream tryst brings!</l>
@@ -1003,6 +1178,7 @@
     <book num="VIII">
         <p>
             <p_number>1418</p_number>
+            <page>21</page>
             <person type="author" sex="male" role="prince">Prince Shiki</person>
             <context>A song of joy</context>
             <lg>
@@ -1014,6 +1190,7 @@
 
         <p>
             <p_number>1424</p_number>
+            <page>196</page>
             <person type="author" sex="male" role="emp_companion">Yamabe Akahito</person>
             <lg>
                 <l>Forth to the field of spring </l>
@@ -1025,6 +1202,7 @@
 
         <p>
             <p_number>1427</p_number>
+            <page>196</page>
             <person type="author" sex="male" role="emp_companion">Yamabe Akahito</person>
             <lg>
                 <l>It snowed yesterday--</l>
@@ -1036,10 +1214,12 @@
 
         <p>
             <p_number>1435</p_number>
+            <page>91</page>
             <person type="author" sex="male" role="prince">Prince Atsumi</person>
             <lg>
                 <l>Mirrored in the waters of the</l>
-                <l><location rg="jpn" type="river">Kamunabi River</location>,</l>
+                <l><location rg="jpn" type="river" lat="34.467" lon="135.817">Kamunabi
+                        River</location>,</l>
                 <l>Where the song-frogs call,</l>
                 <l>Do they bloom now—</l>
                 <l>those flowers of the yellow</l>
@@ -1049,25 +1229,32 @@
 
         <p>
             <p_number>1442</p_number>
+            <page>95</page>
             <person type="author" sex="male" role="official">Tajihi Yanushi</person>
             <lg>
-                <l>Her husband is gone towards <location rg="jpn" type="district">Naniwa</location>;</l>
-                <l>Pity it is to see a <person type="mentioned" where="poem" sex="female" role="wife">young wife</person>,</l>
+                <l>Her husband is gone towards <location rg="jpn" type="city" lat="34.6937"
+                        lon="135.5022">Naniwa</location>;</l>
+                <l>Pity it is to see a <person type="mentioned" where="poem" sex="female"
+                        role="wife">young wife</person>,</l>
                 <l>Left gathering spring herbs!</l>
             </lg>
         </p>
 
         <p>
             <p_number>1453-1455</p_number>
+            <page>103</page>
             <person type="author" sex="male" role="emp_companion">Kasa Kanamura</person>
-            <context>Addressed to an <person type="addressed" where="context" sex="unknown" role="envoy">envoy</person> departing for <location rg="foreign" type="china">China</location>, in spring, in
-                the third month intercalary of the fifth year of Tempyo</context>
+            <context>Addressed to an <person type="addressed" where="context" sex="unknown"
+                    role="envoy">envoy</person> departing for <location rg="foreign" type="china"
+                    lat="35.8617" lon="104.1954">China</location>, in spring, in the third month
+                intercalary of the fifth year of Tempyo</context>
             <lg>
                 <l>You who are constantly on my mind,</l>
                 <l>And dear to me as the breath of life—</l>
                 <l>You depart in obedience to the imperial command,</l>
-                <l>From the <location rg="jpn" type="coast">cape of Mitsu</location> in <location rg="jpn" type="district">Naniwa
-                    Bay</location>,</l>
+                <l>From the cape of <location rg="jpn" type="coast" lat="34.6937" lon="135.50218"
+                        >Mitsu</location> in <location rg="jpn" type="city" lat="34.6937"
+                        lon="135.5022">Naniwa</location> Bay,</l>
                 <l>Where in the evening the cranes call to their mates.</l>
                 <l>You will board a great ship, full-oared,</l>
                 <l>And sail away past many an island</l>
@@ -1090,8 +1277,10 @@
 
         <p>
             <p_number>1456</p_number>
+            <page>112</page>
             <person type="author" sex="male" role="official">Fujiwara Hirotsugu</person>
-            <context>Poem sent with cherry-flowers to a <person type="addressed" where="context" sex="female" role="unknown">young Lady</person></context>
+            <context>Poem sent with cherry-flowers to a <person type="addressed" where="context"
+                    sex="female" role="unknown">young Lady</person></context>
             <lg>
                 <l>Slight not these flowers!</l>
                 <l>Each single petal contains</l>
@@ -1101,8 +1290,10 @@
 
         <p>
             <p_number>1457</p_number>
+            <page>112</page>
             <person type="author" sex="female" role="unknown">Young Lady</person>
-            <context>Reply by the young lady to <person type="addressed" where="context" sex="male" role="official">Fujiwara Hirotsugu</person>.</context>
+            <context>Reply by the young lady to <person type="addressed" where="context" sex="male"
+                    role="official">Fujiwara Hirotsugu</person>.</context>
             <lg>
                 <l>Were these flowers broken off,</l>
                 <l>Unable to hold in each petal</l>
@@ -1112,6 +1303,7 @@
 
         <p>
             <p_number>1460</p_number>
+            <page>181</page>
             <person type="author" sex="female" role="consort">Lady Ki</person>
             <lg>
                 <l>Pour your sake, O slave,</l>
@@ -1123,6 +1315,7 @@
 
         <p>
             <p_number>1461</p_number>
+            <page>181</page>
             <person type="author" sex="female" role="consort">Lady Ki</person>
             <lg>
                 <l>The silk-tree that blooms in daytime</l>
@@ -1134,6 +1327,7 @@
 
         <p>
             <p_number>1479</p_number>
+            <page>135</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
             <context>On the cicadas.</context>
             <lg>
@@ -1145,6 +1339,7 @@
 
         <p>
             <p_number>1491</p_number>
+            <page>135</page>
             <person type="author" sex="male" role="c_official">Otomo Yakamochi</person>
             <context>On the cuckoo.</context>
             <lg>
@@ -1157,6 +1352,7 @@
 
         <p>
             <p_number>1500</p_number>
+            <page>127</page>
             <person type="author" sex="female" role="wife">Lady Otomo of Sakanoe</person>
             <lg>
                 <l>Oh, the pain of my love that you</l>
@@ -1168,6 +1364,7 @@
 
         <p>
             <p_number>1552</p_number>
+            <page>87</page>
             <person type="author" sex="male" role="prince">Prince Yuhara</person>
             <context>On crickets.</context>
             <lg>
@@ -1180,8 +1377,10 @@
 
         <p>
             <p_number>1622</p_number>
+            <page>129</page>
             <person type="author" sex="female" role="daughter">Lady Otomo of Tamura</person>
-            <context>To her sister, <person type="addressed" where="context" sex="female" role="wife">Lady Otomo of Sakanoe’s Elder Daughter</person>.</context>
+            <context>To her sister, <person type="addressed" where="context" sex="female"
+                    role="wife">Lady Otomo of Sakanoe's Elder Daughter</person>.</context>
             <lg>
                 <l>At home the hagi flowers of autumn</l>
                 <l>Are abloom in the evening glow—</l>
@@ -1192,8 +1391,10 @@
 
         <p>
             <p_number>1656</p_number>
+            <page>128</page>
             <person type="author" sex="female" role="wife">Lady Otomo of Sakanoe</person>
-            <context>To <person type="addressed" where="context" sex="unknown" role="unknown">Anonymous</person></context>
+            <context>To <person type="addressed" where="context" sex="unknown" role="unknown"
+                    >Anonymous</person></context>
             <lg>
                 <l>After we, dear friends, have drunk</l>
                 <l>together,</l>
@@ -1204,8 +1405,10 @@
 
         <p>
             <p_number>1657</p_number>
+            <page>129</page>
             <person type="author" sex="unknown" role="unknown">Anonymous</person>
-            <context>Reply to <person type="addressed" where="context" sex="female" role="wife">Lady Otomo of Sakanoe</person></context>
+            <context>Reply to <person type="addressed" where="context" sex="female" role="wife">Lady
+                    Otomo of Sakanoe</person></context>
             <lg>
                 <l>The law allows our feasting;</l>
                 <l>Are we to drink the wine this one night only?</l>
@@ -1215,8 +1418,10 @@
 
         <p>
             <p_number>1658</p_number>
+            <page>84</page>
             <person type="author" sex="female" role="empress">Empress Komyo</person>
-            <context>To the <person type="addressed" where="context" sex="male" role="emperor">Emperor Shomu</person>.</context>
+            <context>To the <person type="addressed" where="context" sex="male" role="emperor"
+                    >Emperor Shomu</person>.</context>
             <lg>
                 <l>How gladdening would be this falling snow,</l>
                 <l>Could I but watch with you, my husband!</l>
