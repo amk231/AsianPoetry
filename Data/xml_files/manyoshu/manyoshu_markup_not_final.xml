@@ -463,7 +463,7 @@
             <context>On leaving his <person type="mentioned" where="context" sex="female"
                     role="unknown">wife</person> as he set out from <location rg="jpn"
                     type="province" lat="34.67482" lon="131.84286">Iwami</location> for the
-                    capital<location rg="jpn" type="city" lat="" lon="">Heian</location>.</context>
+                capital<location rg="jpn" type="city" lat="35.0116363" lon="135.7680294">Heian</location>.</context>
             <lg>
                 <l>Along the coast of <location rg="jpn" type="unknown" lat="35.58302"
                         lon="132.28540">Tsunu</location></l>
