@@ -1,0 +1,14 @@
+My first step was to get rid of the text that was not a part of the Sonnet by highlighting and deleting.
+I then sought out to remove the unnecesary white spaces at the beginning and between stanzas by finding 
+^\s+ the first whitespace characters and replacing them with nothing. I then began to add in lines by 
+searching ^(.+) and replacing it with <line>\1</line>. This did add line elements around the title, author,
+and roman numerals which I removed manually (I could not figure out how to find the roman numeral with the 
+exhisting <line> element). I next wanted to add the sonnet number in through finding the roman numerals.
+Because they each had a line of their own I was able to find them through the use of character classes looking
+like this: [IXVL]+ and replaced it with </sonnet_number>\n<sonnet_number sn= "\1">\n to indicate the end tag 
+is followed by a new line and then the start tag of the new roman numeral followed by another new line. I 
+then began to remove the unwanted sonnet number elements from the beginning of the document such as those 
+around title and author which I manually made into elements <title> and <author>. I then added the root element
+<Shakespeare_collection> at very beginning and end of the document.I saved the file as a .xml and reopened 
+it as an XML document which allerted me to a few mistakes including the necessary " in my roman numeral attribute.
+Once I adjected that the XML version was well formed.     
