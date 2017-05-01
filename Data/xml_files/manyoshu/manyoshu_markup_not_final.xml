@@ -243,7 +243,7 @@
                 <l>Our great Sovereign who rules in peace,</l>
                 <l>Offspring of the Bright One on high,</l>
                 <l>Has begun to build her Palace</l>
-                <l>On the plain of <location rg="jpn" type="plain" lat="" lon=""
+                <l>On the plain of <location rg="jpn" type="plain" 
                     >Fuji</location>;</l>
                 <l>And standing on the dyke of <location rg="jpn" type="lake">Lake
                         Haniyasu</location></l>
@@ -286,8 +286,8 @@
             <lg>
                 <l>Come, my men, let us hasten to <location rg="jpn" type="province" lat="34.01624"
                         lon="135.76654">Yamato</location>!</l>
-                <l>The shore pines on <location rg="jpn" type="coast" lat="" lon="">Mitsu</location>
-                    of <location rg="jpn" type="unknown" lat="" lon="">Otomo</location></l>
+                <l>The shore pines on <location rg="jpn" type="coast">Mitsu</location>
+                    of <location rg="jpn" type="unknown">Otomo</location></l>
                 <l>Must wait and long for us.</l>
             </lg>
         </p>
